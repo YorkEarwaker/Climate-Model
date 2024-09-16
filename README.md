@@ -27,6 +27,10 @@ Note.
 * < todo: consider another term other than conserving; sustaining as in sustainability, preserving, maintaining, managing as in steady state, >
 
 References
+
+Terms
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
-* 
+
+Reports
+* Climate Scorpion – the sting is in the tail, Introducing planetary solvency, March 2024, Sandy Trust, Oliver Bettis, Lucy Saye, Georgina Bedenham, Timothy M. Lenton, Jesse F. Abrams, Luke Kemp, © Institute and Faculty of Actuaries © University of Exeter, [PDF](https://actuaries.org.uk/media/g1qevrfa/climate-scorpion.pdf)
