@@ -20,7 +20,8 @@ If A then B
 C = Conserving civilisation
 
 Note. 
-* Gatekeeping material reality is a process every person must participate in. Gatekeeping is not an elite activity it is the basis of democracy.
+* Gatekeeping material reality is a process every person must participate in.
+* Gatekeeping is not an elite activity it is the basis of democracy.
 * Not sure conserving is the right word. As in conservation work. < todo: consider another term >
 
 References
