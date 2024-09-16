@@ -13,7 +13,7 @@ If A then B
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
 | F | F | F | |
-| F | T | T | vacous truth |
+| F | T | T | vacuous truth |
 | T | F | F | |
 | T | T | T | 
 
@@ -26,5 +26,5 @@ Note.
 
 References
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
-* Vacous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
+* Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 * 
