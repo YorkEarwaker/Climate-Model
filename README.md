@@ -23,7 +23,8 @@ Note.
 * Gatekeeping material reality is a process every person must participate in.
 * Gatekeeping is not an elite activity.
 * Gatekeeping as mass participation is the basis of democracy.
-* Not sure conserving is the right word. As in conservation work. < todo: consider another term >
+* Conserving as in conservation work.
+* < todo: consider another term other than conserving; preserving, maintaining, managing as in steady state, >
 
 References
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
