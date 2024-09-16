@@ -24,6 +24,6 @@ Note.
 * Not sure conserving is the right word. As in conservation work. < todo: consider another term >
 
 References
-* Materail conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
+* Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
 * Vacous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 * 
