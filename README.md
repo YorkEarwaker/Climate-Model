@@ -24,7 +24,7 @@ Note.
 * Gatekeeping is not an elite activity.
 * Gatekeeping as mass participation is the basis of democracy.
 * Conserving as in conservation work.
-* < todo: consider another term other than conserving; preserving, maintaining, managing as in steady state, >
+* < todo: consider another term other than conserving; sustaining as in sustainability, preserving, maintaining, managing as in steady state, >
 
 References
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
