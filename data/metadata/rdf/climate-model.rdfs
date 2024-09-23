@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xml:base="http://anthropogenicglobalwarming.com/climate-model#">
+	
+	<rdf:Description rdf:ID="solar-system">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="sol">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="solar-system"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="heliosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#sol"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="interplanetary-medium">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#solar-system"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="planetary-system">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#solar-system"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="planet">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planetary-system"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="atmosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planet"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="ocean">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planet"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="lithosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planet"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="earth">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planet"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="earths-atmosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#atmosphere"/>
+		<rdfs:subClassOf rdf:resource="#earth"/>
+	</rdf:Description>
+
+	<rdf:Description rdf:ID="exosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="thermosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="mesosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="stratosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="troposphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+</rdf:RDF>
