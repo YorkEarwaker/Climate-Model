@@ -1,9 +1,9 @@
 # ##
-The .rdfs file parsed on the
+The .rdfs and .rdf files parsed on the
 https://www.w3.org/RDF/Validator/
 
 # ##
-Climate Model metadata 
+AGW Climate Model rdf metadata 
 
 # ##
 Climate Model rdf schema

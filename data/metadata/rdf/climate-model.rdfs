@@ -5,6 +5,32 @@
 	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 	xml:base="http://anthropogenicglobalwarming.com/climate-model#">
 	
+	<rdf:Description rdf:ID="physics">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="boundary">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#physics"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="surface">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#physics"/>
+		<rdfs:subClassOf rdf:resource="#boundary"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="layer">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#physics"/>
+		<rdfs:subClassOf rdf:resource="#boundary"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="circulation">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#physics"/>
+	</rdf:Description>
+	
 	<rdf:Description rdf:ID="solar-system">
 		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
 	</rdf:Description>
@@ -34,6 +60,23 @@
 		<rdfs:subClassOf rdf:resource="#planetary-system"/>
 	</rdf:Description>
 	
+	<rdf:Description rdf:ID="planetary-surface">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planet"/>
+		<rdfs:subClassOf rdf:resource="#surface"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="ocean-surface">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#ocean"/>
+		<rdfs:subClassOf rdf:resource="#planetary-surface"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="crust">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#planetary-surface"/>
+	</rdf:Description>
+	
 	<rdf:Description rdf:ID="atmosphere">
 		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
 		<rdfs:subClassOf rdf:resource="#planet"/>
@@ -59,7 +102,24 @@
 		<rdfs:subClassOf rdf:resource="#atmosphere"/>
 		<rdfs:subClassOf rdf:resource="#earth"/>
 	</rdf:Description>
-
+	
+	<rdf:Description rdf:ID="earths-ocean">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#ocean"/>
+		<rdfs:subClassOf rdf:resource="#earth"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="earths-lithosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#lithosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="earths-crust">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#crust"/>
+		<rdfs:subClassOf rdf:resource="#earths-lithosphere"/>
+	</rdf:Description>
+	
 	<rdf:Description rdf:ID="exosphere">
 		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
 		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
@@ -80,9 +140,32 @@
 		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
 	</rdf:Description>
 	
+	<rdf:Description rdf:ID="tropopause">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
 	<rdf:Description rdf:ID="troposphere">
 		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
 		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="peplosphere">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#earths-atmosphere"/>
+		<rdfs:subClassOf rdf:resource="#troposphere"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="atmospheric-circulation">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#atmosphere"/>
+		<rdfs:subClassOf rdf:resource="#circulation"/>
+	</rdf:Description>
+	
+	<rdf:Description rdf:ID="ocean-circulation">
+		<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+		<rdfs:subClassOf rdf:resource="#ocean"/>
+		<rdfs:subClassOf rdf:resource="#circulation"/>
 	</rdf:Description>
 	
 </rdf:RDF>
