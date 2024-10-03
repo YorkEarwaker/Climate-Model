@@ -4,7 +4,7 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
 	
-	<rdf:Description rdf:about="http://www.anthropogenicglobalwarming.com">
+	<rdf:Description rdf:about="http://www.anthropogenicglobalwarming.org">
 		<dc:description>Simple Climate Model</dc:description>
 		<dc:publisher>York Earwaker</dc:publisher>
 		<dc:date>2024-09-23</dc:date>
