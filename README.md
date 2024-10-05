@@ -12,10 +12,10 @@ If A then B
 
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
-| F | F | F | |
-| F | T | T | vacuous truth |
+| T | T | T | |
 | T | F | F | |
-| T | T | T | 
+| F | T | T | vacuous truth |
+| F | F | T | 
 
 C = Conserving civilisation
 
@@ -30,6 +30,7 @@ References
 
 Terms
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
+* Modes Ponens. [WP}(https://en.wikipedia.org/wiki/Modus_ponens)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 Reports
