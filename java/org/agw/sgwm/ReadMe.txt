@@ -7,3 +7,6 @@ Python - in the second case, see py/org/agw/sgwm
 Cpp - in the third case, see cpp/org/agw/sgwm
 
 Others programming languages as needed.
+
+<todo: slf4j for logging>
+<todo: junit for unit tests>
