@@ -28,6 +28,9 @@ Note.
 
 References
 
+Formal semantics, linguistics
+* Conditional sentence, [WP](https://en.wikipedia.org/wiki/Conditional_sentence)
+
 Logic
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
 * Material conditional (rule of inference) [WP](https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference))
