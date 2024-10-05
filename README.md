@@ -12,10 +12,10 @@ If A then B
 
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
-| T | T | T | |
+| T | T | T | modes ponens |
 | T | F | F | |
 | F | T | T | vacuous truth |
-| F | F | T | 
+| F | F | T | modes tollens |
 
 C = Conserving civilisation
 
@@ -30,6 +30,7 @@ References
 
 Terms
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
+* Material conditional (rule of inference) [WP](https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference))
 * Modes Ponens, [WP](https://en.wikipedia.org/wiki/Modus_ponens)
 * Modes Tollens, [WP](https://en.wikipedia.org/wiki/Modus_tollens)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
