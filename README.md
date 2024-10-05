@@ -28,12 +28,18 @@ Note.
 
 References
 
-Terms
+Logic
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
 * Material conditional (rule of inference) [WP](https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference))
-* Modes Ponens, [WP](https://en.wikipedia.org/wiki/Modus_ponens)
-* Modes Tollens, [WP](https://en.wikipedia.org/wiki/Modus_tollens)
+* Modes ponens, [WP](https://en.wikipedia.org/wiki/Modus_ponens)
+* Modes tollens, [WP](https://en.wikipedia.org/wiki/Modus_tollens)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
+
+Mathematical Logic
+* Sequent, not sure about this depends on author, 
+
+Digitl logical gate
+* Impy gate, [WP](https://en.wikipedia.org/wiki/IMPLY_gate)
 
 Reports
 * Climate Scorpion – the sting is in the tail, Introducing planetary solvency, March 2024, Sandy Trust, Oliver Bettis, Lucy Saye, Georgina Bedenham, Timothy M. Lenton, Jesse F. Abrams, Luke Kemp, © Institute and Faculty of Actuaries © University of Exeter, [PDF](https://actuaries.org.uk/media/g1qevrfa/climate-scorpion.pdf)
