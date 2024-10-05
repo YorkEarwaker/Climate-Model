@@ -30,7 +30,7 @@ References
 
 Terms
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
-* Modes Ponens. [WP}(https://en.wikipedia.org/wiki/Modus_ponens)
+* Modes Ponens. [WP](https://en.wikipedia.org/wiki/Modus_ponens)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 Reports
