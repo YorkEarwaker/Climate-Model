@@ -13,7 +13,7 @@ If A then B
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
 | T | T | T | modes ponens |
-| T | F | F | |
+| T | F | F | common sense? |
 | F | T | T | vacuous truth |
 | F | F | T | modes tollens |
 
