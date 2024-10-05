@@ -10,7 +10,7 @@ B = Safeguarding people
 
 C = Conserving civilisation
 
-If A then B - logic, material implication
+If A then B - logic, material conditional
 
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
