@@ -21,12 +21,12 @@ If A then B - logic, material conditional
 
 If A then B - digital logic, imply gate
 
-| A | B | A -> B | comment |
-| :-: | :-: | :-: | :---- |
-| 0 | 0 | 1 | |
-| 0 | 1 | 1 | |
-| 1 | 0 | 0 | |
-| 1 | 1 | 1 | |
+| A | B | A -> B |
+| :-: | :-: | :-: |
+| 0 | 0 | 1 |
+| 0 | 1 | 1 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
 
 Note. 
 * Gatekeeping material reality is a process every person must participate in.
