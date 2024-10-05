@@ -37,6 +37,11 @@ Note.
 
 References
 
+Management
+* Decision making, [WP](https://en.wikipedia.org/wiki/Decision-making)
+* Forcasting, WP
+* Leadership, WP
+
 Formal semantics, linguistics
 * Conditional sentence, [WP](https://en.wikipedia.org/wiki/Conditional_sentence)
 
