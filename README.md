@@ -8,16 +8,25 @@ A = Gatekeeping material reality
 
 B = Safeguarding people
 
-If A then B
+C = Conserving civilisation
+
+If A then B - logic, material implication
 
 | A | B | A -> B | comment |
 | :-: | :-: | :-: | :---- |
-| T | T | T | modes ponens |
-| T | F | F | common sense? |
-| F | T | T | vacuous truth |
 | F | F | T | modes tollens |
+| F | T | T | vacuous truth |
+| T | F | F | common sense? |
+| T | T | T | modes ponens |
 
-C = Conserving civilisation
+If A then B - digital logic, imply gate
+
+| A | B | A -> B | comment |
+| :-: | :-: | :-: | :---- |
+| 0 | 0 | 1 | |
+| 0 | 1 | 1 | |
+| 1 | 0 | 0 | |
+| 1 | 1 | 1 | |
 
 Note. 
 * Gatekeeping material reality is a process every person must participate in.
