@@ -30,6 +30,8 @@ If A then B - digital logic, imply gate
 
 What matters in this case is material reality. What is actually the case. What is the evidence, derived from the disinterested application of the scientific method, as facts of actuality. That is what is the disinterested scientific evidence regarding the facts of material reality. That is both valid and sound. That is facts that are materially conditional in gatekeeping material reality. That is gatekeeping material reality is conditional, a prerquisite, for safeguarding people. So that gatekeeping material reality and safeguarging people is conditional, a prerequisite, for conserving civilisation.
 
+Forcasting based on past empirical evidence that is on a posteriori knowledge. Forcasting that is materially conditional in decision making bounded by gatekeeping material reality. Steady state management is conditional on forcasting for decsion making bounded by gatekeeping material reality. 
+
 Note. 
 * Gatekeeping material reality is a process every person must participate in.
 * Gatekeeping is not an elite activity.
