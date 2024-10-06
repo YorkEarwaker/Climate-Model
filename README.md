@@ -55,7 +55,7 @@ Logic
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 Mathematical Logic
-* Sequent, not sure about this depends on author, 
+* Sequent, not sure about this depends on author, Lemmon perhaps?
 
 Digitl logical gate
 * Impy gate, [WP](https://en.wikipedia.org/wiki/IMPLY_gate)
