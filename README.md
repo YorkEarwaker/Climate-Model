@@ -46,8 +46,10 @@ Formal semantics, linguistics
 * Conditional sentence, [WP](https://en.wikipedia.org/wiki/Conditional_sentence)
 
 Logic
+* Conditional proof, [WP](https://en.wikipedia.org/wiki/Conditional_proof)
 * Material conditional, [WP](https://en.wikipedia.org/wiki/Material_conditional)
-* Material conditional (rule of inference) [WP](https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference))
+* Material conditional (rule of inference), [WP](https://en.wikipedia.org/wiki/Material_implication_(rule_of_inference))
+* Material implication, WP
 * Modes ponens, [WP](https://en.wikipedia.org/wiki/Modus_ponens)
 * Modes tollens, [WP](https://en.wikipedia.org/wiki/Modus_tollens)
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
