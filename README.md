@@ -55,9 +55,10 @@ Logic
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 Mathematical Logic
+* Boolean algebra (boolan logic) [WP](https://en.wikipedia.org/wiki/Boolean_algebra), 
 * Sequent, not sure about this depends on author, Lemmon perhaps?
 
-Digital logic gate
+Digital logic gate, applied boolean algebra logic
 * Impy gate, [WP](https://en.wikipedia.org/wiki/IMPLY_gate)
 
 Reports
