@@ -28,6 +28,8 @@ If A then B - digital logic, imply gate
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
+What matters in this case is material reality. What is actually the case. What is the evidence, derived from the disinterested application of the scientific method, as facts of actuality. That is what is the diinterested scientific evidence regarding the facts of material reality. That is both valid and sound. That is facts that are materially conditional in gatekeeping material reality. That is gatekeeping material reality is conditional, a prerquisite, for safeguarding people. So that gatekeeping material reality and safeguarging people is conditional, a prerequisite, for conserving civilisation.
+
 Note. 
 * Gatekeeping material reality is a process every person must participate in.
 * Gatekeeping is not an elite activity.
