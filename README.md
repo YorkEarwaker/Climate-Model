@@ -57,7 +57,7 @@ Logic
 Mathematical Logic
 * Sequent, not sure about this depends on author, Lemmon perhaps?
 
-Digitl logical gate
+Digital logic gate
 * Impy gate, [WP](https://en.wikipedia.org/wiki/IMPLY_gate)
 
 Reports
