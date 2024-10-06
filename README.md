@@ -59,7 +59,9 @@ Logic
 * Vacuous truth, [WP](https://en.wikipedia.org/wiki/Vacuous_truth)
 
 Mathematical Logic
-* Boolean algebra (boolan logic) [WP](https://en.wikipedia.org/wiki/Boolean_algebra), 
+* Boolean algebra (boolan logic) [WP](https://en.wikipedia.org/wiki/Boolean_algebra),
+* Model, sematic cosequence
+* Proof, sintactic consequece
 * Sequent, not sure about this depends on author, Lemmon perhaps?
 
 Digital logic gate, applied boolean algebra logic
