@@ -39,7 +39,16 @@ Note.
 * Conserving as in conservation work.
 * < todo: consider another term other than conserving; sustaining as in sustainability, preserving, maintaining, managing as in steady state, >
 
-References
+## Status
+
+TODO
+* <todo: select first project, consider extreme weather attribution (Imperial), >
+
+DONE
+* <done: first iteration readme, >
+* <done: first iteration repository wiki, >
+
+## References
 
 Management
 * Decision making, [WP](https://en.wikipedia.org/wiki/Decision-making)
