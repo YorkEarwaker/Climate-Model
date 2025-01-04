@@ -1,6 +1,8 @@
 # Extreme event attribution
 
-Extreme weather event attribution as they occure. Past event attribution to out of holocine climate conditions at the time. 
+Extreme weather event attribution as they occure in the present. Past event attribution to out of holocine climate conditions at the time. 
+
+An attempt toward some means of automation. 
 
 ## Status
 
