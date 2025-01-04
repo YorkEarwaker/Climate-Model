@@ -43,6 +43,7 @@ Note.
 
 TODO
 * <todo: select first project, consider extreme weather attribution (Imperial), >
+* <todo: delete old java code directory structure, refactore as module based, for seperate code bases, >
 
 DONE
 * <done: first iteration readme, >
