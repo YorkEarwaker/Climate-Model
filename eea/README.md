@@ -1,6 +1,6 @@
 # Extreme event attribution
 
-Extreme weather event attribution as they occure in the present. Past event attribution to out of holocine climate conditions at the time. Predition of future extreme weather event pridiciton on scenario conditions. Prediction of new as yet unexperienced extreme weather events.
+Extreme weather event attribution as they occure in the present. Past event attribution to out of holocine climate conditions at the time. Predition of future extreme weather event pridiciton on scenario conditions. Prediction of new kinds of as yet unexperienced extreme weather events.
 
 An attempt toward some means of automation. 
 
