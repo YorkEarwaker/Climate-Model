@@ -45,7 +45,7 @@ Terms
 * Statistical Climatology,
 
 Organisations academy
-* World Weather Attribution [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
+* World Weather Attribution, [WS](https://www.worldweatherattribution.org/), [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
 
 Mathematics
 * Statisics
