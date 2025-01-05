@@ -14,7 +14,7 @@ TODO
 * <todo: upload first module core, java directory source structure>
 * <todo: look at Imperial web site, EEA collateral, >
 * <todo: email Imperial EEA team, inquire where it might be possible to contribute, >
-* <todo: gai as means of interpretation reasoning, >
+* <todo: use of gai as means of interpretation reasoning, creation of gai capability a seperate project/programme, >
 
 DONE
 * <done: Intent to start, >
