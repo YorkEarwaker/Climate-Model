@@ -42,7 +42,10 @@ Terms
 * Extreme event, 
 * Extreme event attribution, [WP](https://en.wikipedia.org/wiki/Extreme_event_attribution)
 * Extreme weather, event,
-* Statistical Climatology, 
+* Statistical Climatology,
+
+Organisations academy
+* World Weather Attribution [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
 
 Mathematics
 * Statisics
