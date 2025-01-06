@@ -5,7 +5,7 @@ Java project directory and file organisation.
 ### Status
 
 TODO
-* <todo: consider use case for py and cpp, how to manage repository structure for multicode base? >
+* <todo: consider use case for py and cpp, how to manage repository structure for multicode base? refer to Automation repository, repository structure, >
 * <todo: other programming languages as needed. >
 * <todo: consider slf4j for logging>
 * <todo: consider junit for unit tests>
