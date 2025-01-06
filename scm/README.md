@@ -5,7 +5,7 @@ Java project directory and file organisation.
 ### Status
 
 TODO
-* <todo: refactor to include java interface and impl class, >
+* <todo: refactor class stubb and test stub to include java interface and impl class, >
 * <todo: consider, different package structures for interfaces? or just a deployment issue? seem to remember a seperate dir structure, >
 * <todo: consider use case for py and cpp, how to manage repository structure for multicode base? refer to Automation repository, repository structure, >
 * <todo: other programming languages as needed. >
