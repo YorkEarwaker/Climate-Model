@@ -1,6 +1,6 @@
-AGW Climate Model rdf metadata
+# Climate Model rdf schema
 
-Climate Model rdf schema
+AGW Climate Model rdf metadata
 
 ## Status
 
