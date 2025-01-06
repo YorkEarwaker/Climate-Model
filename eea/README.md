@@ -38,6 +38,13 @@ Data
 
 ## References
 
+Papers
+* 
+* 
+
+News Papers
+* World Weather Attribution, methods [WS](https://www.worldweatherattribution.org/methods/)
+
 Terms
 * Extreme event, 
 * Extreme event attribution, [WP](https://en.wikipedia.org/wiki/Extreme_event_attribution)
