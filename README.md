@@ -42,12 +42,14 @@ Note.
 ## Status
 
 TODO
-* <todo: select first project, consider extreme weather attribution (Imperial), >
-* <todo: delete old java code directory structure, refactore as module based, for seperate code bases, >
+* <todo: iterate project, simple global warming model, scm >
+* <todo: iterate project, extreme event attribution, eea >
 
 DONE
 * <done: first iteration readme, >
 * <done: first iteration repository wiki, >
+* <done: delete old java code directory structure, refactore as module based, for seperate code bases, >
+* <done: select first project, consider extreme weather attribution (Imperial), selected>
 
 ## References
 
