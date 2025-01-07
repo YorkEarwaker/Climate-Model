@@ -42,8 +42,8 @@ Note.
 ## Status
 
 TODO
-* <todo: iterate project, simple global warming model, scm >
-* <todo: iterate project, extreme event attribution, eea >
+* <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Met Office for guidance, >
+* <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
 
 DONE
 * <done: first iteration readme, >
