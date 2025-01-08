@@ -23,7 +23,8 @@ DONE
 ## Libraries
 
 Climate and weather specific ones.
-* ?
+* KNMI Climate Explorer web application, GitLab <todo: source url to hyperlink, >
+* 
 
 Languages
 * Java, app server side, 
