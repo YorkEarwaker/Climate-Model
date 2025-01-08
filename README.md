@@ -44,6 +44,8 @@ Note.
 TODO
 * <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Grantham and Met Office for guidance, Reading? others? >
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
+* <todo: consider org\agw\med for medical health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. >
+* <todo: consider org\agw\phy for physics climate, weather, extreme events, ... separate project? third party libraries to use? >
 
 DONE
 * <done: first iteration readme, >
