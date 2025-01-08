@@ -42,7 +42,7 @@ Note.
 ## Status
 
 TODO
-* <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Met Office for guidance, >
+* <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Grantham and Met Office for guidance, Reading? others? >
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
 
 DONE
