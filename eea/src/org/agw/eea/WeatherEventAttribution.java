@@ -11,7 +11,7 @@ public interface WeatherEventAttribution {
 	// list eight step protocol methods? which each call a protocol process activity class?
 	// will this extend another interface EventAttribution?
 	
-/* Raid WWA protocol
+/* Rapid WWA protocol
  * A multi-method eight step process
  * https://ascmo.copernicus.org/articles/6/177/2020/
  * 

@@ -4,7 +4,7 @@
 package org.agw.eea;
 
 /**
- * Raid WWA protocol
+ * Rapid WWA protocol
  * A multi-method eight step process
  * https://ascmo.copernicus.org/articles/6/177/2020/
  * 
