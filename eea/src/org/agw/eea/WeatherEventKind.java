@@ -6,16 +6,16 @@ package org.agw.eea;
 
 /**
  * enum weather event kind 
- * <todo: find ontology to base kinds on as difinitive source, International Geographic Union perhaps? >
+ * <todo: find ontology to base kinds on as difinitive source, International Geographic Union, World Meteorological Organisation WMO,  perhaps? >
  */
 public enum WeatherEventKind {
 	
 	TROPICAL_CYCLONE ("Tropical Cyclone"), # wind storm? 
-	EXTRA_TROPICAL_CYCLONE ("Extra Tropical Cyclone"), # wind storm?, storm surge, percipitation, flood 
+	EXTRA_TROPICAL_CYCLONE ("Extra Tropical Cyclone"), # wind storm?, storm surge, precipitation, flood 
 	HEAT ("Heat"), # temperature extreme
 	COLD ("Cold"), # temperature extreme
-	DROUGHT ("Drought"), # meteorological drought, lack of percipitation
-	FLOOD ("Flood"), # excess extreme percipitation
+	DROUGHT ("Drought"), # meteorological drought, lack of precipitation
+	FLOOD ("Flood"), # excess extreme precipitation
 	CONVECTIVE_STORM ("Convective Storm"); # wind storm?
 	
 	private final String weatherEvent;
