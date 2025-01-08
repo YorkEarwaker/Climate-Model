@@ -39,7 +39,7 @@ Data
 ## References
 
 Papers
-* A protocol for probabilistic extreme event attribution analyses, 10 Nov 2020 (Published), Philip, S., Kew, S., van Oldenborgh, G. J., Otto, F., Vautard, R., van der Wiel, K., King, A., Lott, F., Arrighi, J., Singh, R., and van Aalst, M.: Adv. Stat. Clim. Meteorol. Oceanogr., 6, 177–203, https://doi.org/10.5194/ascmo-6-177-2020, 2020.
+* A protocol for probabilistic extreme event attribution analyses, 10 Nov 2020 (Published), Philip, S., Kew, S., van Oldenborgh, G. J., Otto, F., Vautard, R., van der Wiel, K., King, A., Lott, F., Arrighi, J., Singh, R., and van Aalst, M.: Adv. Stat. Clim. Meteorol. Oceanogr., 6, 177–203, [DOI](https://doi.org/10.5194/ascmo-6-177-2020), [WS](https://ascmo.copernicus.org/articles/6/177/2020/), 2020.
 * 
 
 News Papers
