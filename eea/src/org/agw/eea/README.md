@@ -11,6 +11,7 @@ TODO
 * <todo: reconsider class naming, more use of term Attribution?>
 * <todo: consider commons package, considerable reuse of method declarations in interfaces in eea and gwm, >
 * <todo: consider interface or abstract class for different attribution event types; heat, cyclone, cold, presipitation, ... >
+* <todo: consider org\agw\med for medical health effects, injuries, fatalities, epidemiology, a metric of severity, >
 
 DONE
 * <done: first commit, >
