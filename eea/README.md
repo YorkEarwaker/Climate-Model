@@ -40,7 +40,7 @@ Data
 
 Papers
 * A protocol for probabilistic extreme event attribution analyses, 10 Nov 2020 (Published), Philip, S., Kew, S., van Oldenborgh, G. J., Otto, F., Vautard, R., van der Wiel, K., King, A., Lott, F., Arrighi, J., Singh, R., and van Aalst, M.: Adv. Stat. Clim. Meteorol. Oceanogr., 6, 177–203, [DOI](https://doi.org/10.5194/ascmo-6-177-2020), [WS](https://ascmo.copernicus.org/articles/6/177/2020/), 2020.
-* 
+* Pathways and pitfalls in extreme event attribution. 10 May 2021 (Published), van Oldenborgh, G.J., van der Wiel, K., Kew, S. et al., Climatic Change 166, 13 (2021). [WS](https://link.springer.com/article/10.1007/s10584-021-03071-7), [DOI](https://doi.org/10.1007/s10584-021-03071-7)
 
 News Papers
 * World Weather Attribution, methods [WS](https://www.worldweatherattribution.org/methods/)
