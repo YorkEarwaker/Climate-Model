@@ -10,8 +10,8 @@ package org.agw.eea;
  */
 public enum WeatherEventKind {
 	
-	TROPICAL_CYCLONE ("Tropical Cyclone"), # wind storm? 
-	EXTRA_TROPICAL_CYCLONE ("Extra Tropical Cyclone"), # wind storm?, storm surge, precipitation, flood 
+	TROPICAL_CYCLONE ("Tropical Cyclone"), # wind storm?,  hurricane/typhoon, storm surge, precipitation, flood, tornadoes, 
+	EXTRA_TROPICAL_CYCLONE ("Extra Tropical Cyclone"), # wind storm?
 	HEAT ("Heat"), # temperature extreme
 	COLD ("Cold"), # temperature extreme
 	DROUGHT ("Drought"), # meteorological drought, lack of precipitation
