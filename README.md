@@ -47,6 +47,7 @@ TODO
 * <todo: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. >
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
+* <todo: consider org\agw\ele for extinction level events, climate change related, tipping points, the event (straw) that broke the steady state (camels back) scenarios,  >
 
 DONE
 * <done: first iteration readme, >
