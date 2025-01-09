@@ -3,7 +3,7 @@
 ## Status
 
 TODO
-* <todo: WWA Protocol pages, use papers as base, >
+* <todo: WWA Protocol pages, use papers as base, are there copy right issues? >
 * <todo: what markup to use, html in first instance? >
 
 DONE
