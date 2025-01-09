@@ -3,3 +3,7 @@
  * Ponder more, measure twice cut once
  */
 package org.agw.gwm;
+
+/**
+ * Green house gas emissions, solar radiative forcing
+ */
