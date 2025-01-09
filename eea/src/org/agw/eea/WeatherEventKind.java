@@ -12,8 +12,8 @@ public enum WeatherEventKind {
 	
 	TROPICAL_CYCLONE ("Tropical Cyclone"), # wind storm?,  hurricane/typhoon, storm surge, precipitation, flood, tornadoes, 
 	EXTRA_TROPICAL_CYCLONE ("Extra Tropical Cyclone"), # wind storm?
-	HEAT ("Heat"), # temperature extreme
-	COLD ("Cold"), # temperature extreme
+	HEAT ("Heat"), # temperature extreme, heat wave
+	COLD ("Cold"), # temperature extreme, cold wave
 	DROUGHT ("Drought"), # meteorological drought, lack of precipitation
 	FLOOD ("Flood"), # excess extreme precipitation
 	CONVECTIVE_STORM ("Convective Storm"); # wind storm?
