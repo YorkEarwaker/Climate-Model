@@ -7,7 +7,7 @@ package org.agw.gwm;
 /**
  * Green house gas emissions, solar radiative forcing
  * Energy in the system
- * heat sinks? or should that be left to AnthropogenicClimateChange
+ * Feed backloops e.g. permaforst loss and methane outgassing events
  * 
  * holocine baseline circa ~1800 ce
  */

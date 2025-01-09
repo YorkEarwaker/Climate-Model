@@ -7,7 +7,7 @@ package org.agw.gwm;
 /**
  * Anthrosphere system changes, human impacts other than greenhouse gas emissions
  * Biosphere system changes, life on earth
- * Spaceship earth safe operating limits, human life support
- * Planetary boundry sience, J. Rockström chart 
+ * Spaceship earth current state, human life support
+ * 
  * 
  */
