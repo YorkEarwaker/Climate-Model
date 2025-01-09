@@ -11,3 +11,8 @@ package org.agw.gwm;
  * 
  * holocine baseline circa ~1800 ce
  */
+public interface AnthropogenicGlobalWarming extends Anthropocine {
+	 
+	 
+	 
+ }

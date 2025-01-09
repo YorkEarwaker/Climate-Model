@@ -11,3 +11,8 @@ package org.agw.gwm;
  * 
  * 
  */
+public interface AnthropogenicGlobalLChange extends Anthropocine {
+	 
+	 
+	 
+ }

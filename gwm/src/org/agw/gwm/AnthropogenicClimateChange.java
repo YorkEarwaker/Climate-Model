@@ -16,3 +16,8 @@ package org.agw.gwm;
  * the climate weather systems, short term, long term, 
  * heat sinks
  */
+ public interface AnthropogenicClimateChange extends Anthropocine {
+	 
+	 
+	 
+ }

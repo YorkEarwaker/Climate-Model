@@ -5,11 +5,10 @@
 package org.agw.gwm;
 
 /**
- * Planetary boundry sience, J. Rockström chart 
- * Spaceship earth safe operating limits, human life support
+ * Athropocine, new geological age, age of man
  * 
  */
-public interface AnthropogenicGlobalLimits extends Anthropocine {
+public interface Anthropocine {
 	 
 	 
 	 
