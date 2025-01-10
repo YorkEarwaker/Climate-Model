@@ -52,6 +52,8 @@ TODO
 * <todo: consider org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <todo: consider org\agw\geo for geological capability, create Holocine >
 * <todo: refactor Athropocine to gts i.e. org\agw\geo\gts geological time scale package, >
+* <todo: consider org\agw\eco package for ecological capability, eco impacts, >
+* <todo: consider is eco also bio? or seperate bio package? >
 
 DONE
 * <done: first iteration readme, >
