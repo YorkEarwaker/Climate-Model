@@ -48,6 +48,7 @@ TODO
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
 * <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
+* <todo: refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
 
 DONE
 * <done: first iteration readme, >
