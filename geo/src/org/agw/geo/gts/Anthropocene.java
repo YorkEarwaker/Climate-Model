@@ -9,6 +9,6 @@ package org.agw.geo.gts;
  */
 public interface Anthropocene extends Age {
 	 
-	 <todo: https://en.wikipedia.org/wiki/Anthropocene>
+	 // <todo: Age interface https://en.wikipedia.org/wiki/Anthropocene>
 	 
 }
