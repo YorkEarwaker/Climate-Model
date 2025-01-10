@@ -54,6 +54,7 @@ TODO
 * <todo: refactor Athropocine to gts i.e. org\agw\geo\gts geological time scale package, >
 * <todo: consider org\agw\eco package for ecological capability, eco impacts, >
 * <todo: consider is eco also bio? or seperate bio package? >
+* <todo: consider, refactor reference Ma value from Si org\agw\mth\si >
 
 DONE
 * <done: first iteration readme, >
