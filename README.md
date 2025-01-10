@@ -53,6 +53,8 @@ TODO
 * <todo: consider org\agw\eco package for ecological capability, eco impacts, >
 * <todo: consider is eco also bio? or seperate bio package? >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\si package >
+* <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
+* <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 
 DONE
 * <done: first iteration readme, >
