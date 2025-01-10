@@ -49,6 +49,9 @@ TODO
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
 * <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
 * <todo: refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
+* <todo: consider org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
+* <todo: consider org\agw\geo for geological capability, create Holocine >
+* <todo: refactor Athropocine to gts i.e. org\agw\geo\gts geological time scale package, >
 
 DONE
 * <done: first iteration readme, >
