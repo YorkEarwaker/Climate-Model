@@ -96,4 +96,8 @@ Reports
 * Climate Scorpion – the sting is in the tail, Introducing planetary solvency, March 2024, Sandy Trust, Oliver Bettis, Lucy Saye, Georgina Bedenham, Timothy M. Lenton, Jesse F. Abrams, Luke Kemp, © Institute and Faculty of Actuaries © University of Exeter, [PDF](https://actuaries.org.uk/media/g1qevrfa/climate-scorpion.pdf)
 
 Papers
-* Formally combining different lines of evidence in extreme-event attribution, 30 Oct 2024 (Published), Friederike E. L. Otto, Clair Barnes, Sjoukje Philip, Sarah Kew, Geert Jan van Oldenborgh, Robert Vautard, Volume 10, issue 2, ASCMO, 10, 159–171, 2024, Advances in Statistical Climatology, Meteorology and Oceanography, [DOI](https://doi.org/10.5194/ascmo-10-159-2024), [WS](https://ascmo.copernicus.org/articles/10/159/2024/) <todo: delete this paper entry, already referenced in eea project readme, find alternate paper to replace it with beforehand? >
+* <todo:  find alternate paper to replace it with beforehand? >
+
+News Papers
+* 2024: record-breaking watershed year for global climate, 10 Jan 2025, Grahame Madge, Met Office [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/2024-record-breaking-watershed-year-for-global-climate)
+
