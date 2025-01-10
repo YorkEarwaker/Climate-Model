@@ -1,4 +1,4 @@
-# Java
+# Geology
 
 Java project directory and file organisation.
 
