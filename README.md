@@ -50,8 +50,6 @@ TODO
 * <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
 * <todo: refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
 * <todo: consider org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
-* <todo: consider org\agw\geo for geological capability, create Holocine >
-* <todo: refactor Athropocine to gts i.e. org\agw\geo\gts geological time scale package, >
 * <todo: consider org\agw\eco package for ecological capability, eco impacts, >
 * <todo: consider is eco also bio? or seperate bio package? >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\si package >
@@ -61,6 +59,8 @@ DONE
 * <done: first iteration repository wiki, >
 * <done: delete old java code directory structure, refactore as module based, for seperate code bases, >
 * <done: select first project, consider extreme weather attribution (Imperial), selected>
+* <done: consider org\agw\geo for geological capability, create Holocene >
+* <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
 
 ## References
 
