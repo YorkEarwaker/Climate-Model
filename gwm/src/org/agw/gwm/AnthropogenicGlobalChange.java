@@ -4,6 +4,8 @@
  */
 package org.agw.gwm;
 
+import org.agw.geo.gts.Anthropocine;
+
 /**
  * Anthrosphere system changes, human impacts other than greenhouse gas emissions
  * Biosphere system changes, life on earth
