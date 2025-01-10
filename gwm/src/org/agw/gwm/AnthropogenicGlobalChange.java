@@ -4,7 +4,7 @@
  */
 package org.agw.gwm;
 
-import org.agw.geo.gts.Anthropocine;
+import org.agw.geo.gts.Anthropocene;
 
 /**
  * Anthrosphere system changes, human impacts other than greenhouse gas emissions
@@ -13,7 +13,7 @@ import org.agw.geo.gts.Anthropocine;
  * 
  * 
  */
-public interface AnthropogenicGlobalLChange extends Anthropocine {
+public interface AnthropogenicGlobalLChange extends Anthropocene {
 	 
 	 
 	 

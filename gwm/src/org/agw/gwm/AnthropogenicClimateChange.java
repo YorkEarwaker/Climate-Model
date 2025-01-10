@@ -4,7 +4,7 @@
  */
 package org.agw.gwm;
 
-import org.agw.geo.gts.Anthropocine;
+import org.agw.geo.gts.Anthropocene;
 
 /**
  * Geosphere systems changes, 
@@ -18,7 +18,7 @@ import org.agw.geo.gts.Anthropocine;
  * the climate weather systems, short term, long term, 
  * heat sinks
  */
- public interface AnthropogenicClimateChange extends Anthropocine {
+ public interface AnthropogenicClimateChange extends Anthropocene {
 	 
 	 
 	 

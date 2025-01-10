@@ -4,7 +4,7 @@
  */
 package org.agw.gwm;
 
-import org.agw.geo.gts.Anthropocine;
+import org.agw.geo.gts.Anthropocene;
 
 /**
  * Green house gas emissions, solar radiative forcing
@@ -13,7 +13,7 @@ import org.agw.geo.gts.Anthropocine;
  * 
  * holocine baseline circa ~1800 ce
  */
-public interface AnthropogenicGlobalWarming extends Anthropocine {
+public interface AnthropogenicGlobalWarming extends Anthropocene {
 	 
 	 
 	 
