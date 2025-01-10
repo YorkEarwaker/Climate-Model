@@ -1,14 +1,17 @@
 # Geology
 
-Java project directory and file organisation.
+Geology capability. Geological Time Scales GTS
 
 ### Status
 
 TODO
-* <todo: Java Project repository structure, dirs, files, work in progress wip >
+* <todo: Iterate project,   >
+* <todo: one concrete Age interface, >
 
 DONE
-* <done: n/a>
+* <done: first commit>
 
 ## References
+
+* Geology
 
