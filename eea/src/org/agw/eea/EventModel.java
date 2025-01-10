@@ -24,13 +24,17 @@ public interface EventModel {
 	
 	/**
 	 * temporal defintion of event
+	 * choice of timescale
+	 * temporal extent 
 	 */
-	public void time(); // todo: date time, when is this
+	public void time(); // todo: date time, range, averages over durration, when is this
 	
 	/**
 	 * spacial definition of event
+	 * choice of area
+	 * spacial extent 
 	 */
-	public void space(); // todo: geo location, where is this, earth another planet
+	public void space(); // todo: geo location, averages over area, where is this, earth another planet
 	
 	/**
 	 * defualt method implementation declarations, if any
