@@ -29,9 +29,9 @@ Climate and weather specific ones.
 
 Languages
 * Java, app server side, 
-* Python, analytics?
-* C++, hardware, firmware, GPU, etc 
-* TypeScript, i.e. node.js etc,
+* Python, analytics?, not in current iteration
+* C++, hardware, firmware, GPU, etc, not in current iteration
+* TypeScript, i.e. node.js etc, not in current iteration
 
 Data
 * JSON, data interchange, 
