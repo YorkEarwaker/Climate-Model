@@ -7,10 +7,7 @@ SimpleGlobaWarmingModel as first iteration
 ### Status
 
 TODO
-* <todo: consider use case for py and cpp, how to manage repository structure for multicode base? >
-* <todo: other programming languages as needed. >
-* <todo: consider slf4j for logging>
-* <todo: consider junit for unit tests>
+* <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
 
 DONE
 * <done: Java - in the first case>
