@@ -4,16 +4,19 @@ Java project directory and file organisation.
 
 SimpleGlobaWarmingModel as first iteration
 
-### Status
+## Status
 
 TODO
 * <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
+* <todo: source two other papers cited in Met Office Nature 1 Dec 2023, re different GWL metric approaches >
 
 DONE
 * <done: org\aga\gwm package dir structure >
 * <done: start of interface design and interface classes in org\aga\gwm package >
 
-Languages
+## Libs
+
+## Languages
 * Java
 * Python
 * Cpp
