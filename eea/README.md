@@ -16,6 +16,7 @@ TODO
 * <todo: email Imperial EEA team, inquire where it might be possible to contribute, >
 * <todo: use of gai as means of interpretation reasoning, creation of gai capability a seperate project/programme, >
 * <todo: create boscard >
+* <todo: consider org\agw\eea AnthropogenicEventAttribution interface >
 
 DONE
 * <done: Intent to start, >
