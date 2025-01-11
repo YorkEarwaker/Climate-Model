@@ -96,7 +96,7 @@ Reports
 * Climate Scorpion – the sting is in the tail, Introducing planetary solvency, March 2024, Sandy Trust, Oliver Bettis, Lucy Saye, Georgina Bedenham, Timothy M. Lenton, Jesse F. Abrams, Luke Kemp, © Institute and Faculty of Actuaries © University of Exeter, [PDF](https://actuaries.org.uk/media/g1qevrfa/climate-scorpion.pdf)
 
 Papers
-* Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?, 01 December 2023, Richard A. Betts, Stephen E. Belcher, Leon Hermanson, Albert Klein Tank, Jason A. Lowe, Chris D. Jones, Colin P. Morice, Nick A. Rayner, Adam A. Scaife & Peter A. Stott, COMMENT, Nature 624, 33-35 (2023), [DOI](https://doi.org/10.1038/d41586-023-03775-z), Assessing global mean temperature rise using the average warming over the previous one or two decades will delay formal recognition of when Earth breaches the Paris agreement’s 1.5 °C guard rail. Here is what’s needed to avoid the wait.
+* <todo: source paper >
 
 News Papers
 * 2024: record-breaking watershed year for global climate, 10 Jan 2025, Grahame Madge, Met Office [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/2024-record-breaking-watershed-year-for-global-climate)
