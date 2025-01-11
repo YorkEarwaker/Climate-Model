@@ -56,6 +56,7 @@ TODO
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider org\agw\pbs package for planetary boundry science >
+* <todo: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages >
 
 DONE
 * <done: first iteration readme, >
