@@ -1,8 +1,6 @@
 # Global warming model gwm
 
-Java project directory and file organisation.
-
-SimpleGlobaWarmingModel as first iteration
+SimpleGlobaWarmingModel as first iteration.
 
 ## Status
 
