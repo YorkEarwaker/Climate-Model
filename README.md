@@ -57,7 +57,7 @@ TODO
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider org\agw\pbs package for planetary boundry science >
 * <todo: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages >
-* <todo: consider generics, enericsmethod parameter arguments, method return arguments, >
+* <todo: consider generics, method parameter arguments, method return arguments, >
 
 DONE
 * <done: first iteration readme, >
