@@ -16,9 +16,9 @@ DONE
 
 ## Languages
 * Java
-* Python
-* Cpp
-* TypeScript?
+* Python? not in first iteration
+* Cpp? not in first iteration
+* TypeScript? not in first iteration
 
 ## References
 
