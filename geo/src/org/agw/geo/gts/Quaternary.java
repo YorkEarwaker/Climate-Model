@@ -32,8 +32,8 @@ public interface Quaternary extends Period, System {
 	/**
 	 * References
 	 */
-	public static final WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Quaternary"; // consider RDF friendly name for field
-    public static final GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
+	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Quaternary"; // consider RDF friendly name for field
+	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
 	
 	/**
 	 * Atmospheric and climatic data

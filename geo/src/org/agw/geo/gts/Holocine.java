@@ -32,8 +32,8 @@ public interface Holocene extends Epoch, Series {
 	/**
 	 * References
 	 */
-	public static final WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Holocene"; // consider RDF friendly name for field
-	public static final GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
+	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Holocene"; // consider RDF friendly name for field
+	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
 	 
 	/**
 	 * Atmospheric and climatic data
