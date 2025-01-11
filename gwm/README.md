@@ -27,8 +27,8 @@ Languages
 ## References
 
 Metrics
-* Global warming level GWL, IPCC 20 year average, mid point of 20 years after the event
-* Current global warming level, CGWL, Met Office 20 year blended, current date actual past 10 years and projected next 10 years from various models, IPCC protocol practice consistent,
+* Elapsed, Global Warming Level, GWL, IPCC 20 year average, 10 mid point of 20 years, circa 10 years after the event, backward looking
+* Current Global Warming Level, CGWL, Met Office 20 year blended, current date actual past 10 years and projected next 10 years from various models, IPCC protocol practice consistent, circa present instant at the event, forward looking
 
 Tools
 * Global Temperature, NASA, [WS](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121), 
