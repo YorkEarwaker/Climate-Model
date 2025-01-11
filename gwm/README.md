@@ -6,7 +6,10 @@ SimpleGlobaWarmingModel as first iteration.
 
 TODO
 * <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
-* <todo: source two other papers cited in Met Office Nature 1 Dec 2023, re different GWL metric approaches >
+* <todo: source two other papers cited in Met Office Nature 1 Dec 2023, re different GWL metric approaches, links broken in paper contact MO for links >
+* <todo: consider GWL interface IPCC approach >
+* <todo: consider CGWL interface, Met Office blended IPCC compliant apporach >
+* 
 
 DONE
 * <done: org\aga\gwm package dir structure >
