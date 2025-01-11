@@ -10,8 +10,8 @@ TODO
 * <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
 
 DONE
-* <done: Java - in the first case>
-*<done: Java Project repository structure, dirs, files, work in progress wip, keep refining >
+* <done: org\aga\gwm package dir structure >
+* <done: start of interface design and interface classes in org\aga\gwm package >
 
 Languages
 * Java
