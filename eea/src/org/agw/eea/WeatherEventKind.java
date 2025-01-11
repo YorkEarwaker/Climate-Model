@@ -1,11 +1,12 @@
 /**
- * Kinds of weather event
- * Stubb work in progress
+ * Extreme Event Attribution
+ * 
  */
 package org.agw.eea;
 
 /**
- * enum weather event kind 
+ * WeatherEventKind
+ * Kinds of weather event, enum weather event kind 
  * <todo: find ontology to base kinds on as difinitive source, International Geographic Union, World Meteorological Organisation WMO,  perhaps? >
  */
 public enum WeatherEventKind {

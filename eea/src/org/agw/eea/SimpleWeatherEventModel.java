@@ -1,10 +1,11 @@
 /**
- * 
+ * Extreme Event Attribution
  */
 package org.agw.eea;
 
 /**
- * 
+ * SimpleWeatherEventModel
+ * Model of the weather event
  */
 public class SimpleWeatherEventModel implements WeatherEventModel {
 

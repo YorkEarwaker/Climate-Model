@@ -1,5 +1,5 @@
 /**
- * 
+ * Extreme Event Attribution
  */
 package org.agw.eea;
 
