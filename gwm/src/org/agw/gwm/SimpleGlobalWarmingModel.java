@@ -1,10 +1,10 @@
 /**
- * 
+ * Global Warming Model
  */
 package org.agw.gwm;
 
 /**
- * 
+ * SimpleGlobalWarmingModel
  */
 public class SimpleGlobalWarmingModel implements GlobalWarmingModel {
 

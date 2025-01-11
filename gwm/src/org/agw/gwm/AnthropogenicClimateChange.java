@@ -1,12 +1,12 @@
 /**
- * Not sure whether to make this an abstract class or interface in org.agw package
- * Ponder more, measure twice cut once
+ * Global Warming Model
  */
 package org.agw.gwm;
 
 import org.agw.geo.gts.Anthropocene;
 
 /**
+ * AnthropogenicClimateChange
  * Geosphere systems changes, 
  * atmosphere
  * hydrosphre

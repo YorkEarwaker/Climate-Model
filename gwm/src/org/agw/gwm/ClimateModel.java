@@ -1,10 +1,11 @@
 /**
- * 
+ * Global Warming Model
  */
 package org.agw.gwm;
 
 /**
- * todo: provide arguments, consider generics
+ * ClimateModel
+ * 
  */
 public interface ClimateModel {
 	
