@@ -10,7 +10,7 @@ TODO
 
 DONE
 * <done: org\aga\gwm package dir structure >
-* <done: start of interface design and interface classes in org\aga\gwm package >
+* <done: start of interface design and interface classes in org\agw\gwm package >
 
 ## Libs
 
