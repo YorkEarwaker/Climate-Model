@@ -32,7 +32,7 @@ TODO
 * <todo: contact WMO >
 * <todo: first itertion land born units, small, mediumm, large, small priority? check priority stakeholder group, assume small yes to avoid analysis parallysis, >
 * <todo: parallel workstreams land, water, air, >
-* <todo: Autonomous Meteorological Network, placeholder name, project name tbc >
+* <todo: Autonomous Meteorological Network, placeholder name, project name tbc, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? other name?  >
 
 DONE
 * <done: intent to commit >
