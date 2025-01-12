@@ -15,7 +15,7 @@ Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air 
 * Global weather knows no borders
 * Open source for complete transparency
 * UN SDG's
-* Development Assitance
+* Development assistance
 
 ## Status
 
