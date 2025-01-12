@@ -11,6 +11,7 @@ Meeting WMO standards. Land born units, water born units, air born units.
 * Extreme event emergency reponse and management data
 * Planning data
 * Future proofing adaptation
+* Strategic resilliency 
 * Global weather knows no borders
 * Open source for complete transparency
 
