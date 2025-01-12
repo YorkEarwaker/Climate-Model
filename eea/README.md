@@ -17,7 +17,7 @@ TODO
 * <todo: use of gai as means of interpretation reasoning, creation of gai capability a seperate project/programme, >
 * <todo: create boscard >
 * <todo: consider org\agw\eea AnthropogenicEventAttribution interface >
-* <todo: obervational data analysis, homgeneity issues, missing data gap issues, etc  . requirement for protocols, requirements for seperate project UN WWO working with partners like WWA and others to create 'reliable off the shelf' data set avaiable, local regional gobal, for eea efforts and others, data is a first class issue, >
+* <todo: obervational data analysis, reliability issues, homogeneity issues, missing data gap issues, etc  . requirement for protocols, requirements for seperate project UN WWO working with partners like WWA and others to create 'reliable off the shelf' data set avaiable, local regional gobal, for eea efforts and others, data is a first class issue, >
 * 
 
 DONE
