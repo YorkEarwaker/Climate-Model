@@ -58,7 +58,7 @@ TODO
 * <todo: consider org\agw\pbs package for planetary boundry science >
 * <todo: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages >
 * <todo: consider generics, method parameter arguments, method return arguments, >
-* <todo: consider org\agw\met iot/iiot meteorological weather station unit, inexpensive, deployed in the field for standard weather data recording, systems engineering, >
+* <todo: consider org\agw\aws iot/iiot synoptic? meteorological weather station unit, inexpensive, deployed in the field for standard weather data recording, systems engineering, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? better name. >
 
 DONE
 * <done: first iteration readme, >
