@@ -1,0 +1,28 @@
+# Autonomous Meteorological Network <placeholder name, name tbc >
+
+Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systemss.
+
+Meeting WMO standards. Land born units, water born units, air born units.
+
+## Goals & Objectives
+
+* Global warming data
+* World Weather Attribution data
+* Extreme event emergency reponse and management data
+* Planning data
+
+## Status
+
+TODO
+* <todo: research, >
+* <todo: contact WMO >
+* <todo: first itertion land born units, >
+* <todo: parallel workstreams land, water, air, >
+
+DONE
+* <done: intent to commit >
+
+## References
+
+* Weather station [WS](https://en.wikipedia.org/wiki/Weather_station)
+* Systems engineering
