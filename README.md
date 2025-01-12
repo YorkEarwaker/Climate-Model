@@ -58,7 +58,6 @@ TODO
 * <todo: consider org\agw\pbs package for planetary boundry science >
 * <todo: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages >
 * <todo: consider generics, method parameter arguments, method return arguments, >
-* <todo: consider org\agw\aws iot/iiot synoptic? meteorological weather station unit, inexpensive, deployed in the field for standard weather data recording, systems engineering, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? better name. >
 
 DONE
 * <done: first iteration readme, >
@@ -67,6 +66,7 @@ DONE
 * <done: select first project, consider extreme weather attribution (Imperial), selected>
 * <done: consider org\agw\geo for geological capability, create Holocene >
 * <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
+* <done: consider org\agw\amn autonomous meteorological network, iot/iiot synoptic? meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, >
 
 ## References
 
