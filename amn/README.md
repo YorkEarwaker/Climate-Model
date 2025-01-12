@@ -2,7 +2,7 @@
 
 Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systems.
 
-Meeting WMO standards. Land born units fixed, water born units buoys, air born units weather balloons.
+Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
 
 ## Goals & Objectives
 
@@ -14,13 +14,15 @@ Meeting WMO standards. Land born units fixed, water born units buoys, air born u
 * Strategic resilliency 
 * Global weather knows no borders
 * Open source for complete transparency
+* UN SDG's
+* Development Assitance
 
 ## Status
 
 TODO
 * <todo: research, >
 * <todo: contact WMO >
-* <todo: first itertion land born units, >
+* <todo: first itertion land born units, small, mediumm, large, small priority? check priority stakeholder group, >
 * <todo: parallel workstreams land, water, air, >
 * <todo: Autonomous Meteorological Network, placeholder name, project name tbc >
 
