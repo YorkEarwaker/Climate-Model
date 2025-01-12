@@ -10,6 +10,7 @@ Meeting WMO standards. Land born units, water born units, air born units.
 * World Weather Attribution data
 * Extreme event emergency reponse and management data
 * Planning data
+* Open source for complete transparency
 
 ## Status
 
