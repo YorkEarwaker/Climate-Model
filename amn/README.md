@@ -1,4 +1,4 @@
-# Autonomous Meteorological Network
+# Autonomous meteorological network amn
 
 Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systems.
 
