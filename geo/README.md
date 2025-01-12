@@ -1,4 +1,4 @@
-# Geology
+# Geology geo
 
 Geology capability. Geological Time Scales GTS
 
