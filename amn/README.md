@@ -4,10 +4,12 @@ Units oversight by local jurisdiction met office. Unmanned technology systems. S
 
 Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
 
+Data is a first class issue. See extreme event attribution eea [GH]()
+
 ## Goals & Objectives
 
 * Global warming data
-* World Weather Attribution data
+* World Weather Attribution data, extreme event attribution
 * Extreme event emergency reponse and management data
 * Planning data
 * Future proofing adaptation
