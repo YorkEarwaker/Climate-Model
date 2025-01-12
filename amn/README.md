@@ -2,7 +2,7 @@
 
 Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systems.
 
-Meeting WMO standards. Land born units, water born units, air born units.
+Meeting WMO standards. Land born units fixed, water born units buoys, air born units balloons.
 
 ## Goals & Objectives
 
