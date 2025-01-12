@@ -66,7 +66,7 @@ DONE
 * <done: select first project, consider extreme weather attribution (Imperial), selected>
 * <done: consider org\agw\geo for geological capability, create Holocene >
 * <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
-* <done: consider org\agw\amn autonomous meteorological network, iot/iiot synoptic? meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, >
+* <done: consider org\agw\amn autonomous meteorological network, meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, iot/iiot synoptic? >
 
 ## References
 
