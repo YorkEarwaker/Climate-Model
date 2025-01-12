@@ -24,7 +24,7 @@ DONE
 ## Libraries
 
 Climate and weather specific ones.
-* KNMI Climate Explorer web application, GitLab <todo: source url to hyperlink, >
+* KNMI Climate Explorer, [WS](https://climexp.knmi.nl/start.cgi), GitLab <todo: source url to hyperlink, >,  web application
 * 
 
 Languages
