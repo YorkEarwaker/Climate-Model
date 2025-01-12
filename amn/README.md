@@ -1,6 +1,6 @@
-# Autonomous Meteorological Network <placeholder name, name tbc >
+# Autonomous Meteorological Network
 
-Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systemss.
+Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systems.
 
 Meeting WMO standards. Land born units, water born units, air born units.
 
@@ -18,6 +18,7 @@ TODO
 * <todo: contact WMO >
 * <todo: first itertion land born units, >
 * <todo: parallel workstreams land, water, air, >
+* <todo: Autonomous Meteorological Network, placeholder name, project name tbc >
 
 DONE
 * <done: intent to commit >
