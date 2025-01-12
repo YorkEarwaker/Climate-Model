@@ -8,7 +8,7 @@ Data is a first class issue. See extreme event attribution eea [GH](https://gith
 
 ## Goals & Objectives
 
-* Global warming data
+* Global warming data, global warming limits, planetary bounary science
 * World Weather Attribution data, extreme event attribution
 * Extreme event emergency reponse and management data
 * Planning data
