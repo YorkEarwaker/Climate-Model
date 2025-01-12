@@ -2,7 +2,7 @@
 
 Extreme weather event attribution as they occure in the present. Past event attribution to out of holocine climate conditions at the time. Preditcion of future extreme weather event prediciton on scenario conditions. Prediction of new kinds of as yet unexperienced extreme weather events.
 
-An attempt toward some means of automation. 
+An attempt toward some means of automation. Operationalization.
 
 Events like; convective storms, extra-tropical cylones, tropical cyclones, precipitation, drought, heat, snow and ice, cold, ...
 
@@ -19,6 +19,7 @@ TODO
 * <todo: consider org\agw\eea AnthropogenicEventAttribution interface >
 * <todo: obervational data aquisition for analysis, reliability issues, homogeneity issues, missing data gap issues, etc  . requirement for protocols, requirements for seperate project UN WWO working with partners like WWA and others to create 'reliable off the shelf' data set avaiable, local regional gobal, for eea efforts and others, data is a first class issue, >
 * <todo: requirement, observational data, long time series up to and including the event, >
+* <todo: statistical analysis of data, methods, protocols, processes, activities, tasks, workflow, >
 * 
 
 DONE
