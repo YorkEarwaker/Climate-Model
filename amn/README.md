@@ -22,7 +22,7 @@ Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air 
 TODO
 * <todo: research, >
 * <todo: contact WMO >
-* <todo: first itertion land born units, small, mediumm, large, small priority? check priority stakeholder group, >
+* <todo: first itertion land born units, small, mediumm, large, small priority? check priority stakeholder group, assume small yes to avoid analysis parallysis, >
 * <todo: parallel workstreams land, water, air, >
 * <todo: Autonomous Meteorological Network, placeholder name, project name tbc >
 
