@@ -1,6 +1,6 @@
 # Planetary boundry science pbs
 
-Anthropogenic global limits impaciting Earth system. Human constraints of disruption to nature including geosphere and biospehere and oher natural system processes. 
+Anthropogenic global limits impaciting Earth system. Human constraints of disruption to nature including geosphere and biospehere and other natural system processes. 
 
 ## Status
 
