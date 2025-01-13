@@ -44,4 +44,5 @@ DONE
 * Automatic weather station [WS](https://en.wikipedia.org/wiki/Automatic_weather_station)
 * Weather station [WS](https://en.wikipedia.org/wiki/Weather_station)
 * Systems engineering
-* Industrial internet of things IIOT, 
+* Industrial internet of things IIOT,
+* Synoptic, set times of 24hr day, 
