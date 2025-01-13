@@ -6,7 +6,7 @@ Anthropogenic global limits impaciting Earth system. Human constraints of disrup
 
 TODO
 * <todo: contact SRC,  >
-* <todo: find GitHub and other repository code sources in the public domain >
+* <todo: find and link to SRC GitHub and other repository code sources in the public domain >
 
 DONE
 * <done: intent to commit, >
