@@ -2,7 +2,7 @@
 
 Geology capability. Geological Time Scales GTS
 
-### Status
+## Status
 
 TODO
 * <todo: Iterate project,   >
