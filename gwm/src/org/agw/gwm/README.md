@@ -12,5 +12,7 @@ TODO
 * <todo: use of marker interface/tagging interface, is there a design use case? intuition pulls toward yes, caution pulls toward not yet sure, >
 * <todo: use of generics <M> model, etc specifically for interfaces, >
 * <todo: consider moving ClimateModel to a spearate commons project, >
-* <todo: consider, does SimpleGlobalWarmingModel.java need an abstract class to extend? >
-* <todo: use only void interface method declarations or use default implementations in intrface? >
+
+DONE
+* <done: consider, does SimpleGlobalWarmingModel.java need an abstract class to extend? likely not, special cases only >
+* <done: use only void interface method declarations or use default implementations in intrface? possbily use default in certain cases, >
