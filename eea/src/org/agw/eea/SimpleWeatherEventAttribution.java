@@ -4,23 +4,14 @@
 package org.agw.eea;
 
 /**
- * Rapid WWA protocol
- * A multi-method eight step process
- * https://ascmo.copernicus.org/articles/6/177/2020/
- * 
- * 1 analysis trigger
- * 2 event definition
- * 3 trend detection
- * 4 model evaluation
- * 5 multi-method multi-model attribution,
- * 6 hazard synthesis
- * 7 vulnerability & exposure analysis
- * 8 communication
+ * SimpleWeatherEventAttribution
  * 
  */
 public class SimpleWeatherEventAttribution implements WeatherEventAttribution {
 	
-	// <todo: use SimpleWeatherEventModel here ?>
+	// <todo: consider this implements AnthropogenicEventAttribution.java >
+	// <todo: use SimpleWeatherEventModel.java here ?>
+	// <todo: use a concrete class that implments EventAttributionProtocol.java here? or this implments EventAttributionProtocol.java>
 
 	/**
 	 * @param args
