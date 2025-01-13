@@ -8,7 +8,7 @@ Weather/climate data is a first class topic of concern.
 
 See 
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
-* Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming levels
+* Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris
 * Planetary boundry science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
 * others tbd ...
 
