@@ -4,7 +4,7 @@ Units oversight by local jurisdiction met office. Unmanned technology systems. S
 
 Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
 
-Weather/climate data is a first class issue. 
+Weather/climate data is a first class topic of concern. 
 
 See 
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
