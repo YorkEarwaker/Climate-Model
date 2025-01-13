@@ -1,7 +1,7 @@
 /**
- * Global Warming Model
+ * Planetary Boundary Science
  */
-package org.agw.gwm;
+package org.agw.pbs;
 
 import org.agw.geo.gts.Anthropocene;
 
