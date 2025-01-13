@@ -14,8 +14,9 @@ DONE
 ## References
 
 Terms
-* Planetary boundaries, [WP](https://en.wikipedia.org/wiki/Planetary_boundaries), SRC [WS](https://www.stockholmresilience.org/research/planetary-boundaries.html)
+* Planetary boundaries, [WP](https://en.wikipedia.org/wiki/Planetary_boundaries), PIK [WS](https://www.pik-potsdam.de/en/output/infodesk/planetary-boundaries/images), SRC [WS](https://www.stockholmresilience.org/research/planetary-boundaries.html)
 * Tipping points
 
 Organisations
+* Potsdam Institute for Climate Impact Research PIK, [WS](https://www.pik-potsdam.de/)
 * Stockholm Resilience Centre SRC, [WS](https://www.stockholmresilience.org/)
