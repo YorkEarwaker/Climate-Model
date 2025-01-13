@@ -3,13 +3,13 @@
  */
 package org.agw.eea;
 
+import org.agw.geo.gts.Anthropocene;
+
 /**
  * AnthropogenicEventAttribution
  * todo: provide arguments, consider generics
  */
-public interface AnthropogenicEventAttribution {
-	
-	// should this extend another interface
+public interface AnthropogenicEventAttribution extends Anthropocene {
 	
 	/**
 	 * @param args
