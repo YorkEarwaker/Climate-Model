@@ -7,7 +7,6 @@ SimpleGlobaWarmingModel as first iteration.
 TODO
 * <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
 * <todo: source two other papers cited in Met Office Nature 1 Dec 2023, re different GWL metric approaches, links broken in paper contact MO for links >
-* <todo: abstract class? or interface default implemention? for GWL and CGWL for common implenentation capabiliity. >
 * 
 
 DONE
@@ -15,6 +14,7 @@ DONE
 * <done: start of interface design and interface classes in org\agw\gwm package >
 * <done: consider GWL interface IPCC approach, stubb created >
 * <done: consider CGWL interface, Met Office blended IPCC compliant apporach, stubb created >
+* <done: abstract class? or interface default implemention? for GWL and CGWL for common implenentation capabiliity. likley interface default, >
 
 ## Libraries
 
