@@ -10,7 +10,7 @@ TODO
 * <todo: abstract classes for specific vendor application >
 * <todo: reconsider class naming, more use of term Attribution?>
 * <todo: consider commons package, considerable reuse of method declarations in interfaces in eea and gwm, >
-* <todo: consider interface or abstract class for different attribution event types; heat, cyclone, cold, presipitation, ... >
+* <todo: consider interface or abstract class for different attribution event types; heat, cyclone, cold, presipitation, ... likely interface default method, >
 * <todo: uml needed? use case diagram, component diagram, class diagram, ?>
 
 DONE
