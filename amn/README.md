@@ -1,6 +1,6 @@
 # Autonomous meteorological network amn
 
-Units oversight by local jurisdiction met office. Unmanned technology systems. Synoptic? System of systems.
+Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. Unmanned technology systems. Synoptic? System of systems.
 
 Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
 
@@ -46,4 +46,12 @@ DONE
 * Weather station [WS](https://en.wikipedia.org/wiki/Weather_station)
 * Systems engineering
 * Industrial internet of things IIOT,
-* Synoptic, set times of 24hr day, 
+* Synoptic, set times of 24hr day,
+
+Organisations
+* WMO
+
+* Regional Climate Centres RCCs,
+* Regional Climate Outlook Forums RCOFs,
+* National Meteorological and Hydrological Services NMHSs,
+* 
