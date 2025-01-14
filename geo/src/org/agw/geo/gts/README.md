@@ -10,29 +10,25 @@ Geological scales by ICS of IUGS
 
 TODO
 * <todo: gts interfaces >
-* <todo: interface inheritance heirarchy for holocine and anthropocine >
 * <todo: other gts as necessary >
 * <todo: refactor some of this information to docs html? >
 * Phanerozoic extends Eon
 * Proterozoic extends Eon
 * Archaean extends Eon
 * Hadean extends Eon
-
 * Cenozoic extends Era, Phanerozoic
 * Mesozoic extends Era, Phanerozoic
 * Palaeozoic extends Era, Phanerozoic
-
 * Neoprotarozoic extends Era, Proterozoic
-* Mesoproterozonic extends Era, Proterozoic 
-* Paleoproterozoic extends Era, Proterozoic 
-
-* Neoarchaean extends Era, Archaean 
+* Mesoproterozonic extends Era, Proterozoic
+* Paleoproterozoic extends Era, Proterozoic
+* Neoarchaean extends Era, Archaean
 * Mesoarchaean extends Era, Archaean
 * Palaeoarchaean extends Era, Archaean
 * Eoarchaean extends Era, Archaean
 
 DONE
-* 
+* <done: interface inheritance heirarchy for holocine and anthropocine >
 
 # References
 
