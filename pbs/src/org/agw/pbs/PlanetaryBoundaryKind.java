@@ -7,23 +7,14 @@ package org.agw.pbs;
 /**
  * PlanetaryBoundaryKind
  * Kinds of planetary boundary
- * <todo: find ontology to base kinds on as difinitive source, Postdam PKI or SRC perhaps? >
+ * <todo: find ontology to base kinds on as difinitive source, Postdam PIK or SRC perhaps? >
+ *
  */
 public enum PlanetaryBoundaryKind {
 	
-/* 
- * Create a different enum for these values
- * Risk enum? Operational enum?
-Planetary Boundary
-High Risk Line
-
-Safe Operating Space
-Zone of Uncertainty
-High Risk Zone
-Control Variable */
-	
 	// <todo: consider, does this overcomplicate choice? are there items missing? What is definitive nomenclature, short from, long form, etc? >
 	// <todo: consider, this should be retrieved from a database for operational use, >
+	// <todo: review and refactor, use a consistent decomposition and agregation approach, 80% complete >
 	CLIMATE ("Climate"), // # 1 climate change
 	CLIMATE_C02_CONCENTRATIONS ("Climate CO2 Concentrations"), // # 
 	CLIMATE_RADIATIVE_FORCING ("Climate Radiative Forcing"), // # 
