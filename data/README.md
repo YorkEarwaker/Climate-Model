@@ -5,8 +5,8 @@ Anthropogenic global warming and climate change are long term topics of concern.
 Weather data and climate data is a first class topic of concern.
 
 Data 
-* Climate, forward looking, far time projections years decades centuries millennia
-* Weather, backward looking, near time projections weeks months years
+* Climate, backward looking - millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
+* Weather, backward looking - decades centuries , forward looking, near time projections weeks months years
 * Metadata
 * Reference
 * Series, time series weather/climate
@@ -17,6 +17,7 @@ Data
 
 TODO
 * <todo: create projects per data type identified >
+* <todo: consider better name than Series? time series weather/climate, not to confuse it with epoch/series? consult Met Office WMO WWA >
 
 DONE
 * <done: intent to commit >
