@@ -6,7 +6,7 @@ Weather data and climate data is a first class topic of concern.
 
 Data 
 * Climate, backward looking - centuries millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
-* Weather, backward looking - years decades centuries, forward looking, near time projections weeks months years
+* Weather, backward looking - years decades centuries, forward looking - near time projections days weeks months years
 * Metadata
 * Reference
 * Series, time series weather/climate
