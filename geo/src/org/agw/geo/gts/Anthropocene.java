@@ -7,7 +7,7 @@ package org.agw.geo.gts;
  * Anthropocene, new geological age, age of man, large scale planetary wide human impact on geosphere and biosphere and other planetary natural systems
  * Place holder information until the Age is offically ratified
  * Anyone doubting that human (man) kind is responsible for extreme events in planetary geology is in Anthropocene denial
- * <todo: consider, relation to historiography periodization, extend modern age?, re stone age, bronze age, iron age, and so on. how to make this connection? atomic age? >
+ * <todo: consider, relation to historiography periodization, extend modern age?, re stone age, bronze age, iron age, and so on. how to make this connection? steam age? atomic age? >
  */
 public interface Anthropocene extends Age, Stage {
 	 
