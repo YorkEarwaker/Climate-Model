@@ -31,7 +31,7 @@ public interface Anthropocene extends Age, Stage {
 	// <todo: lower boundary > 
 	// lower boundary, consider, ...
 	// lower boundary, consider, industrial age, circa 1740 
-	// lower boundary, consider, steam engine, James Watt & Matthew Bouolton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 
+	// lower boundary, consider, steam engine, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 
 	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/ , 
 	// lower boundary, consider, mass production, ford model T  
 	// lower boundary, consider, ...
