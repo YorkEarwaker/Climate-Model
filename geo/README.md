@@ -1,6 +1,6 @@
 # Geology geo
 
-Geology capability. Geological Time Scales GTS
+Geology capability. Geological Time Scales GTS, ICS/IUGS.
 
 ## Status
 
@@ -10,8 +10,14 @@ TODO
 
 DONE
 * <done: first commit>
+* <done: one instance Age interface, Anthropocine, Meghalayan,  >
 
 ## References
 
 * Geology
+* Geological time scale,
+
+Organisations
+* ICS
+* IUGS
 
