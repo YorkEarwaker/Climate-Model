@@ -7,10 +7,10 @@ Anthropogenic global limits impaciting Earth system. Human constraints of disrup
 TODO
 * <todo: contact SRC,  >
 * <todo: find and link to SRC GitHub and other repository code sources in the public domain >
-* <todo: create PlanetaryBoundary interface >
 
 DONE
 * <done: intent to commit, >
+* <todo: create PlanetaryBoundary interface >
 
 ## References
 
