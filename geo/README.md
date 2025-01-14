@@ -11,7 +11,7 @@ TODO
 
 DONE
 * <done: first commit>
-* <done: one instance Age interface, Anthropocine, Meghalayan,  >
+* <done: one instance Age interface, Anthropocene, Meghalayan,  >
 
 ## Libraries
 * to source
