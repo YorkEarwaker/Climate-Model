@@ -5,8 +5,8 @@ Anthropogenic global warming and climate change are long term topics of concern.
 Weather data and climate data is a first class topic of concern.
 
 Data 
-* Climate, backward looking - millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
-* Weather, backward looking - decades centuries , forward looking, near time projections weeks months years
+* Climate, backward looking - centuries millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
+* Weather, backward looking - years decades centuries, forward looking, near time projections weeks months years
 * Metadata
 * Reference
 * Series, time series weather/climate
