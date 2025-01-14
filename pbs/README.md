@@ -10,7 +10,7 @@ TODO
 
 DONE
 * <done: intent to commit, >
-* <todo: create PlanetaryBoundary interface >
+* <done: create PlanetaryBoundary interface >
 
 ## References
 
