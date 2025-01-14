@@ -33,7 +33,10 @@ public interface Phanerozoic extends Eon, Eonothem {
 	 * References
 	 */
 	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Phanerozoic"; // consider RDF friendly name for field
-	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
+	/* chronology */
+	public static final String GSSA_URI = "to be sourced"; // <todo: source, GSSA URI, link to ICS/IUGS resource, >
+	/* stratigraphy */
+	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, link to ICS/IUGS resource, >
 	 
 	/**
 	 * Atmospheric and climatic data

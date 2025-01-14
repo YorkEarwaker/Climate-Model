@@ -33,17 +33,21 @@ public interface Quaternary extends Period, System {
 	 * References
 	 */
 	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Quaternary"; // consider RDF friendly name for field
-	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, >
+		/* chronology */
+	public static final String GSSA_URI = "to be sourced"; // <todo: source, GSSA URI, link to ICS/IUGS resource, >
+	/* stratigraphy */
+	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, link to ICS/IUGS resource, >
 	
 	/**
 	 * Atmospheric and climatic data
 	 *
 	 * <todo: consider how to use this here, >
-Mean atmospheric O2 content	c. 20.8 vol %
-(100 % of modern)
-Mean atmospheric CO2 content	c. 250 ppm
-(0.9 times pre-industrial)
-Mean surface temperature	c. 14 °C
-(0.5 °C above pre-industrial)
-*/
+	 * <todo: find difinitive sources IUGS? >
+	Mean atmospheric O2 content	c. 20.8 vol %
+	(100 % of modern)
+	Mean atmospheric CO2 content	c. 250 ppm
+	(0.9 times pre-industrial)
+	Mean surface temperature	c. 14 °C
+	(0.5 °C above pre-industrial)
+	 */
 }
