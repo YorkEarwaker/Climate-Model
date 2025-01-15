@@ -15,8 +15,8 @@ public interface Meghalayan extends Age, Stage {
 	public static final String NAME = "Meghalayan";
 	public static final String TIME_SPAN = "0.0042 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0; // to be souced, <todo: consider set to null, can java int be null?>
-	public static final int DURATION = 0.0042; // to be sourced, consider other number type, <todo: consider set to null, can java int be null?>
+	public static final int UNCERTAINTY_BOUNDING =  0; // 
+	public static final int DURATION = 0.0042; // consider other number type, 
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma";
 	

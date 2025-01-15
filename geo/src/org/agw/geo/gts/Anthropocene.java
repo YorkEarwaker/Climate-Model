@@ -15,10 +15,10 @@ public interface Anthropocene extends Age, Stage {
 	 * Information
 	 */
 	public static final String NAME = "Anthropocene";
-	public static final String TIME_SPAN = "to be sourced"; // consider range
+	public static final String TIME_SPAN = "0.0002 - 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  -1; // to be souced, <todo: consider set to null, can java int be null?>
-	public static final int DURATION = -1; // to be sourced, consider other number type, <todo: consider set to null, can java int be null?>
+	public static final int UNCERTAINTY_BOUNDING =  0; // 
+	public static final int DURATION = 0.00017792638099106418; // 1778 steam age, consider other number type, 
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma";
 	
@@ -32,8 +32,8 @@ public interface Anthropocene extends Age, Stage {
 	// lower boundary, consider, ...
 	// lower boundary, consider, industrial age, circa 1740 
 	// lower boundary, consider, steam engine, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 
-	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/ , 
 	// lower boundary, consider, mass production, ford model T  
+	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/ , 
 	// lower boundary, consider, ...
 	
 	/**
