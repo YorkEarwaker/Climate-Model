@@ -52,11 +52,9 @@ TODO
 * <todo: consider org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <todo: consider org\agw\eco package for ecological capability, eco impacts, >
 * <todo: consider is eco also bio? or seperate bio package? biome biosphere >
-* <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\si package >
+* <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\siu package >
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
-* <todo: consider org\agw\pbs package for planetary boundry science >
-* <todo: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages >
 * <todo: consider generics, method parameter arguments, method return arguments, >
 
 DONE
@@ -67,6 +65,9 @@ DONE
 * <done: consider org\agw\geo for geological capability, create Holocene >
 * <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
 * <done: consider org\agw\amn autonomous meteorological network, meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, iot/iiot synoptic? >
+* <done: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages where appliable >
+* <done: consider org\agw\pbs package for planetary boundry science >
+* 
 
 ## References
 
