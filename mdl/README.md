@@ -14,7 +14,7 @@ TODO
 * <todo: consider, design time model interface , 
 * <todo: consider, run time model interface, >
 * <todo: consider, digital twin model interface, >
-* <todo: consider, emr model requirements, >
+* <todo: consider, emr model requirements, the emr project tobe created, >
 
 DONE
 * <done: intent to commit >
