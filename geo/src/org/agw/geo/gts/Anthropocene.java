@@ -30,9 +30,9 @@ public interface Anthropocene extends Age, Stage {
 	// <todo: upper boundary >
 	// <todo: lower boundary > 
 	// lower boundary, consider, ...
-	// lower boundary, consider, industrial age, circa 1740 
-	// lower boundary, consider, steam engine, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 
-	// lower boundary, consider, mass production, ford model T  
+	// lower boundary, consider, industrial age, circa 1740, 
+	// lower boundary, consider, steam (engine) age, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/
+	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, https://en.wikipedia.org/wiki/Ford_Model_T
 	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/ , 
 	// lower boundary, consider, ...
 	
@@ -40,9 +40,9 @@ public interface Anthropocene extends Age, Stage {
 	 * References
 	 */
 	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Anthropocene"; // consider RDF friendly name for field
-	/* chronology */
+	/* geochronology, GSSA,  */
 	public static final String GSSA_URI = "to be sourced"; // <todo: source, GSSA URI, link to ICS/IUGS resource, >
-	/* stratigraphy */
+	/* chronostratigraphy, GSSP, hard science, physical evidence base, */
 	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, link to ICS/IUGS resource, >
 	 
 	/**

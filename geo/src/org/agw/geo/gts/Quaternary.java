@@ -33,9 +33,9 @@ public interface Quaternary extends Period, System {
 	 * References
 	 */
 	public static final String WIKIPEDIA_URI = "https://en.wikipedia.org/wiki/Quaternary"; // consider RDF friendly name for field
-		/* chronology */
+	/* geochronology, GSSA,  */
 	public static final String GSSA_URI = "to be sourced"; // <todo: source, GSSA URI, link to ICS/IUGS resource, >
-	/* stratigraphy */
+	/* chronostratigraphy, GSSP, hard science, physical evidence base, */
 	public static final String GSSP_URI = "to be sourced"; // <todo: source, GSSP URI, link to ICS/IUGS resource, >
 	
 	/**
