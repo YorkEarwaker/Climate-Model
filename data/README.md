@@ -18,6 +18,7 @@ Data
 TODO
 * <todo: create projects per data type identified >
 * <todo: consider better name than Series? time series weather/climate, not to confuse it with epoch/series? consult Met Office WMO WWA >
+* <todo: consider moving data related concerns from other project here, for example eea datapiplines for statistical climatology >
 
 DONE
 * <done: intent to commit >
@@ -28,7 +29,9 @@ DONE
 
 ## References
 
-* Weather series data,  
+* Weather series data, uninterupted homogenaic long time series
+* Forcast
+* Hindcast
 
 Time scales
 * Year, February 2034, projected year of breaching 1.5 Paris agreement global temperature, initial projection was March 2045, Paris Agreement signed December 2015, last sourced 14 January 2025
