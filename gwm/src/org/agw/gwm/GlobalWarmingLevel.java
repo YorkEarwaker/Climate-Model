@@ -10,10 +10,17 @@ package org.agw.gwm;
 public interface GlobalWarmingLevel {
 	
 	// will this extend Metric interface?
+	/**
+	 * constants; public static final field declarations, default
+	 */
 
 	/**
-	 * @param args
+	 * public abstract method declarations, default
+	 * private abstract method declartions, if any
 	 */
-	// public void foo(); // todo: stubb holder
+
+	/**
+	 * defualt method implementation declarations, if any
+	 */
 
 }

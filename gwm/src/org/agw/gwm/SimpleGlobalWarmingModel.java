@@ -24,6 +24,9 @@ public class SimpleGlobalWarmingModel implements GlobalWarmingModel {
 		System.out.print("Simple Global Warming Model.default-constructor ");
 	}
 	
+	/**
+	 * from Model
+	 */
 	@Override
 	public void model() {
 		System.out.print("Simple Global Warming Model.model ");
@@ -38,9 +41,22 @@ public class SimpleGlobalWarmingModel implements GlobalWarmingModel {
 	public void space() {
 		System.out.print("Simple Global Warming Model.space ");
 	}
-
+	
+	/**
+	 * from GlobalWarmingModel
+	 */
 	@Override
-	public void forcing() {
-		System.out.print("Simple Global Warming Model.forcing ");
+	public void radiativeForcingEstimate() {
+		System.out.print("Simple Global Warming Model.radiativeForcingEstimate ");
+	}
+	
+	@Override
+	public void globalMeanSurfaceTemperature() {
+		System.out.print("Simple Global Warming Model.radiativeForcingEstimate ");
+	}
+	
+	@Override
+	public void atmosphericCO2Concentration() {
+		System.out.print("Simple Global Warming Model.radiativeForcingEstimate ");
 	}
 }

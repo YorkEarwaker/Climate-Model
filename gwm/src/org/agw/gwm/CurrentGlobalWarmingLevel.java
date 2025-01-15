@@ -12,8 +12,21 @@ package org.agw.gwm;
 public interface CurrentGlobalWarmingLevel extends GlobalWarmingLevel {
 
 	/**
+	 * constants; public static final field declarations, default
+	 */
+	 
+ 	/**
+	 * public abstract method declarations, default
+	 * private abstract method declartions, if any
+	 */
+	 
+	/**
 	 * @param args
 	 */
-	// public void foo(); // todo: stubb holder
+	public void currentGlobalWarmingLevel(); // method declaration? interface usage of same?
+	
+	/**
+	 * defualt method implementation declarations, if any
+	 */
 
 }
