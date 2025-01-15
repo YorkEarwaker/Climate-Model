@@ -12,7 +12,8 @@ TODO
 * <todo: consider, other geologicla time scale instances, further back in Earths geological history >
 * <todo: consider, create remaining two Ages/Stages of the Holocenen Epoch/Series, Northgrippian, Greenlandian respectively >
 * <todo: consider, create remaining Pleistocene Epoch/Series of the Quaternary Period/System, >
-* <todo: onsider, create the Ages/Stages of the Pleistocene Epoch/Series, >
+* <todo: consider, create the Ages/Stages of the Pleistocene Epoch/Series, >
+* <todo: consider, geo location, org\agw\geo\loc or \gps or \another? ponder more, more research, will be required, looks like right project, >
 
 DONE
 * <done: first commit>
