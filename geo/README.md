@@ -6,10 +6,13 @@ Geology capability. Geological Time Scales GTS, ICS/IUGS.
 
 TODO
 * <todo: Iterate project,   >
-* <todo: one concrete Age interface, >
 * <todo: source geo open source libraries and other geo solutions repository tech, data, ontology, >
 * <todo: consider, GSSP & GSSA GTS interfaces, ICS/UGS, Age/Stage, Epoch/Series, ... >
 * <todo: consider, Geostatographic interface (GSSP), Chronogeological interface (GSSA), as inheritence hierarchy for Stage/Series/..., Age/Epoch/... >
+* <todo: consider, other geologicla time scale instances, further back in Earths geological history >
+* <todo: consider, create remaining two Ages/Stages of the Holocenen Epoch/Series, Northgrippian, Greenlandian respectively >
+* <todo: consider, create remaining Pleistocene Epoch/Series of the Quaternary Period/System, >
+* <todo: onsider, create the Ages/Stages of the Pleistocene Epoch/Series, >
 
 DONE
 * <done: first commit>
