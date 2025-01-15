@@ -3,11 +3,15 @@
  */
 package org.agw.gwm;
 
+import org.agw.mdl.Model;
+
 /**
  * ClimateModel
  * 
  */
-public interface ClimateModel {
+public interface ClimateModel extends Model {
+	
+	// <todo: final static constants, method declarations, method defualts, >
 	
 	/**
 	 * constants; public static final field declarations, default
@@ -17,9 +21,6 @@ public interface ClimateModel {
 	 * public abstract method declarations, default
 	 * private abstract method declartions, if any
 	 */
-	public void model(); // todo: what is being modelled, model type attributes
-	public void time(); // todo: date time, when is this
-	public void space(); // todo: geo location, where is this, earth another planet
 	
 	/**
 	 * defualt method implementation declarations, if any
