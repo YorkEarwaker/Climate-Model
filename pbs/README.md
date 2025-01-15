@@ -21,3 +21,6 @@ Terms
 Organisations
 * Potsdam Institute for Climate Impact Research PIK, [WS](https://www.pik-potsdam.de/)
 * Stockholm Resilience Centre SRC, [WS](https://www.stockholmresilience.org/)
+
+Reports
+* Planetary Health Check, 2024, [PDF](https://www.planetaryhealthcheck.org/storyblok-cdn/f/301438/x/a4efc3f6d5/planetaryhealthcheck2024_report.pdf)
