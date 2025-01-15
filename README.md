@@ -48,15 +48,13 @@ TODO
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
 * <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
-* <todo: refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
-* <todo: consider org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <todo: consider org\agw\eco package for ecological capability, eco impacts, >
 * <todo: consider is eco also bio? or seperate bio package? biome biosphere >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\siu package >
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider generics, method parameter arguments, method return arguments, >
-* <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, >
+* <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
 
 DONE
 * <done: first iteration readme, >
@@ -68,6 +66,8 @@ DONE
 * <done: consider org\agw\amn autonomous meteorological network, meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, iot/iiot synoptic? >
 * <done: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages where appliable >
 * <done: consider org\agw\pbs package for planetary boundry science >
+* <done: consider, DRY, refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
+* <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * 
 
 ## References
