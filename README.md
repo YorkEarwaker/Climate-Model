@@ -56,6 +56,7 @@ TODO
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider generics, method parameter arguments, method return arguments, >
+* <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, >
 
 DONE
 * <done: first iteration readme, >
