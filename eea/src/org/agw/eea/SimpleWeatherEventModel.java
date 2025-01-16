@@ -14,7 +14,7 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Simple Weather Event Model!");
+		System.out.println("Simple Weather Event Model!");
 	}
 	
 	/**
@@ -22,26 +22,26 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 	*/ 
 	private SimpleWeatherEventModel() {
 		super();
-		System.out.print("Simple Weather Event Model.default-constructor ");
+		System.out.println("Simple Weather Event Model.default-constructor ");
 	}
 	
 	@Override
 	public void model() {
-		System.out.print("Simple Weather Event Model.model ");
+		System.out.println("Simple Weather Event Model.model ");
 	}
 		
 	@Override
 	public void time() {
-		System.out.print("Simple Weather Event Model.time ");
+		System.out.println("Simple Weather Event Model.time ");
 	}
 	
 	@Override
 	public void space() {
-		System.out.print("Simple Weather Event Model.space ");
+		System.out.println("Simple Weather Event Model.space ");
 	}
 
 	@Override
 	public void weatherEvent() {
-		System.out.print("Simple Weather Event Model.forcing ");
+		System.out.println("Simple Weather Event Model.weatherEvent ");
 	}
 }
