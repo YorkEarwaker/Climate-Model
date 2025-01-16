@@ -11,11 +11,11 @@ Model kinds
 ## Status
 
 TODO
-* <todo: consider, design time model interface , 
-* <todo: consider, run time model interface, >
-* <todo: consider, digital twin model interface, >
+* <todo: consider, design time model interface, designTimeModel >
+* <todo: consider, run time model interface, runTimeModel >
+* <todo: consider, digital twin model interface, digitalTwinModel >
 * <todo: consider, emr model requirements, the emr project tobe created, >
-* <todo: consider, interfaces designTimeModel, runTimeModel, digitalTwinModel, >
+* <todo: consider, interface >
 
 DONE
 * <done: intent to commit >
