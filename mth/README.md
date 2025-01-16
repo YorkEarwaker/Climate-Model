@@ -28,7 +28,7 @@ Languages
 * Java, app server side
 * R, not in current intertion
 * Python, analytics, not in current intertion
-* C++, 
+* C++, not in current intertion
 
 ## References
 
