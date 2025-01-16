@@ -5,13 +5,26 @@ package org.agw.eea;
 
 /**
  * WeatherEventAttribution
- * todo: provide arguments, consider generics
+ * 
  */
 public interface WeatherEventAttribution extends EventAttributionProtocol {
 	
 	/**
-	 * @param args
+	 * constants; public static final field declarations, default
 	 */
-	// public void foo(); // todo: rename method, one of the protocol method declarations, 
+	 
+	/**
+	 * public abstract method declarations, default
+	 * private abstract method declartions, if any
+	 */
+	 
+	 /**
+	  * @param args
+	  */
+	//public void foobha();	
+	
+	/**
+	 * defualt method implementation declarations, if any
+	 */
 
 }
