@@ -28,6 +28,7 @@ Languages
 * Java, app server side
 * R, not in current intertion
 * Python, analytics, not in current intertion
+* C++, 
 
 ## References
 
@@ -38,4 +39,7 @@ Equations/Exponentials
 
 News Papers
 * How to implement the Gaussian mutation operator for a genetic algorithm in Java, [WS](https://stackoverflow.com/questions/6275827/how-to-implement-the-gaussian-mutation-operator-for-a-genetic-algorithm-in-java), updated 12 April 2018, Stackoverflow,
-* 
+
+Learning
+* How can I generate random numbers with a normal or Gaussian distribution?, [WS](https://c-faq.com/lib/gaussian.html), comp.lang.c FAQ list · Question 13.20, 
+
