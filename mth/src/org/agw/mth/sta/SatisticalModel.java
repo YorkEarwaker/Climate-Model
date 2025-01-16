@@ -1,7 +1,9 @@
 /**
- * Model
+ * Mathematics
  */
-package org.agw.mdl;
+package org.agw.mth.sta;
+
+import org.agw.mdl.Model;
 
 /**
  * StatisticalModel

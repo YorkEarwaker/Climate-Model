@@ -1,8 +1,7 @@
 /**
- * Model
- * 
+ * Mathematics
  */
-package org.agw.mdl;
+package org.agw.mth.sta;
 
 /**
  * StatisticalModelKind
