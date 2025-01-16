@@ -37,6 +37,9 @@ Languages
 Equations/Exponentials
 * Gaussian, [WP](https://en.wikipedia.org/wiki/Gaussian_function)
 
+Calculus
+* Integration by substitution, [WP](https://en.wikipedia.org/wiki/Integration_by_substitution)
+
 News Papers
 * How to implement the Gaussian mutation operator for a genetic algorithm in Java, [WS](https://stackoverflow.com/questions/6275827/how-to-implement-the-gaussian-mutation-operator-for-a-genetic-algorithm-in-java), updated 12 April 2018, Stackoverflow,
 
