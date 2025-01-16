@@ -11,6 +11,7 @@ TODO
 * <todo: consider, Apache Spark GaussianMixture, like this idea as it is a good excuse to use Spark, >
 * <todo: consider, Discrete Gaussian Kernal, roll your own, the most fun due to the most to learn but the most daunting, not the simplest >
 * <todo: consider, changeing package org\agw\mth\sta statistics to org\agw\mth\exp exponentiation >
+* <todo: implement the algorithem in eea paper, see eea Gaussian model DOI URI below. >
 
 
 DONE
