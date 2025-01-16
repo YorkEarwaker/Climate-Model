@@ -69,7 +69,7 @@ DONE
 * <done: consider org\agw\pbs package for planetary boundry science >
 * <done: consider, DRY, refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
 * <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
-* <todo: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
+* <done: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
 
 ## References
 
