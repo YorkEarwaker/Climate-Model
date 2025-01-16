@@ -19,6 +19,16 @@ DONE
 * <done: use StatiticalModel and other interfaces to hid implementation details, SOLID SEP, wip >
 * <done: GaussianStatisticalModel interface, started wip >
 
+## Libraries
+
+Libs
+* to source
+
+Languages
+* Java, app server side
+* R, not in current intertion
+* Python, analytics, not in current intertion
+
 ## References
 
 * Statistics
