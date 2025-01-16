@@ -55,6 +55,7 @@ TODO
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider generics, method parameter arguments, method return arguments, >
 * <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
+* <todo: consider, urban planning, org\agw\flw >
 
 DONE
 * <done: first iteration readme, >
@@ -106,4 +107,9 @@ Papers
 
 News Papers
 * 2024: record-breaking watershed year for global climate, 10 Jan 2025, Grahame Madge, Met Office [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/2024-record-breaking-watershed-year-for-global-climate)
+
+Public Service Broadcasting, BBC, DW, F24, PBS, ...
+
+Urban Planning
+* Fireproofing Our Future through Better Design, 30 November 2018, Tech + Engineering, PBS, [WS](https://www.pbs.org/wgbh/nova/video/fireproofing-our-future-through-better-design/), Before a wildfire ever starts, there are ways to make homes and buildings safer.
 
