@@ -56,7 +56,6 @@ TODO
 * <todo: consider generics, method parameter arguments, method return arguments, >
 * <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
 * <todo: consider, urban planning, org\agw\flw >
-* <todo: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
 
 DONE
 * <done: first iteration readme, >
@@ -70,7 +69,7 @@ DONE
 * <done: consider org\agw\pbs package for planetary boundry science >
 * <done: consider, DRY, refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
 * <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
-* 
+* <todo: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
 
 ## References
 
