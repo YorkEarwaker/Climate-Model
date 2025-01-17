@@ -36,10 +36,11 @@ TODO
 * <todo: Autonomous Meteorological Network, placeholder name, project name tbc, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? other name?  >
 * <todo: consider base instrumentation, Thermometer (air/sea surface temperature), Barometer (air pressure), Hygrometer (humidity), Anemometer (wind speed), Pyranometer (solar radiation), Rain guage (precipitation), Wind vane (wind direction), ceilometer (cloud height), present weather sensor/visibility sensor, ultrasonic snow depth sensor, Evaporation pan, others. Which are core base which are specific to context? >
 * <todo: consider C++ repository structure, as this will be systems engineering; hardward, firmware, . some server side application code telemetry data processing, may require java code base, & web front end, >
-* <todo: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will probably better allow for multiple code bases, >
+* <todo: consider, several sub-directories to amn project if multiple code bases are required, >
 
 DONE
 * <done: intent to commit >
+* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi is Java centric, Apache Celix for OSGi implenentation for C/C++ >
 
 ## References
 
