@@ -17,7 +17,7 @@ See
 
 * Global warming data, global warming limits, planetary boundary science
 * World Weather Attribution data, extreme event attribution
-* Extreme event emergency reponse and management data
+* Extreme event emergency management response and recovery data
 * Planning data, mitigation, adaptation, civil engineering, 
 * Future proofing adaptation
 * Strategic resilliency 
@@ -36,6 +36,7 @@ TODO
 * <todo: Autonomous Meteorological Network, placeholder name, project name tbc, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? other name?  >
 * <todo: consider base instrumentation, Thermometer (air/sea surface temperature), Barometer (air pressure), Hygrometer (humidity), Anemometer (wind speed), Pyranometer (solar radiation), Rain guage (precipitation), Wind vane (wind direction), ceilometer (cloud height), present weather sensor/visibility sensor, ultrasonic snow depth sensor, Evaporation pan, others. Which are core base which are specific to context? >
 * <todo: consider C++ repository structure, as this will be systems engineering; hardward, firmware, . some server side application code telemetry data processing, may require java code base, & web front end, >
+* <todo: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will probably better allow for multiple code bases, >
 
 DONE
 * <done: intent to commit >
@@ -52,5 +53,5 @@ Organisations
 * WMO
 * Regional Climate Centres RCCs,
 * Regional Climate Outlook Forums RCOFs,
-* National Meteorological and Hydrological Services NMHSs,
+* National Meteorological and Hydrological Services NMHSs, for example; UK Met Office, 
 * 
