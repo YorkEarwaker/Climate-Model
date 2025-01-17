@@ -40,7 +40,7 @@ TODO
 
 DONE
 * <done: intent to commit >
-* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi is Java centric, Apache Celix for OSGi implenentation for C/C++ >
+* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementaton in Java centric projects, Apache Celix for OSGi implenentation for C/C++ centric projects, >
 
 ## References
 
