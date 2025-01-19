@@ -38,4 +38,8 @@ Papers
 
 News Papers
 * Global temperature is likely to exceed 1.5°C above pre-industrial level temporarily in next 5 years, 5 June 2024, Press Release, WMO, [WS](https://wmo.int/news/media-centre/global-temperature-likely-exceed-15degc-above-pre-industrial-level-temporarily-next-5-years)
+* The increase of atmospheric carbon dioxide (CO₂) is now incompatible with IPCC pathways which remain below 1.5°C, a Met Office study finds., 17 Jan 2025, Grahame Madge, Met Office, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/rise-in-carbon-dioxide-off-track-for-limiting-global-warming-to-1.5c)
+* 
+
+ 
 
