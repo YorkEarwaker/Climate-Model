@@ -4,7 +4,7 @@ Anthropogenic global warming and climate change are long term topics of concern.
 
 Weather data and climate data is a first class topic of concern.
 
-Data 
+Data types
 * Climate, backward looking - centuries millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
 * Weather, backward looking - years decades centuries, forward looking - near time projections days weeks months years
 * Metadata
@@ -19,6 +19,8 @@ TODO
 * <todo: create projects per data type identified >
 * <todo: consider better name than Series? time series weather/climate, not to confuse it with epoch/series? consult Met Office WMO WWA >
 * <todo: consider moving data related concerns from other project here, for example eea datapiplines for statistical climatology >
+* <todo: consider, first cut pull services to access data storage sites, RESTful, JSON, other? implies Java project, polling? probably only to dedicated notification resources,  >
+* <todo: consider, first cut alert services to warn of unusal readings from data storage sites, RESTful, JSON, other? implies Java project, >
 
 DONE
 * <done: intent to commit >
