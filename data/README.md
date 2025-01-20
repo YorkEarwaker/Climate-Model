@@ -7,6 +7,10 @@ Weather data and climate data is a first class topic of concern.
 Data kinds
 * Climate, backward looking - centuries millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
 * Weather, backward looking - years decades centuries, forward looking - near time projections days weeks months years
+* Atmospheric, gas phase
+* Oceanic, liquid phase
+* Lithographic, solid phase
+* Cryogenic, solid phase
 * Metadata
 * Reference
 * Series, time series weather/climate
@@ -38,7 +42,7 @@ Atmospheric CO2 Measurement Sites, and other aerosols and gasses
 * Réseau Atmosphérique de Mesure des Composés à Effet de Serre RAMCES, Institut Pierre-Simon Laplace IPSL, France and other locations globally
 * NOAA/ESRL Baseline Observatory Netork, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
 
-Sources of other data types to list
+Sources of other data kinds to list
 * ...
 
 ## References
