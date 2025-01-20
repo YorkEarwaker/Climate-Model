@@ -1,6 +1,6 @@
 # Autonomous meteorological network amn
 
-Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. Unmanned technology systems. Synoptic? System of systems.
+Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. Unmanned technology systems. Synoptic? System of systems. Global systems management.
 
 Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
 
