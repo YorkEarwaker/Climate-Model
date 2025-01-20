@@ -35,6 +35,7 @@ Tools
 
 Papers
 * Approaching 1.5 °C: how will we know we’ve reached this crucial warming mark?, 01 December 2023, Richard A. Betts, Stephen E. Belcher, Leon Hermanson, Albert Klein Tank, Jason A. Lowe, Chris D. Jones, Colin P. Morice, Nick A. Rayner, Adam A. Scaife & Peter A. Stott, COMMENT, Nature 624, 33-35 (2023), [DOI](https://doi.org/10.1038/d41586-023-03775-z), Assessing global mean temperature rise using the average warming over the previous one or two decades will delay formal recognition of when Earth breaches the Paris agreement’s 1.5 °C guard rail. Here is what’s needed to avoid the wait.
+*  Mauna Loa carbon dioxide forecast for 2025, Atmospheric CO2 rise now exceeding IPCC 1.5°C scenarios, 17 January 2025, Richard A. Betts, Chris D. Jones, Ralph Keeling, Jeff R. Knight, James O. Pope, Caroline Sandford, Met Office, [WS](https://www.metoffice.gov.uk/research/climate/seasonal-to-decadal/long-range/forecasts/co2-forecast-for-2025)
 
 News Papers
 * Global temperature is likely to exceed 1.5°C above pre-industrial level temporarily in next 5 years, 5 June 2024, Press Release, WMO, [WS](https://wmo.int/news/media-centre/global-temperature-likely-exceed-15degc-above-pre-industrial-level-temporarily-next-5-years)
