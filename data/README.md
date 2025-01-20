@@ -27,6 +27,14 @@ DONE
 ## Libraries
 * to source
 
+## Data
+
+Atmospheric CO2 Measurement Sites
+* Mauna Loa Observatory, Hawaii, since 1958, National Ocean and Atmospheric Administration NOAA, Scripps Iinstitution of Oceanography
+* World Data Centre for Greenhouse Gases WDCGG, Global Atmosphere Watch GAW program, data hosted in Japan Meteorological Agency JMA
+* Réseau Atmosphérique de Mesure des Composés à Effet de Serre RAMCES, Institut Pierre-Simon Laplace IPSL, France and other locations globally
+* NOAA/ESRL Baseline Observatory Netork, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
+
 ## References
 
 * Weather series data, uninterupted homogenaic long time series
