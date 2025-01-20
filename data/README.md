@@ -4,7 +4,7 @@ Anthropogenic global warming and climate change are long term topics of concern.
 
 Weather data and climate data is a first class topic of concern.
 
-Data types
+Data kinds
 * Climate, backward looking - centuries millenia age/stage epoch/series ..., forward looking - far time projections years decades centuries millennia,
 * Weather, backward looking - years decades centuries, forward looking - near time projections days weeks months years
 * Metadata
@@ -30,6 +30,7 @@ DONE
 * to source
 
 ## Data
+Sources of data for use in modelling.
 
 Atmospheric CO2 Measurement Sites, and other aerosols and gasses
 * Mauna Loa Observatory, Hawaii, since 1958, National Ocean and Atmospheric Administration NOAA, Scripps Iinstitution of Oceanography
