@@ -11,6 +11,8 @@ Data kinds
 * Oceanic, liquid phase
 * Lithographic, solid phase
 * Cryospheric, solid phase
+* Biospheric, phases? sinks, absorbtion, emmision, 
+* Anthrospheric, emmision, storage, transformation, 
 * Metadata
 * Reference
 * Series, time series weather/climate
