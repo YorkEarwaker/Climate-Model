@@ -10,7 +10,7 @@ Data kinds
 * Atmospheric, gas phase
 * Oceanic, liquid phase
 * Lithographic, solid phase
-* Cryogenic, solid phase
+* Cryospheric, solid phase
 * Metadata
 * Reference
 * Series, time series weather/climate
