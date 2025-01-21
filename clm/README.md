@@ -1,4 +1,4 @@
-# Climate model
+# Climate model clm
 
 Start at climate model. Related to weather model. Related to planetary boundary science.
 
