@@ -12,6 +12,7 @@ TODO
 * <todo: consider which of the model parts would be shared with weather model \wth >
 * <todo: consider, start with seven physical principles of climate model >
 * <todo: consider, RegionalClimateModel interface, >
+* <todo: consider, GlobalClimateModel interface, >
 
 DONE
 * <done: intent to commit>
@@ -59,7 +60,7 @@ parameters (perameterization), of cm, various systems and cycles, physicl proces
 * hydrogencycle?, H 1
 * oxygencycle?, O 8? 
 * phosphatecycle?, P 15? orthophosphate (PO4)3- 
-* sulphercycle? S 16, sulphides, coal bruning, acid rain, ocean acidification ...
+* sulphercycle? S 16?, sulphides, coal bruning, acid rain, ocean acidification ...
 * a n other cycle, 
 
 Land use
@@ -77,10 +78,10 @@ resolution, of cm
 
 geo location, of cm
 * global, IPCC, 
-* regional, diseas, agriculture, adpatation
+* regional, disease, agriculture, adpatation
 
 Chemical elements, earth systems, 
-* Abundance of chemical elements, (https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements)
+* Abundance of chemical elements, [WP](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements)
 * Abundance of elements in Earths crust, [WP](https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust)
 * Chemical compostion of atmosphere, [WP](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Composition)
 * Chemical composition of sea water, [WP](https://en.wikipedia.org/wiki/Seawater#Chemical_composition)
