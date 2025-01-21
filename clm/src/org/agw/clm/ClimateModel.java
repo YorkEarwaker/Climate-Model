@@ -21,6 +21,15 @@ public interface ClimateModel extends Model {
 	 * public abstract method declarations, default
 	 * private abstract method declartions, if any
 	 */
+	 
+	/**
+	 * The resoluiton of the model, grid size, micro, meso, macro, 
+	 * local micro 1k - 10k grid,London
+	 * regional meso 10k - 50k grid, 
+	 * global 50k - 100k grid, 2deg latitude longitude grid, 
+	 * <todo: review grid sizes of actual in silico models, >
+	 */
+	public static resolution();
 	
 	/**
 	 * defualt method implementation declarations, if any
