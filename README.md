@@ -56,7 +56,7 @@ TODO
 * <todo: consider generics, method parameter arguments, method return arguments, >
 * <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
 * <todo: consider, urban planning, org\agw\flw package >
-* <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package >
+* <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package, should this be \eng engineering and civil engineering appears as a sub package org\awg\eng\civ liking this approach better >
 
 DONE
 * <done: first iteration readme, >
