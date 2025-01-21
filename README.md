@@ -55,7 +55,8 @@ TODO
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
 * <todo: consider generics, method parameter arguments, method return arguments, >
 * <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
-* <todo: consider, urban planning, org\agw\flw >
+* <todo: consider, urban planning, org\agw\flw package >
+* <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package >
 
 DONE
 * <done: first iteration readme, >
