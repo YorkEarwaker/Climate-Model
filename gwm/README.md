@@ -8,6 +8,7 @@ TODO
 * <todo: consider CGWL Met Office blended as part of SimpleGlobaWarmingModel >
 * <todo: source two other papers cited in Met Office Nature 1 Dec 2023, re different GWL metric approaches, links broken in paper contact MO for links >
 * <todo: consider CO2, CH4 and N2O parts per million, start with service data retrieval, which org end point resources to get the data from? >
+* <todo: consider, RegionalWarmingModel, interface, >
 
 DONE
 * <done: org\aga\gwm package dir structure >
@@ -15,6 +16,7 @@ DONE
 * <done: consider GWL interface IPCC approach, stubb created >
 * <done: consider CGWL interface, Met Office blended IPCC compliant apporach, stubb created >
 * <done: abstract class? or interface default implemention? for GWL and CGWL for common implenentation capabiliity. likley interface default, >
+* 
 
 ## Libraries
 
