@@ -12,6 +12,8 @@ TODO
 * <todo: consider, Discrete Gaussian Kernal, roll your own, the most fun due to the most to learn but the most daunting, not the simplest >
 * <todo: consider, changeing package org\agw\mth\sta statistics to org\agw\mth\exp exponentiation >
 * <todo: implement the algorithem in eea paper, see eea Gaussian model DOI URI below. >
+* <todo: confirm all libs listed open source, >
+* <todo: confirm which libs listed are less likely to cause difficulties in lib disclosure, >
 
 
 DONE
@@ -22,8 +24,12 @@ DONE
 
 ## Libraries
 
-Libs
-* to source
+Libs <todo: some evaluations of each, which for which tasks? > 
+* Apache Commons, [WS](https://commons.apache.org/proper/commons-math/)
+* JScience, [WS](https://jscience.org/)
+* Parallel Colt, [WS](https://github.com/rwl/ParallelColt)
+* Colt, [WS](https://dst.lbl.gov/ACSSoftware/colt/)
+* Google Guava, [WS](https://github.com/google/guava)
 
 Languages
 * Java, app server side
@@ -34,6 +40,7 @@ Languages
 ## References
 
 * Statistics
+* List of numerical libraries, [WP](https://en.wikipedia.org/wiki/List_of_numerical_libraries), many languages including; Java, C, C++, Python, ...
 
 Equations/Exponentials
 * Gaussian, [WP](https://en.wikipedia.org/wiki/Gaussian_function)
@@ -43,6 +50,7 @@ Calculus
 
 News Papers
 * How to implement the Gaussian mutation operator for a genetic algorithm in Java, [WS](https://stackoverflow.com/questions/6275827/how-to-implement-the-gaussian-mutation-operator-for-a-genetic-algorithm-in-java), updated 12 April 2018, Stackoverflow,
+* Best Math Libraries Every Java Developer Should Know, 11 Dec 2023, Sarwan Soomro, HowTo, Java Howtos, DelftStack, [WS](https://www.delftstack.com/howto/java/java-mathematical-library/)
 
 Learning
 * How can I generate random numbers with a normal or Gaussian distribution?, [WS](https://c-faq.com/lib/gaussian.html), comp.lang.c FAQ list · Question 13.20, 
