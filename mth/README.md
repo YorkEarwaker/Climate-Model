@@ -14,6 +14,7 @@ TODO
 * <todo: implement the algorithem in eea paper, see eea Gaussian model DOI URI below. >
 * <todo: confirm all libs listed open source, >
 * <todo: confirm which libs listed are less likely to cause difficulties in lib disclosure, >
+* <todo: download Apache Commons Math use in first instance in GaussianRandom >
 
 
 DONE
