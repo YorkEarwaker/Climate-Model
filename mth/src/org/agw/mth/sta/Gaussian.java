@@ -8,12 +8,14 @@ package org.agw.mth.sta;
  * Stubb
  * <todo: consider different gaussian solutions, >
  */
-public interface Gaussian extends {
+public interface Gaussian {
+	
+	// <todo: consider extending higher mathematics interface? >
 	
 	/**
 	 * constants; public static final field declarations, default
 	 */
-	 public static final int GAUSSIAN_RANDOM_NUMBERS_TO_SUM = 25;
+	 public static final int GAUSSIAN_RANDOM_NUMBERS_TO_SUM = 25; // Central Limit Theorem, law of larg numbers. Gaussian
 	 
 	/**
 	 * public abstract method declarations, default
