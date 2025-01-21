@@ -57,7 +57,6 @@ TODO
 * <todo: consisder, org\agw\e2r emergency response & recovery package, emergency services, health services, environment servcies, national meteorological & hydrological services, . name package emr emergency managemet response & recovery, likley emr over e2r >
 * <todo: consider, urban planning, org\agw\flw package >
 * <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package, should this be \eng engineering and civil engineering appears as a sub package org\awg\eng\civ liking this approach better >
-* <todo: consider, seperate climate org\agw\clm package to global warming model \gwm, unsure, >
 * <todo: consider, seperate weather org\agw\wth package related to climate package there is likely to be a lot of overlap particularly in physics \phy and chemistry \chm >
 
 DONE
@@ -73,6 +72,7 @@ DONE
 * <done: consider, DRY, refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
 * <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <done: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
+* <done: consider, seperate climate org\agw\clm package to global warming model \gwm, move AnthropogenicClimateChange and ClimateModel to this package, >
 
 ## References
 
