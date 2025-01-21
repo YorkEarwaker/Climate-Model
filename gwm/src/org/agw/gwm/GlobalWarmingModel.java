@@ -5,9 +5,9 @@ package org.agw.gwm;
 
 /**
  * GlobalWarmingModel
- * <todo: consider just extend Model? >
+ * 
  */
-public interface GlobalWarmingModel extends ClimateModel {
+public interface GlobalWarmingModel extends WarmingModel {
 
 	/**
 	 * constants; public static final field declarations, default
