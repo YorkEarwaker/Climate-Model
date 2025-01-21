@@ -7,17 +7,9 @@ package org.agw.mth.sta;
  * GaussianStatisticalModel
  * Stubb
  * <todo: consider different gaussian solutions, >
+  * <todo: consider deleting? possibly different usage than first imagined, and parhaps move back to org\agw\mdl ? >
  */
-public class GaussianStatisticalModel extends StatisticalModel {
-	
-	
-	//<todo: consider variable types, should these even be here, in an abstract class perhpas? >
-	//<todo: int is placeholder var type, taken from wwa eea paper https://doi.org/10.5194/ascmo-6-177-2020 >
-	//<todo: implement these https://c-faq.com/lib/gaussian.html >
-	 private int shapeParameter ξ ; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter)
-	 private int scaleParameter σ  ; // Sigma σ https://en.wikipedia.org/wiki/Sigma
-	 private int threshold μ ; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
-	 private int thing x ; // the thing being modelled, precipitation, temperature, <todo: refactor, after better definition, >
+public class GaussianStatisticalModel extends StatisticalModel, Gaussian {
 	
 	/**
 	 * @param args
@@ -39,5 +31,7 @@ public class GaussianStatisticalModel extends StatisticalModel {
 		System.out.println("Gaussian Statistical Model.calculate"); // debug
 		// <todo: consider java math lib use here? >
 	}
+
+	// @Override the Model method declarations, 
 
 }
