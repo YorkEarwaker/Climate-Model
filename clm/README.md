@@ -11,6 +11,7 @@ TODO
 * <todo: consider which of the model parts would best sit in physics \phy some of which would be shared by weather \wth model >
 * <todo: consider which of the model parts would be shared with weather model \wth >
 * <todo: consider, start with seven physical principles of climate model >
+* <todo: consider, RegionalClimateModel interface, >
 
 DONE
 * <done: intent to commit>
