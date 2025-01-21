@@ -37,8 +37,8 @@ TODO
 * <todo: consider base instrumentation, Thermometer (air/sea surface temperature), Barometer (air pressure), Hygrometer (humidity), Anemometer (wind speed), Pyranometer (solar radiation), Rain guage (precipitation), Wind vane (wind direction), ceilometer (cloud height), present weather sensor/visibility sensor, ultrasonic snow depth sensor, Evaporation pan, others. Which are core base which are specific to context? >
 * <todo: consider C++ repository structure, as this will be systems engineering; hardward, firmware, . some server side application code telemetry data processing, may require java code base, & web front end, >
 * <todo: consider, several sub-directories to amn project if multiple code bases are required, >
-* <todo: consider, similar objectives, autonomous atmospheric network aan, at varous heights in the gas phase column, gasses, aerosols, particulates, >
-* <todo: consider, similar objectives, autonomous oceanic network aon, at varous depths in the liquid phase column, disolved gasses, temperature, flows,  >
+* <todo: consider, similar objectives, autonomous atmospheric network aan, at varous heights in the gas phase column, gasses, aerosols, particulates, spectroscopy, >
+* <todo: consider, similar objectives, autonomous oceanic network aon, at varous depths in the liquid phase column, disolved gasses, temperature, flows, biome, >
 
 DONE
 * <done: intent to commit >
