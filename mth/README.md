@@ -27,6 +27,9 @@ DONE
 ## Libraries
 
 Libs <todo: some evaluations of each, which for which tasks? > 
+* List of numerical libraries, [WP](https://en.wikipedia.org/wiki/List_of_numerical_libraries), many languages including; Java, C, C++, Python, ...
+
+Java
 * Apache Commons, [WS](https://commons.apache.org/proper/commons-math/)
 * JScience, [WS](https://jscience.org/)
 * Parallel Colt, [WS](https://github.com/rwl/ParallelColt)
@@ -42,7 +45,7 @@ Languages
 ## References
 
 * Statistics
-* List of numerical libraries, [WP](https://en.wikipedia.org/wiki/List_of_numerical_libraries), many languages including; Java, C, C++, Python, ...
+* 
 
 Equations/Exponentials
 * Gaussian, [WP](https://en.wikipedia.org/wiki/Gaussian_function)
