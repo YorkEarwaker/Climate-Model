@@ -31,3 +31,19 @@ Organisations
 * ICS
 * IUGS
 
+Rock forming elements
+* Na
+* Al
+* Si
+* K
+* Ca
+* Fe
+
+* F
+* Mg
+* S
+* Cl
+* Ti
+* Mn
+
+* <todo: copy link to abundance of earth elements here from \clm readme.md >
