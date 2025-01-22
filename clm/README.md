@@ -63,7 +63,7 @@ variables, of principles, of cm, seven
 * water vapor content
 * wind magnitude in three directions
 
-parameters (perameterization), of cm, molecules, elements, 
+parameters (perameterization), of cm, air, land, water, molecules, elements, 
 * hydrocycle, water, H2O, 
 * hydrocycle, clouds, 
 * hydrocycle, rain, precipitation, 
@@ -80,7 +80,7 @@ parameters (perameterization), of cm, molecules, elements,
 * sulphercycle? S 16?, sulphides, coal bruning, acid rain, ocean acidification ...
 * a n other cycle, 
 
-parameters (perameterization), of cm, land use
+parameters (perameterization), of cm, air, land, 
 * topograpy
 * orogrophy
 * coast lines
@@ -88,7 +88,11 @@ parameters (perameterization), of cm, land use
 * soil types
 * agriculture
 * deforestation
-* urbanisation, heat islands, albedo, 
+* urbanisation, heat islands, albedo,
+
+parameters (perameterization), of cm, air, water, oceans
+* sea surface temperature sst,
+* 
 
 resolution, of cm
 * fine grained, tens of kilometers
