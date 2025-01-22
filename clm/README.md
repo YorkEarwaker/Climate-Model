@@ -27,6 +27,8 @@ TODO
 * <todo: consider, review of Met Office parameterization criteria >
 * <todo: consider, multi resolution model grids for NWP, Ensemble, others types, e.g. finer grained inner domain 1-2k, courser grained outer domain 4-5k, variable transition boundary between fine grain and course grain, >
 * <todo: consider, model grid time step, time between factoring for grid point, >
+* <todo: consider, model perterbations, model scenarios, for ensamble forecasts and other types, slight variations of conditions, >
+* <todo: consider, model initial starting parameters, model secnarios, >
 
 DONE
 * <done: intent to commit>
