@@ -78,6 +78,7 @@ parameters (perameterization), of cm, molecules, elements,
 parameters (perameterization), of cm, land use
 * topograpy
 * orogrophy
+* coast lines
 * land cover
 * soil types
 * agriculture
