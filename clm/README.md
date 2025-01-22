@@ -24,6 +24,7 @@ TODO
 * <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term weather forecast, >
 * <todo: consider, SeasonalClimateModel interface, >
 * <todo: consider, review of Met Office parameterization criteria >
+* <todo: consider, multi resolution model grids, finer grained inner domain 1-2k, courser grained outer domain 4-5k, variable transition boundary between fine grain and course grain, >
 
 DONE
 * <done: intent to commit>
