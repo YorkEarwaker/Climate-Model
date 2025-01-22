@@ -72,7 +72,7 @@ variables, of principles, of cm, seven
 
 parameters (perameterization), of cm, air, land, water, molecules, elements, 
 * hydrocycle, water, H2O, 
-* hydrocycle, clouds, 
+* hydrocycle, clouds, deep convection?
 * hydrocycle, rain, precipitation, 
 * hydrocycle, snow, grownd cover and albedo effect, and precipitation?, 
 * hydrocycle, ice, grownd & sea cover and albedo effect, 
@@ -89,7 +89,7 @@ parameters (perameterization), of cm, air, land, water, molecules, elements,
 
 parameters (perameterization), of cm, air, land, 
 * topograpy
-* orogrophy
+* orogrophy, gravity wave drag
 * coast lines
 * land cover
 * soil types
