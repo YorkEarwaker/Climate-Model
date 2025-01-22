@@ -19,10 +19,11 @@ TODO
 * <todo: consider, start with seven physical principles of climate model >
 * <todo: consider, RegionalClimateModel interface, >
 * <todo: consider, GlobalClimateModel interface, >
-* <todo: consider, UnifiedModel interface, Regional and Global extensions,
+* <todo: consider, UnifiedModel interface, Regional and Global extensions, >
 * <todo: ponder inheritance heirarchy, UML? >
 * <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term weather forecast, >
 * <todo: consider, SeasonalClimateModel interface, >
+* <todo: consider, review of Met Office parameterization criteria >
 
 DONE
 * <done: intent to commit>
