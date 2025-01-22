@@ -13,4 +13,4 @@ DONE
 To be placed elsewhere in the project documentation
 
 Climate model
-* TEAMx, [WS](https://www.teamx-programme.org/), orography, 
+* TEAMx, Multi-scale **t**ransport and **e**xchange processes in the **a**tmosphere over **m**ountains – programme and e**x**periment, [WS](https://www.teamx-programme.org/), orography, 
