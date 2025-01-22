@@ -30,7 +30,7 @@ TODO
 * <todo: consider, model perterbations, model scenarios, for ensamble forecasts and other types, slight variations of conditions, >
 * <todo: consider, model initial starting parameters, model secnarios, >
 * <todo: consider, interfaces for DecadalClimateModel, CentenialClimateModel, other large time steps, >
-* <todo: consider, resolution, vertical hieght atmosphere resoution, vertical depth ocean resolution, >
+* <todo: consider, model grid resolution, vertical hieght atmosphere resolution, vertical depth ocean resolution, >
 
 DONE
 * <done: intent to commit>
