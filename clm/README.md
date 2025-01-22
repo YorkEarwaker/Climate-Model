@@ -34,7 +34,7 @@ TODO
 * <todo: consider, core climate\weather model, dynamical core, laws of fluid motion, dynamical equations of fluid motion, non linar Naview Stokes partial differential equations, laws of thermodynamics, concervation laws for example of mass, >
 * <todo: condider, dynamical core, spherical harmonics, >
 * <todo: consider, hydrostatic equations of motion vs non hydrostatic equations of motion, >
-* <todo: consider, 16 bit vs 32 bit vs 64 bit reals, >
+* <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
 
 DONE
 * <done: intent to commit>
