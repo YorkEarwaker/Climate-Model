@@ -13,6 +13,7 @@ TODO
 * <todo: consider, start with seven physical principles of climate model >
 * <todo: consider, RegionalClimateModel interface, >
 * <todo: consider, GlobalClimateModel interface, >
+* <todo: consider, UnifiedModel interface, Regional and Global extensions, ponder inheritance heirarchy, UML? >
 
 DONE
 * <done: intent to commit>
@@ -31,6 +32,7 @@ Languages
 ## References
 
 * Climate model
+* Unified model
 
 physical principles, of cm, seven
 * conservation of air mass
@@ -65,6 +67,7 @@ parameters (perameterization), of cm, various systems and cycles, physicl proces
 
 Land use
 * topograpy
+* orogrophy
 * land cover
 * soil types
 * agriculture
@@ -77,15 +80,18 @@ resolution, of cm
 * 
 
 geo location, of cm
-* global, IPCC, 
-* regional, disease, agriculture, adpatation
+* global, course grained, IPCC, 
+* regional, fine grained, disease, agriculture, adpatation
 
 Chemical elements, earth systems, 
 * Abundance of chemical elements, [WP](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements)
-* Abundance of elements in Earths crust, [WP](https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust)
 * Chemical compostion of atmosphere, [WP](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Composition)
 * Chemical composition of sea water, [WP](https://en.wikipedia.org/wiki/Seawater#Chemical_composition)
 
-News Papers
+News Papers - climate models
 * Climate Models, 8 January 2021, Elfatih Eltahir, Aaron Krol, Explainer, MIT Climate Portal, MIT, [WS](https://climate.mit.edu/explainers/climate-models)
+
+News Papers - parameterization
+*  Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
+* 
 
