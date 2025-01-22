@@ -32,7 +32,9 @@ TODO
 * <todo: consider, model grid resolution, vertical hieght atmosphere resolution, vertical depth ocean resolution, >
 * <todo: consider, prallelism, Java threading, >
 * <todo: consider, core climate\weather model, dynamical core, laws of fluid motion, dynamical equations of fluid motion, non linar Naview Stokes partial differential equations, laws of thermodynamics, concervation laws for example of mass, >
-* <todo: dynamical core, spherical harmonics, >
+* <todo: condider, dynamical core, spherical harmonics, >
+* <todo: consider, hydrostatic equations of motion vs non hydrostatic equations of motion, >
+* <todo: consider, 16 bit vs 32 bit vs 64 bit reals, >
 
 DONE
 * <done: intent to commit>
@@ -95,9 +97,9 @@ parameters (perameterization), of cm, air, land,
 * deforestation
 * urbanisation, heat islands, albedo,
 
-parameters (perameterization), of cm, air, water, oceans
+parameters (perameterization), of cm, air, water, 
 * sea surface temperature sst,
-* 
+* ocean meso scale eddies
 
 parameters (perameterization), of cm, computaion, numerical analysis, 
 * climate model stochastic physics parametrizations, physics, randomness,
