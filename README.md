@@ -58,6 +58,7 @@ TODO
 * <todo: consider, urban planning, org\agw\flw package >
 * <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package, should this be \eng engineering and civil engineering appears as a sub package org\awg\eng\civ liking this approach better >
 * <todo: consider, seperate weather org\agw\wth package related to climate package there is likely to be a lot of overlap particularly in physics \phy and chemistry \chm >
+* <todo: consider, computation package for numerical analysis org\agw\cmp\nan not sure what this consists of other than research though? more investigation required, >
 
 DONE
 * <done: first iteration readme, >
