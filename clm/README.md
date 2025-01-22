@@ -72,7 +72,7 @@ parameters (perameterization), of cm, molecules, elements,
 * sulphercycle? S 16?, sulphides, coal bruning, acid rain, ocean acidification ...
 * a n other cycle, 
 
-Land use
+parameters (perameterization), of cm, land use
 * topograpy
 * orogrophy
 * land cover
