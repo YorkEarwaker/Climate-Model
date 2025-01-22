@@ -96,6 +96,10 @@ parameters (perameterization), of cm, air, water, oceans
 * sea surface temperature sst,
 * 
 
+parameters (perameterization), of cm, physics, randomness, 
+* climate model stochastic physics parametrizations
+* 
+
 resolution, of cm
 * fine grained, tens of kilometers
 * course grained, hundreds of kilometers
