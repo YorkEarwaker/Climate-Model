@@ -1,6 +1,12 @@
 # Climate model clm
 
-Start at climate model. Related to weather model. Related to planetary boundary science.
+Start at climate model. Related to weather model. Related to planetary boundary science
+
+Model contents include amoungst others;
+* Physical principles, physical laws
+* Variables, varients, of physical principles
+* Constsants, invarients, of physical principles
+* Parameterization, various systems and cycles, physicl processes, physics, chemistry, geology, topogrophy, ...
 
 Will likely eventually be a multi code project.  
 
@@ -49,11 +55,11 @@ variables, of principles, of cm, seven
 * water vapor content
 * wind magnitude in three directions
 
-parameters (perameterization), of cm, various systems and cycles, physicl processes, physics, chemistry
+parameters (perameterization), of cm, molecules, elements, 
 * hydrocycle, water, H2O, 
 * hydrocycle, clouds, 
-* hydrocycle, rain, percipitation, 
-* hydrocycle, snow, grownd cover and albedo effect, and percipitation?, 
+* hydrocycle, rain, precipitation, 
+* hydrocycle, snow, grownd cover and albedo effect, and precipitation?, 
 * hydrocycle, ice, grownd & sea cover and albedo effect, 
 * hydrocycle, evaporation
 * hydrocycle, perculation? , loss from atmosphere to lithosphere subaquifer? 
