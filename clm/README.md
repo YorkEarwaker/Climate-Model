@@ -21,10 +21,11 @@ TODO
 * <todo: consider, GlobalClimateModel interface, >
 * <todo: consider, UnifiedModel interface, Regional and Global extensions, >
 * <todo: ponder inheritance heirarchy, UML? >
-* <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term weather forecast, >
+* <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term deterministic weather forecast, >
+* <todo: consider, EnsambleWeatherModel interface, multiple model runs, >
 * <todo: consider, SeasonalClimateModel interface, >
 * <todo: consider, review of Met Office parameterization criteria >
-* <todo: consider, multi resolution model grids, finer grained inner domain 1-2k, courser grained outer domain 4-5k, variable transition boundary between fine grain and course grain, >
+* <todo: consider, multi resolution model grids for NWP, Ensemble, others types, e.g. finer grained inner domain 1-2k, courser grained outer domain 4-5k, variable transition boundary between fine grain and course grain, >
 
 DONE
 * <done: intent to commit>
