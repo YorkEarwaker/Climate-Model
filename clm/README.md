@@ -13,7 +13,8 @@ TODO
 * <todo: consider, start with seven physical principles of climate model >
 * <todo: consider, RegionalClimateModel interface, >
 * <todo: consider, GlobalClimateModel interface, >
-* <todo: consider, UnifiedModel interface, Regional and Global extensions, ponder inheritance heirarchy, UML? >
+* <todo: consider, UnifiedModel interface, Regional and Global extensions,
+* <todo: ponder inheritance heirarchy, UML? >
 
 DONE
 * <done: intent to commit>
