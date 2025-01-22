@@ -30,6 +30,7 @@ TODO
 * <todo: consider, model initial starting parameters, model secnarios, >
 * <todo: consider, interfaces for DecadalClimateModel, CentenialClimateModel, other large time steps, >
 * <todo: consider, model grid resolution, vertical hieght atmosphere resolution, vertical depth ocean resolution, >
+* <todo: consider, prallelism, Java threading, >
 
 DONE
 * <done: intent to commit>
@@ -96,8 +97,8 @@ parameters (perameterization), of cm, air, water, oceans
 * sea surface temperature sst,
 * 
 
-parameters (perameterization), of cm, physics, randomness, 
-* climate model stochastic physics parametrizations
+parameters (perameterization), of cm, computaion, numerical analysis, 
+* climate model stochastic physics parametrizations, physics, randomness,
 * 
 
 resolution, of cm
@@ -113,6 +114,9 @@ Chemical elements, earth systems,
 * Abundance of chemical elements, [WP](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements)
 * Chemical compostion of atmosphere, [WP](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Composition)
 * Chemical composition of sea water, [WP](https://en.wikipedia.org/wiki/Seawater#Chemical_composition)
+
+Papers
+* The physics of numerical analysis: a climate modelling case study, 2020, Palmer T. N., Phil. Trans. R. Soc. A.37820190058, [DOI](http://doi.org/10.1098/rsta.2019.0058), [WS](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0058)
 
 News Papers - climate models
 * Climate Models, 8 January 2021, Elfatih Eltahir, Aaron Krol, Explainer, MIT Climate Portal, MIT, [WS](https://climate.mit.edu/explainers/climate-models)
