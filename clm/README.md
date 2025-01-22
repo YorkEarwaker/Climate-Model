@@ -32,6 +32,7 @@ TODO
 * <todo: consider, model grid resolution, vertical hieght atmosphere resolution, vertical depth ocean resolution, >
 * <todo: consider, prallelism, Java threading, >
 * <todo: consider, core climate\weather model, dynamical core, laws of fluid motion, dynamical equations of fluid motion, non linar Naview Stokes partial differential equations, laws of thermodynamics, concervation laws for example of mass, >
+* <todo: dynamical core, spherical harmonics, >
 
 DONE
 * <done: intent to commit>
