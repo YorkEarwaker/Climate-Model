@@ -21,6 +21,8 @@ TODO
 * <todo: consider, GlobalClimateModel interface, >
 * <todo: consider, UnifiedModel interface, Regional and Global extensions,
 * <todo: ponder inheritance heirarchy, UML? >
+* <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term weather forecast, >
+* <todo: consider, SeasonalClimateModel interface, >
 
 DONE
 * <done: intent to commit>
