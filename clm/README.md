@@ -99,7 +99,7 @@ parameters (perameterization), of cm, air, water, oceans
 
 parameters (perameterization), of cm, computaion, numerical analysis, 
 * climate model stochastic physics parametrizations, physics, randomness,
-* 
+* algorithms to reduce systematic errors
 
 resolution, of cm
 * fine grained, tens of kilometers
