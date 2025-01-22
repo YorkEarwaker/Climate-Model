@@ -18,6 +18,7 @@ TODO
 DONE
 * <done: first commit>
 * <done: one instance Age interface, Anthropocene, Meghalayan,  >
+* <done: copy link to abundance of earth elements here from \clm readme.md >
 
 ## Libraries
 * to source
@@ -46,4 +47,6 @@ Rock forming elements
 * Ti
 * Mn
 
-* <todo: copy link to abundance of earth elements here from \clm readme.md >
+Elements
+* Abundance of elements in Earths crust, [WP](https://en.wikipedia.org/wiki/Abundance_of_elements_in_Earth%27s_crust)
+* 
