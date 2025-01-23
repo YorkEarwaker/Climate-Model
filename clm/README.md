@@ -7,6 +7,7 @@ Model contents include amoungst others;
 * Variables, varients, of physical principles
 * Constsants, invarients, of physical principles
 * Parameterization, various systems and cycles, physicl processes, physics, chemistry, geology, topogrophy, ...
+* Computation for, numerical analysis, grid kinds, 
 
 Will likely eventually be a multi code project.  
 
@@ -42,6 +43,7 @@ TODO
 * <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
 * <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
 * <todo: consider, grid for model, create seperate documentation page for same. >
+* <todo: consider, multiple grid kinds for model, for different model run computation scenarios, >
 
 DONE
 * <done: intent to commit>
