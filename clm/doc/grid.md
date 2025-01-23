@@ -24,6 +24,17 @@ Model kinds
 * General Circulation Model GCM, [WP](https://en.wikipedia.org/wiki/General_circulation_model)
 * Atmospheric GCM, AGCM, 
 * Ocean GCM, OCGM, 
+* Coupled Atmosphere Ocean GCM, AOGCM, 
+
+Cell - unit of grid in which computation takes place
+* prognostic equations, 
+* diagnostic equations, 
+* hydrostatic equations, 
+* 
+* 
+
+Levels - layers of grids or stacks of cells
+* to source
 
 Grid - interpolation
 * Regridding, grid interpolation, methods
