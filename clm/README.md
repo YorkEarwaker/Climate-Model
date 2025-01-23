@@ -13,8 +13,9 @@ Will likely eventually be a multi code project.
 
 ## Goals & Objectives
 
-* Unified climate and weather model. 
-* Universal planetary systems model. 
+* Numerical weather prediction NWP
+* Unified climate and weather model 
+* Universal planetary systems model 
 
 ## Status
 
