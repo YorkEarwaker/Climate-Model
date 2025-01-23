@@ -43,12 +43,13 @@ TODO
 * <todo: consider, hydrostatic equations of motion vs non hydrostatic equations of motion, >
 * <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
 * <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
-* <todo: consider, grid for model, create seperate documentation page for same. >
 * <todo: consider, multiple grid kinds for model, for different model run computation scenarios, >
+* <todo: better organise, parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article >
 
 DONE
 * <done: intent to commit>
 * <done: started to model basic model components in Java, wip, iterate, >
+* <done: consider, grid for model, create seperate documentation page for same. >
 
 ## Libraries
 
@@ -115,11 +116,37 @@ parameters (perameterization), of cm, computaion, numerical analysis,
 * climate model stochastic physics parametrizations, physics, randomness,
 * algorithms to reduce systematic errors
 
+parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article
+* process-orientated model evaluation.
+* clouds and radiation
+* land surface processes
+* cloudy boundary layers
+* atmospheric boundary layer
+* atmospheric moisture unified physics
+* topography 
+* cloud microphysical processes
+* aerosols and aerosol-cloud interactions.
+* surface processes. for example urban areas.
+* snow and lakes suface models
+* aerosols in cm
+* atmospheric boundary layer
+* radiative transfer in atmosphere
+* clouds and radiation in weather forecasts and climate simulations
+* orography and drag 
+* convection in the atmosphere.
+* land surface processes, for example soil hydrology
+* hilly and mountainous terrain, wind and temperature
+* flow over mountains, orographic precipitation
+* convection in cm/wm.
+* atmospheric convection and clouds.
+* large-scale cloud parameters
+* atmospheric convection
+* 
+
 resolution, of cm
 * fine grained, tens of kilometers
 * course grained, hundreds of kilometers
 * 
-
 geo location, of cm
 * global, course grained, IPCC, 
 * regional, fine grained, disease, agriculture, adpatation
@@ -137,6 +164,7 @@ News Papers - climate models
 * Unified Model, The Unified Model (UM) is a numerical model of the atmosphere used for both weather and climate applications., Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)
 * Numerical Weather Prediction Model, weather forecasting, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/weather-forecasting)
 * Seasonal and climate models, Configurations of the Unified Model for seasonal, decadal and centennial climate predictions, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models)
+* Atmospheric processes and parametrization scientists, Our atmospheric processes and parametrization scientists, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/our-research-staff/parametrization)
 
 News Papers - parameterization
 *  Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
