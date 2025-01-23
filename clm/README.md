@@ -1,6 +1,6 @@
 # Climate model clm
 
-Start at climate model. Related to weather model. Related to planetary boundary science
+Start at climate model. Related to weather model. Related to planetary boundary science.
 
 Model contents include amoungst others;
 * Physical principles, physical laws
@@ -9,6 +9,11 @@ Model contents include amoungst others;
 * Parameterization, various systems and cycles, physicl processes, physics, chemistry, geology, topogrophy, ...
 
 Will likely eventually be a multi code project.  
+
+## Goals & Objectives
+
+* Unified climate and weather model. 
+* Universal planetary systems model. 
 
 ## Status
 
