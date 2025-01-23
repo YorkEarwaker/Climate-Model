@@ -45,6 +45,7 @@ TODO
 * <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
 * <todo: consider, multiple grid kinds for model, for different model run computation scenarios, >
 * <todo: better organise, parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article >
+* <todo: consider, move parameterization content to seperate page in documentation, >
 
 DONE
 * <done: intent to commit>
