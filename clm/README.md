@@ -158,6 +158,7 @@ Chemical elements, earth systems,
 
 Papers
 * The physics of numerical analysis: a climate modelling case study, 2020, Palmer T. N., Phil. Trans. R. Soc. A.37820190058, [DOI](http://doi.org/10.1098/rsta.2019.0058), [WS](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0058)
+* Neural general circulation models for weather and climate., 22 July 2024, Kochkov, D., Yuval, J., Langmore, I. et al., Nature 632, 1060–1066 (2024). [DOI](https://doi.org/10.1038/s41586-024-07744-y)
 
 News Papers - climate models
 * Climate Models, 8 January 2021, Elfatih Eltahir, Aaron Krol, Explainer, MIT Climate Portal, MIT, [WS](https://climate.mit.edu/explainers/climate-models)
