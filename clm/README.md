@@ -40,7 +40,8 @@ TODO
 * <todo: condider, dynamical core, spherical harmonics, >
 * <todo: consider, hydrostatic equations of motion vs non hydrostatic equations of motion, >
 * <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
-* <todo: consider, changing project name to \unm or similar, to represent unified model or universal model,  >
+* <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
+* <todo: consider, grid for model, create seperate documentation page for same. >
 
 DONE
 * <done: intent to commit>
