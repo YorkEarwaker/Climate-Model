@@ -44,7 +44,6 @@ TODO
 * <todo: consider, NumericalWeatherModel interface, numerical weather prediction model, short term deterministic weather forecast, >
 * <todo: consider, EnsambleWeatherModel interface, multiple model runs, >
 * <todo: consider, SeasonalClimateModel interface, >
-* <todo: consider, review of Met Office parameterization criteria >
 * <todo: consider, multi resolution model grids for NWP, Ensemble, others types, e.g. finer grained inner domain 1-2k, courser grained outer domain 4-5k, variable transition boundary between fine grain and course grain, >
 * <todo: consider, model grid time step, time between factoring for grid point, >
 * <todo: consider, model perterbations, model scenarios, for ensamble forecasts and other types, slight variations of conditions, >
@@ -58,13 +57,13 @@ TODO
 * <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
 * <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
 * <todo: consider, multiple grid kinds for model, for different model run computation scenarios, >
-* <todo: better organise, parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article >
-* <todo: consider, move parameterization content to seperate page in documentation, >
 
 DONE
 * <done: intent to commit>
 * <done: started to model basic model components in Java, wip, iterate, >
 * <done: consider, grid for model, create seperate documentation page for same. >
+* <done: consider, review of Met Office parameterization criteria, wip >
+* <done: consider, move parameterization content to seperate page in documentation, >
 
 ## Libraries
 
@@ -124,7 +123,6 @@ News Papers - climate models
 * Unified Model, The Unified Model (UM) is a numerical model of the atmosphere used for both weather and climate applications., Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)
 * Numerical Weather Prediction Model, weather forecasting, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/weather-forecasting)
 * Seasonal and climate models, Configurations of the Unified Model for seasonal, decadal and centennial climate predictions, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models)
-* Atmospheric processes and parametrization scientists, Our atmospheric processes and parametrization scientists, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/our-research-staff/parametrization)
 
 News Papers - obervations
 * How we measure atmospheric pressure, Atmospheric pressure is measured by a barometer that employs a silicon capacitive pressure sensor having excellent repeatability and long term stability characteristics., Met Office, [WS](https://www.metoffice.gov.uk/weather/guides/observations/how-we-measure-atmospheric-pressure)
