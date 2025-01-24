@@ -39,9 +39,16 @@ Model kinds
 * Ocean GCM, OCGM, 
 * Coupled Atmosphere Ocean GCM, AOGCM, 
 
+Model kinds, subsystem models
+* Earth systems models
+* Chemical transport models CTMs,
+* Ice sheet models, 
+* Land use models, 
+* Ozone depletion models,
+* ...
+
 Model projections
 * Coupled AOCGM, transient climate simulations, 
-* 
 * 
 
 Cell - unit of grid in which computation takes place
@@ -80,8 +87,17 @@ Grid - concerns
 Chemistry
 * tbd
 
-Physics
+Physics - fluid dynamics
 * Navier Stokes equations
+* Baroclinity, [WP](https://en.wikipedia.org/wiki/Baroclinity), atmosphere non alignement of isopycnic surface and isobar surface, ocean non alignment of thermocline and halocline, 
+* isopycnic, surface, constant density
+* isobar, surface, constant pressure
+* thermocline, temperature
+* halocline, salinity
+* internal gravity wave,
+* surface gravity wave, 
+* gravity wave, [WP](https://en.wikipedia.org/wiki/Gravity_wave), 
+* 
 
 Mathematics
 * Differential equations, 

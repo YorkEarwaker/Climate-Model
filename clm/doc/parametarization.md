@@ -4,6 +4,11 @@ Paramters for General Circulation Models, .
 
 ## References
 
+parameters (perameterization), of cm, schemes, different approaches, 
+* to source
+* Akio Arakawa, 1950's
+* 
+
 parameters (perameterization), of cm, air, land, water, molecules, elements, 
 * hydrocycle, water, H2O, 
 * hydrocycle, clouds, deep convection?
@@ -39,7 +44,7 @@ parameters (perameterization), of cm, computaion, numerical analysis,
 * climate model stochastic physics parametrizations, physics, randomness,
 * algorithms to reduce systematic errors
 
-parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article
+parameters (perameterization), of cm, process study, example of atmospheric processes and parametrization, see Met Office article
 * process-orientated model evaluation.
 * clouds and radiation
 * land surface processes
@@ -64,4 +69,14 @@ parameters (perameterization), of cm, example of atmospheric processes and param
 * atmospheric convection and clouds.
 * large-scale cloud parameters
 * atmospheric convection
+* 
+
+parameters (perameterization), of cm, actual
+* two meter temperature, near surface temperature observations, the standard height at which temperature is measured off the ground, 
+* 
+* 
+
+News Papers - parameterization
+*  Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
+* 
 * 
