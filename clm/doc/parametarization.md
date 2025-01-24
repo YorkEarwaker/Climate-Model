@@ -82,7 +82,9 @@ parameters (perameterization), of cm, process study, example of atmospheric proc
 parameters (perameterization), of cm, actual
 * two meter temperature, near surface temperature observations, the standard height at which temperature is measured off the ground, 
 * 
-* 
+
+Papers - to read
+* Stable machine-learning parameterization of subgrid processes for climate modeling at a range of resolutions. 3 July 2020, Yuval, J., O’Gorman, P.A. , Nat Commun 11, 3295 (2020). [DOI](https://doi.org/10.1038/s41467-020-17142-3)
 
 News Papers - parameterization
 * Atmospheric processes and parametrization scientists, Our atmospheric processes and parametrization scientists, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/our-research-staff/parametrization)
