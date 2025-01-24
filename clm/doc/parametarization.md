@@ -2,6 +2,14 @@
 
 Paramters for General Circulation Models, . 
 
+## Status
+
+TODO
+* <todo: better organise, parameters (perameterization), of cm, example of atmospheric processes and parametrization, see Met Office article >
+
+DONE
+* <done: intent to commit>
+
 ## References
 
 parameters (perameterization), of cm, schemes, different approaches, 
@@ -77,6 +85,7 @@ parameters (perameterization), of cm, actual
 * 
 
 News Papers - parameterization
-*  Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
+* Atmospheric processes and parametrization scientists, Our atmospheric processes and parametrization scientists, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/our-research-staff/parametrization)
+* Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
 * 
 * 
