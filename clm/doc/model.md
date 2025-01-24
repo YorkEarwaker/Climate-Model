@@ -1,22 +1,32 @@
-# Grid
+# Model 
 
-Model grids kinds. Model spectral kinds. Chemistry and physics within the grid. Wave patterns within the spectral.
+Model grids kinds. Model spectral kinds. Chemistry and physics within the grid. Wave patterns within the spectral. Mixed grid and spectral.
 
-Grid - kinds
+Grid - kinds, limited area, high resolution
 * Regular, Grid, 
 * Rectilinear Grid, one dimentional latitude and longitude. Concerns; pole singularities, convergence of longitude meridians
 * Curviliear Grid, two dimentional coordinates, . Concerns; complex search algo's for interpolation of points around a location.
 * Unstructure Grid, nodes and connectivity information, for complex geographical features. Concerns; computationally intensive.
 * Geodesic Grid, icosahedron for quasi isotropic representation of surfaces like Earths. Eliminate pole problem in lat/long grids. Concerns; computation intensive?
 
-Spectral - Kinds
+Spectral - kinds, global forcasting
 * to source
+* 
+
+spectral model vs grid model  - Brave search
+* Gird approach
+	* Difference equiations
+	* Grid model form; (∂u/∂t) + (ui+1 − ui−1/2Δx) = 0, ui is wind velocity at grid piont i, Δx is grid spacing
+* Spectral approach
+	* Spherical harmonics
+	* Spectral model form; (∂u/∂t) + (∂ψ/∂x) = 0, u is wind velociy, ψ is the stream function
 
 ## Status
 
 TODO
 * <todo: consider, grid kinds, listing, pros and cons,  >
 * <todo: consider, evaluation of grid kinds, for selection of first grid to implement for climate model, >
+* <todo: consider, evaluation of spectral kinds, >
 
 DONE
 * <done: intent to commit>
