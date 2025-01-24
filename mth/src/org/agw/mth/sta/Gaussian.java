@@ -16,6 +16,11 @@ public interface Gaussian {
 	 * constants; public static final field declarations, default
 	 */
 	 public static final int GAUSSIAN_RANDOM_NUMBERS_TO_SUM = 25; // Central Limit Theorem, law of larg numbers. Gaussian
+	 public static final int SIGNED_FIFTEEN_BIT = 32767; // 0x7FFFU, 32767, (2^15)−1, Int16
+	 public static final int SIGNED_THIRTY_ONE_BIT = 2147483647; // 0x7FFFFFFFU, 2147483647, (2^31)−1, Int32
+	 public static final int SIGNED_SIXTY_THREE_BIT = 9223372036854775807; // 0xFFFFFFFFFFFFFFFU, 9,223,372,036,854,775,807, (2^63)-1, Int64
+	 
+	 public static final int PI = 3.141592654; // pi
 	 
 	/**
 	 * public abstract method declarations, default

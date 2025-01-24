@@ -14,7 +14,7 @@ import java.util.Random;
 // for parallel streams, fork/join types of coding, SplittableRandom
 import java.util.SplittableRandom;
 
-// Math.random() uses util.Raondom under the hood?
+// Math.random() uses util.Raondom under the hood? sqrt()
 import java.lang.Math;
 
 // threading ThreadLocalRandom, 
@@ -48,12 +48,14 @@ import java.util.random.*;
  * GaussianRandom
  * Stubb
  * <todo: consider different gaussian solutions, >
+ * sources
+ * https://c-faq.com/lib/gaussian.html
+ * https://www.baeldung.com/java-17-random-number-generators
+ * others to list
  */
 public class GaussianRandom extends Gaussian {
 	
-	
 	//<todo: consider variable types, should these even be here, in an abstract class perhpas? >
-	//<todo: implement these https://c-faq.com/lib/gaussian.html >
 	
 	/**
 	 * @param args
@@ -72,17 +74,45 @@ public class GaussianRandom extends Gaussian {
 
 	/**
 	 * @param args
-	 * 
+	 * Central Limit Theorem, law of large numbers
+	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 * <todo: unit test, write JUnit test, >
 	 */
-	private double gaussianRandomSimple() {
+	private double gaussianRandomCLT() {
 		
-		double gr = 0;
+		double gaussianRandom = 0;
 		int i;
 		
+		int RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		
 		for (i = 0; i < GAUSSIAN_RANDOM_NUMBERS_TO_SUM; i++ ) {
-			
+			// is nextInt correct? should probably be distributed int
+			gaussianRandom += (double)Random.nextInt(RAND_MAX) / RAND_MAX;
 		}
 		
+		gaussianRandom -= GAUSSIAN_RANDOM_NUMBERS_TO_SUM / 2.0;
+		gaussianRandom /= Math.sqrt(GAUSSIAN_RANDOM_NUMBERS_TO_SUM / 12.0 );
+		
+		return gaussianRandom;
+		
+	}
+	
+	/**
+	 * @param args
+	 * Abramowitz and Stegun
+	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 */
+	private double gaussianRandomAnS() {
+		// <todo: implement>
+	}
+	
+	/**
+	 * @param args
+	 * Knuth originally Marasaglia
+	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 */
+	private double gaussianRandomKnM() {
+		// <todo: implement>
 	}
 	
 	/**
