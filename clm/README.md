@@ -13,9 +13,23 @@ Will likely eventually be a multi code project.
 
 ## Goals & Objectives
 
+For achievement of goals <better terms needed?, does not put accross intent sufficiently well? >
 * Numerical weather prediction NWP
 * Unified climate and weather model 
+* Unified Earth systems model, 
 * Universal planetary systems model 
+
+To better enable objectives
+* Earth systems science, 
+* Extreme event attribution, 
+* Extreme event prediction, 
+* Planetary boundary science, 
+* Planetary solvancy, 
+* Donught economics, 
+* Risk management, 
+* Adaptation, change management
+* Managed retreat, change managment
+* and so on and so forth
 
 ## Status
 
@@ -112,7 +126,5 @@ News Papers - climate models
 * Seasonal and climate models, Configurations of the Unified Model for seasonal, decadal and centennial climate predictions, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models)
 * Atmospheric processes and parametrization scientists, Our atmospheric processes and parametrization scientists, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/our-research-staff/parametrization)
 
-News Papers - parameterization
-*  Orographic processes, The influence of mountains and hills on both local weather and large-scale weather systems., Met Office, [WS](https://www.metoffice.gov.uk/research/foundation/parametrizations/orography)
-* 
-
+News Papers - obervations
+* How we measure atmospheric pressure, Atmospheric pressure is measured by a barometer that employs a silicon capacitive pressure sensor having excellent repeatability and long term stability characteristics., Met Office, [WS](https://www.metoffice.gov.uk/weather/guides/observations/how-we-measure-atmospheric-pressure)
