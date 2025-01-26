@@ -27,6 +27,7 @@ TODO
 * <todo: consider, grid kinds, listing, pros and cons,  >
 * <todo: consider, evaluation of grid kinds, for selection of first grid to implement for climate model, >
 * <todo: consider, evaluation of spectral kinds, >
+* <todo: consider, moving the grid based items to new grid file in geo project \doc, re \geo package \geo\grd code base >
 
 DONE
 * <done: intent to commit>
