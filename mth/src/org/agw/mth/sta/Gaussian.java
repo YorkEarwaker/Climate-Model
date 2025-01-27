@@ -20,7 +20,7 @@ public interface Gaussian {
 	 public static final int SIGNED_THIRTY_ONE_BIT = 2147483647; // 0x7FFFFFFFU, 2147483647, (2^31)−1, Int32
 	 public static final int SIGNED_SIXTY_THREE_BIT = 9223372036854775807; // 0xFFFFFFFFFFFFFFFU, 9,223,372,036,854,775,807, (2^63)-1, Int64
 	 
-	 public static final int PI = 3.141592654; // pi
+	 public static final int PI = 3.141592654; // pi, π, 
 	 
 	/**
 	 * public abstract method declarations, default

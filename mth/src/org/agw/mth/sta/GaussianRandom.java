@@ -75,7 +75,9 @@ public class GaussianRandom extends Gaussian {
 	/**
 	 * @param args
 	 * Central Limit Theorem, law of large numbers
-	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 * mean 0 stddev 1, default, for value other than mean 0 and stddev 1 see todo
+	 * <todo: add mean and stdev stadard deviation as parameters, multiply by stddev and add mean, >
+	 * <todo: consider add singed bit value constant as parameter, 15 bit, 31 bit, 63 bit, >
 	 * <todo: unit test, write JUnit test, >
 	 */
 	private double gaussianRandomCLT() {
@@ -100,19 +102,72 @@ public class GaussianRandom extends Gaussian {
 	/**
 	 * @param args
 	 * Abramowitz and Stegun
-	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 * mean 0 stddev 1, default, for value other than mean 0 and stddev 1 see todo
+	 * <todo: add mean and stdev stadard deviation as parameters, multiply by stddev and add mean, >
+	 * <todo: consider add singed bit value constant as parameter, 15 bit, 31 bit, 63 bit, >
+	 * <todo: unit test, write JUnit test, >
 	 */
 	private double gaussianRandomAnS() {
-		// <todo: implement>
+		
+		static double U, V;
+		static int phase = 0;
+		double gaussianRandom = 0;
+		
+		int RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		
+		if(phase == 0) {
+			
+			U = (Random.nextInt() + 1) / (RAND_MAX + 2.);
+			V = Random.nextInt() / (RAND_MAX + 1.);
+			gaussianRandom = Math.sqrt(-2 * Math.log(U)) * Math.sin(2 * PI * V);
+		} else {
+			gaussianRandom = Math.sqrt(-2 * Math.log(U)) * Math.cos(2 * PI * V);
+		}
+		
+		phase = 1 - phase;
+		
+		return gaussianRandom;
+		
 	}
 	
 	/**
 	 * @param args
 	 * Knuth originally Marasaglia
-	 * <todo: add mean and stdev stadard deviation as parameters, >
+	 * mean 0 stddev 1, default, for value other than mean 0 and stddev 1 see todo
+	 * <todo: add mean and stdev stadard deviation as parameters, multiply by stddev and add mean, >
+	 * <todo: consider add singed bit value constant as parameter, 15 bit, 31 bit, 63 bit, >
+	 * <todo: unit test, write JUnit test, >
 	 */
 	private double gaussianRandomKnM() {
-		// <todo: implement>
+		
+		static double V1, V2, S;
+		static int phase = 0;
+		double gaussianRandom;
+		
+		RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		
+		if (phase = 0) {
+			
+			do {
+				
+				double U1 = (double)Random.nextInt() / RAND_MAX;
+				double U2 = (double)Random.nextInt() / RAND_MAX;
+				
+				V1 = 2 * U1 - 1;
+				V2 = 2 * U2 - 1;
+				S = V1 * V2 + V2 * V2;
+				
+			} while (S >= 1 || S == 0);
+			
+			gaussianRandom = V1 * Math.sqrt(-2 * log(S) / S);
+			
+		} else {
+			gaussianRandom = V2 * Math.sqrt(-2 * log(S) / S);
+		}
+		
+		phase = 1 - phase;
+		
+		return gaussianRandom;
 	}
 	
 	/**
