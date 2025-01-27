@@ -13,7 +13,7 @@ import org.agw.geo.gts.Anthropocene;
  * 
  * 
  */
-public interface AnthropogenicGlobalLChange extends Anthropocene {
+public interface AnthropogenicGlobalChange extends Anthropocene {
 	 
 	 
 	 

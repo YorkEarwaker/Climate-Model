@@ -7,7 +7,7 @@ import org.agw.mdl.Model;
 
 /**
  * WarmingModel
- * <todo: consider, RegionalWarmingModel, interface, >
+ * 
  */
 public interface WarmingModel extends Model {
 	
