@@ -53,7 +53,7 @@ import java.util.random.*;
  * https://www.baeldung.com/java-17-random-number-generators
  * others to list
  */
-public class GaussianRandom extends Gaussian {
+public class GaussianRandom implements Gaussian {
 	
 	//<todo: consider variable types, should these even be here, in an abstract class perhpas? >
 	
@@ -67,8 +67,8 @@ public class GaussianRandom extends Gaussian {
 	/**
 	* default-constructor
 	*/ 
-	public double gaussianRandom() {
-		super();
+	public void gaussianRandom() {
+		//super();
 		System.out.println("Gaussian Random.constructor"); // debug
 	}
 
@@ -85,16 +85,18 @@ public class GaussianRandom extends Gaussian {
 		double gaussianRandom = 0;
 		int i;
 		
-		int RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		int RAND_MAX = SIGNED_THIRTY_ONE_BIT; // should this be class level?
+		Random random = new Random();  // should this be class level?
 		
 		for (i = 0; i < GAUSSIAN_RANDOM_NUMBERS_TO_SUM; i++ ) {
 			// is nextInt correct? should probably be distributed int
-			gaussianRandom += (double)Random.nextInt(RAND_MAX) / RAND_MAX;
+			gaussianRandom += (double)random.nextInt(RAND_MAX) / RAND_MAX;
 		}
 		
 		gaussianRandom -= GAUSSIAN_RANDOM_NUMBERS_TO_SUM / 2.0;
 		gaussianRandom /= Math.sqrt(GAUSSIAN_RANDOM_NUMBERS_TO_SUM / 12.0 );
 		
+		System.out.println("Gaussian Random.gaussianRandomCLT gaussian random number is " + gaussianRandom); // debug
 		return gaussianRandom;
 		
 	}
@@ -109,25 +111,29 @@ public class GaussianRandom extends Gaussian {
 	 */
 	private double gaussianRandomAnS() {
 		
-		static double U, V;
-		static int phase = 0;
+		//static in original C++ code; U, V, phase
+		double U, V;
+		int phase = 0;
 		double gaussianRandom = 0;
 		
-		int RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		int RAND_MAX = SIGNED_THIRTY_ONE_BIT; // should this be class level?
+		Random random = new Random(); // should this be class level?
 		
 		if(phase == 0) {
 			
-			U = (Random.nextInt() + 1) / (RAND_MAX + 2.);
-			V = Random.nextInt() / (RAND_MAX + 1.);
+			U = (random.nextInt() + 1) / (RAND_MAX + 2.);
+			V = random.nextInt() / (RAND_MAX + 1.);
 			gaussianRandom = Math.sqrt(-2 * Math.log(U)) * Math.sin(2 * PI * V);
+			
 		} else {
-			gaussianRandom = Math.sqrt(-2 * Math.log(U)) * Math.cos(2 * PI * V);
+			// <todo: debug this from example, why does the Cpp example work? issue with phase likely!>
+			//gaussianRandom = Math.sqrt(-2 * Math.log(U)) * Math.cos(2 * PI * V);
 		}
 		
 		phase = 1 - phase;
 		
+		System.out.println("Gaussian Random.gaussianRandomAnS gaussian random number is " + gaussianRandom); // debug
 		return gaussianRandom;
-		
 	}
 	
 	/**
@@ -140,18 +146,20 @@ public class GaussianRandom extends Gaussian {
 	 */
 	private double gaussianRandomKnM() {
 		
-		static double V1, V2, S;
-		static int phase = 0;
-		double gaussianRandom;
+		//static in original C++ code; U, V, phase
+		double V1, V2, S;
+		int phase = 0;
+		double gaussianRandom = 0; // should this be initialized?
 		
-		RAND_MAX = SIGNED_THIRTY_ONE_BIT;
+		int RAND_MAX = SIGNED_THIRTY_ONE_BIT; // should this be class level?
+		Random random = new Random(); // should this be class level?
 		
-		if (phase = 0) {
+		if (phase == 0) {
 			
 			do {
 				
-				double U1 = (double)Random.nextInt() / RAND_MAX;
-				double U2 = (double)Random.nextInt() / RAND_MAX;
+				double U1 = (double)random.nextInt() / RAND_MAX;
+				double U2 = (double)random.nextInt() / RAND_MAX;
 				
 				V1 = 2 * U1 - 1;
 				V2 = 2 * U2 - 1;
@@ -159,19 +167,22 @@ public class GaussianRandom extends Gaussian {
 				
 			} while (S >= 1 || S == 0);
 			
-			gaussianRandom = V1 * Math.sqrt(-2 * log(S) / S);
+			gaussianRandom = V1 * Math.sqrt(-2 * Math.log(S) / S);
 			
 		} else {
-			gaussianRandom = V2 * Math.sqrt(-2 * log(S) / S);
+			// <todo: debug this from example, why does the Cpp example work? issue with phase likely!>
+			// gaussianRandom = V2 * Math.sqrt(-2 * Math.log(S) / S);
 		}
 		
 		phase = 1 - phase;
 		
+		System.out.println("Gaussian Random.gaussianRandomKnM gaussian random number is " + gaussianRandom); // debug
 		return gaussianRandom;
 	}
 	
 	/**
 	 * return a random number
+	 * wip
 	 * <todo: consider passing in nextInt value as int parameter, could generics be used to return a number var type, based on parameter passed in for return type? >
 	 */
 	private int javaUtilRandom() {
@@ -185,40 +196,46 @@ public class GaussianRandom extends Gaussian {
 		// <todo: conditional statement to select approach1 or approach2>
 		// approach 1
 		randomNumber = random.nextInt(max);
-		assertThat(randomNumber).isPositive.isLessThan(max); // comment out assert ?
+		//assertThat(randomNumber).isPositive.isLessThan(max); // comment out assert ?
 		
 		// approach 2
 		randomNumber = random.nextInt(max - min + 1) + min; // find rational for this include in method comments.
  		
-		System.out.println("Gaussian Random.javaUtilRandom random number is " + randomNumber );
+		System.out.println("Gaussian Random.javaUtilRandom random number is " + randomNumber ); // debug
 		return randomNumber;
 	}
 	
 	/**
 	 * return a gaussian random number
-	 * 
+	 * wip
 	 */
 	private double javaUtilRandomGaussian() {
 		
 		// <todo: fill out rest of body of method >
 		// <todo: consider, mean, stdev and method parameters to pass in >
-		mean = foo;
-		stdev = bha;
-		randomNumber = Random.nextGaussian(mean, stdev); // since Java 17
+		Random random = new Random();
+		double randomGaussian;
+		int mean = 0;
+		int stdev = 1;
+		randomGaussian = random.nextGaussian(mean, stdev); // since Java 17
 		
-		System.out.println("Gaussian Random.javaUtilRandomGaussian random number is " + randomNumber );
-		
+		System.out.println("Gaussian Random.javaUtilRandomGaussian gaussian random number is " + randomGaussian );
+		return randomGaussian;
 	}
 	
 	/**
 	 * return a secure random number, cryptosecure
+	 * wip
 	 */
 	 private int javaSecurityRandom() {
-		 
+		 int randomSecure;
+		 randomSecure = 0;
+		 return randomSecure;
 	 }
 
 	/**
 	 * return a thread safe random number, 
+	 * wip
 	 */
 	 private int javaUtilConcurrentThreadLocalRandom() {
 		 
@@ -227,12 +244,13 @@ public class GaussianRandom extends Gaussian {
 		 int max = 10;
 		 
 		 System.out.println("Gaussian Random.javaUtilConcurrentThreadLocalRandom random number is " + randomNumber );
-		 
+		 return randomNumber;
 	 }
 	
 	/**
 	 * output the available Random Generator factories and thier resepective properties
 	 * utility helper method
+	 * wip
 	 */
 	private static void printRandomGeneratorFactoriesAndProperties() {
 		

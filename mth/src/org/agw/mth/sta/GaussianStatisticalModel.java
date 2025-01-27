@@ -5,11 +5,11 @@ package org.agw.mth.sta;
 
 /**
  * GaussianStatisticalModel
- * Stubb
+ * Stub
  * <todo: consider different gaussian solutions, >
-  * <todo: consider deleting? possibly different usage than first imagined, and parhaps move back to org\agw\mdl ? >
+ * <todo: consider deleting? possibly different usage than first imagined, and parhaps move back to org\agw\mdl ? >
  */
-public class GaussianStatisticalModel extends StatisticalModel, Gaussian {
+public class GaussianStatisticalModel implements StatisticalModel, Gaussian {
 	
 	/**
 	 * @param args
@@ -22,7 +22,7 @@ public class GaussianStatisticalModel extends StatisticalModel, Gaussian {
 	* default-constructor
 	*/ 
 	public void gaussianStatisticalModel() {
-		super();
+		//super();
 		System.out.println("Gaussian Statistical Model.constructor"); // debug
 	}
 	
@@ -32,6 +32,25 @@ public class GaussianStatisticalModel extends StatisticalModel, Gaussian {
 		// <todo: consider java math lib use here? >
 	}
 
+	@Override
+	public void model() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void time() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void space() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	// @Override the Model method declarations, 
+
 
 }
