@@ -39,6 +39,8 @@ Model kinds
 * Atmospheric GCM, AGCM, 
 * Ocean GCM, OCGM, 
 * Coupled Atmosphere Ocean GCM, AOGCM, 
+* Energy Balanced Model
+* Box Model
 
 Model kinds, subsystem models
 * Earth systems models

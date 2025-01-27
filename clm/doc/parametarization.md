@@ -12,6 +12,8 @@ DONE
 
 ## References
 
+* Parameterization, [WP](https://en.wikipedia.org/wiki/Parametrization_(climate_modeling))
+
 parameters (perameterization), of cm, schemes, different approaches, 
 * to source
 * Akio Arakawa, 1950's
