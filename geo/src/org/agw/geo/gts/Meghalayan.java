@@ -15,16 +15,16 @@ public interface Meghalayan extends Age, Stage {
 	public static final String NAME = "Meghalayan";
 	public static final String TIME_SPAN = "0.0042 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0; // 
-	public static final int DURATION = 0.0042; // consider other number type, 
+	public static final double UNCERTAINTY_BOUNDING =  0; // 
+	public static final double DURATION = 0.0042; // consider other number type, 
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma";
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Age";
-	public static final String STRATIGRAPHIC_UNIT = "Stage";
+	public static final String CHRONOLOGICAL_UNIT = Age.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Stage.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary >
 	

@@ -12,23 +12,25 @@ TODO
 * <todo: gts interfaces >
 * <todo: other gts as necessary >
 * <todo: refactor some of this information to docs html? >
-* Phanerozoic extends Eon
-* Proterozoic extends Eon
-* Archaean extends Eon
-* Hadean extends Eon
-* Cenozoic extends Era, Phanerozoic
-* Mesozoic extends Era, Phanerozoic
-* Palaeozoic extends Era, Phanerozoic
-* Neoprotarozoic extends Era, Proterozoic
-* Mesoproterozonic extends Era, Proterozoic
-* Paleoproterozoic extends Era, Proterozoic
-* Neoarchaean extends Era, Archaean
-* Mesoarchaean extends Era, Archaean
-* Palaeoarchaean extends Era, Archaean
-* Eoarchaean extends Era, Archaean
+* <todo: Proterozoic extends Eon, Eonothem >
+* <todo: Archaean extends Eon, Eonothem >
+* <todo: Hadean extends Eon, Eonothem >
+* <todo: Mesozoic extends Era, Erathem > 
+* <todo: Palaeozoic extends Era, Erathem >
+* <todo: Neoprotarozoic extends Era, Erathem >
+* <todo: Mesoproterozonic extends Era, Erathem >
+* <todo: Paleoproterozoic extends Era, Erathem >
+* <todo: Neoarchaean extends Era, Erathem >
+* <todo: Mesoarchaean extends Era, Erathem >
+* <todo: Palaeoarchaean extends Era, Erathem >
+* <todo: Eoarchaean extends Era, Erathem >
 
 DONE
-* <done: interface inheritance heirarchy for holocine and anthropocine >
+* <done: Phanerozoic extends Eon, Eonothem >
+* <done: Cenozoic extends Era, Erathem >
+* <done: Holocene extends Epoch, Series >
+* <done: Anthropocene extends Age, Stage >
+* <done: interface inheritance heirarchy for holocene and anthropocene >
 
 # References
 

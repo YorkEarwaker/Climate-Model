@@ -16,16 +16,16 @@ public interface Holocene extends Epoch, Series {
 	public static final String NAME = "Holocene";
 	public static final String TIME_SPAN = "0.012 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0;
-	public static final int DURATION = 0.0117; // consider other number type
+	public static final double UNCERTAINTY_BOUNDING = 0;
+	public static final double DURATION = 0.0117; // consider other number type
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma";
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Epoch";
-	public static final String STRATIGRAPHIC_UNIT = "Series";
+	public static final String CHRONOLOGICAL_UNIT = Epoch.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Series.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary >
 	

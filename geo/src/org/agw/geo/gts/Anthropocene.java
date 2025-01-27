@@ -5,7 +5,7 @@ package org.agw.geo.gts;
 
 /**
  * Anthropocene, new geological age, age of man, large scale planetary wide human impact on geosphere and biosphere and other planetary natural systems
- * Place holder information until the Age is offically ratified
+ * Place holder information until the Age is officially ratified
  * Anyone doubting that human (man) kind is responsible for extreme events in planetary geology is in Anthropocene denial
  * <todo: consider, relation to historiography periodization, extend modern age?, re stone age, bronze age, iron age, and so on. how to make this connection? steam age? atomic age? >
  */
@@ -17,16 +17,16 @@ public interface Anthropocene extends Age, Stage {
 	public static final String NAME = "Anthropocene";
 	public static final String TIME_SPAN = "0.0002 - 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0; // 
-	public static final int DURATION = 0.00017792638099106418; // 1778 steam age, consider other number type, 
+	public static final double UNCERTAINTY_BOUNDING = 0; // 
+	public static final double DURATION = 0.00017792638099106418; // 1778 steam age, consider other number type, 
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma";
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Age";
-	public static final String STRATIGRAPHIC_UNIT = "Stage";
+	public static final String CHRONOLOGICAL_UNIT = Age.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Stage.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary > 
 	// lower boundary, consider, ...

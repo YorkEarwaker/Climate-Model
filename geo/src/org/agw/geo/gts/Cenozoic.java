@@ -16,16 +16,16 @@ public interface Cenozoic extends Era, Erathem {
 	public static final String NAME = "Cenozoic";
 	public static final String TIME_SPAN = "66.0 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0;
-	public static final int DURATION = 66.0; // consider other number type
+	public static final double UNCERTAINTY_BOUNDING = 0;
+	public static final double DURATION = 66.0; // consider other number type
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma"; 
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Era";
-	public static final String STRATIGRAPHIC_UNIT = "Erathem";
+	public static final String CHRONOLOGICAL_UNIT = Era.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Erathem.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary >
 	

@@ -16,16 +16,16 @@ public interface Phanerozoic extends Eon, Eonothem {
 	public static final String NAME = "Phanerozoic";
 	public static final String TIME_SPAN = "538.8 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0.6;
-	public static final int DURATION = 538.8; // consider other number type
+	public static final double UNCERTAINTY_BOUNDING = 0.6;
+	public static final double DURATION = 538.8; // consider other number type
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma"; 
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Eon";
-	public static final String STRATIGRAPHIC_UNIT = "Eonothem";
+	public static final String CHRONOLOGICAL_UNIT = Eon.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Eonothem.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary >
 	

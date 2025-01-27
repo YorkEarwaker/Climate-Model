@@ -16,16 +16,16 @@ public interface Quaternary extends Period, System {
 	public static final String NAME = "Quaternary";
 	public static final String TIME_SPAN = "2.58 – 0"; // consider range
 	// ± within range, confidence interval, uncertainty bounding
-	public static final int UNCERTAINTY_BOUNDING =  0;
-	public static final int DURATION = 2.58; // consider other number type
+	public static final double UNCERTAINTY_BOUNDING = 0;
+	public static final double DURATION = 2.58; // consider other number type
 	// Ma (megaannum), SI unit, paleontology, celestial mechanics, https://en.wikipedia.org/wiki/Year#SI_prefix_multipliers
 	public static final String SI_UNIT = "Ma"; 
 	
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = "Period";
-	public static final String STRATIGRAPHIC_UNIT = "System";
+	public static final String CHRONOLOGICAL_UNIT = Period.NAME;
+	public static final String STRATIGRAPHIC_UNIT = System.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary >
 	
