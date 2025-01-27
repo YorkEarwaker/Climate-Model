@@ -44,4 +44,22 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 	public void weatherEvent() {
 		System.out.println("Simple Weather Event Model.weatherEvent ");
 	}
+
+	@Override
+	public void observationalData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void statisticalMethod() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void trendDefinition() {
+		// TODO Auto-generated method stub
+		
+	}
 }
