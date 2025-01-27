@@ -29,7 +29,8 @@ public interface ClimateModel extends Model {
 	 * global 50k - 100k grid, 2deg latitude longitude grid, 
 	 * <todo: review grid sizes of actual in silico models, >
 	 */
-	public static resolution();
+	public static void resolution() {
+	}
 	
 	/**
 	 * defualt method implementation declarations, if any
