@@ -1,6 +1,8 @@
 # Medicine and Public Health mph
 
-Population, local, regional, global. Public health requires its own meteorological data and pipelines. A number of linked public health specific meso meteorological stations. Data gathering spcifically tailored to public heath.
+Population wide medicine and public health impacts of global warming, local, regional, global. 
+
+Public health requires its own meteorological data and pipelines. A number of linked public health specific meso meteorological stations. Eaerth observation and meteorological data gathering spcifically tailored to public heath.
 
 ## Status
 
