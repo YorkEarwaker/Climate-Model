@@ -44,7 +44,6 @@ Note.
 TODO
 * <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Grantham and Met Office for guidance, Reading? others? >
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
-* <todo: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. >
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
 * <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
@@ -74,6 +73,7 @@ DONE
 * <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <done: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
 * <done: consider, seperate climate org\agw\clm package to global warming model \gwm, moved AnthropogenicClimateChange and ClimateModel to this \clm package from \gwm, >
+* <done: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. >
 
 ## References
 
