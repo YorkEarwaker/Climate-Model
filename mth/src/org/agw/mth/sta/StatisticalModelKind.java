@@ -12,7 +12,7 @@ public enum StatisticalModelKind {
 	
 	DIRAC ("Dirac"), // Dirac delta function <todo: consider refactoring, Dirac does not fit well here. only part of a method as function, >
 	GAUSSIAN ("Gaussian"), // 
-	GPD ("GPD"), // generalised Pareto distribution GPD
+	GPD ("GPD"), // generalised Pareto distribution GPD, also known as peak over threshold POT
 	GEV ("GEV"), // generalised extreme value GEV
 	GUMBLE ("Gumble"), // 
 	GAMMA ("Gamma"); // 

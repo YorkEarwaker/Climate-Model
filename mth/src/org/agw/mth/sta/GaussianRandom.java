@@ -27,7 +27,7 @@ import java.security.SecureRandom;
 import java.util.random.*;
 
 /* 
- * java api implmentations, random number generators
+ * java api implementations, random number generators
  *
  * Xoroshiro group
  *  Xoroshiro128PlusPlus
@@ -46,7 +46,7 @@ import java.util.random.*;
 
 /**
  * GaussianRandom
- * Stubb
+ * Stub
  * <todo: consider different gaussian solutions, >
  * sources
  * https://c-faq.com/lib/gaussian.html

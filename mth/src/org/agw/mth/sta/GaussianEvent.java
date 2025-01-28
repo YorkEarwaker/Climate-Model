@@ -18,6 +18,7 @@ public class GaussianEvent implements Gaussian {
 	 private int shapeParameter_ξ ; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter)
 	 private int scaleParameter_σ  ; // Sigma σ https://en.wikipedia.org/wiki/Sigma
 	 private int threshold_μ ; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
+	 private int penaltyTerm_ζ; // Zeta ζ https://en.wikipedia.org/wiki/Zeta
 	 private int thing_x ; // the thing being modelled, precipitation, temperature, <todo: refactor, after better definition, >
 	
 	/**

@@ -5,7 +5,7 @@ package org.agw.mth.sta;
 
 /**
  * Gaussian
- * Stubb
+ * Stub
  * <todo: consider different gaussian solutions, >
  */
 public interface Gaussian {
@@ -24,13 +24,13 @@ public interface Gaussian {
 	 
 	/**
 	 * public abstract method declarations, default
-	 * private abstract method declartions, if any
+	 * private abstract method declarations, if any
 	 */
 
 	//public void foobha();
 
 	/**
-	 * defualt method implementation declarations, if any
+	 * default method implementation declarations, if any
 	 */
 
 }
