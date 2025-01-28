@@ -2,7 +2,7 @@
 
 Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. Unmanned technology systems. Synoptic? System of systems. Global systems management.
 
-Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons.
+Meeting WMO standards. Land born units fixed s/m/l, water born units buoys, air born units weather balloons. Likely meso amn's for different concerns of diverse stakeholder groups.
 
 Weather/climate data is a first class topic of concern. 
 
@@ -11,6 +11,7 @@ See
 * Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
 * Planetary boundry science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
 * Weather and climate data [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/data), 
+* Medicine and public health [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/mph)
 * others tbd ...
 
 ## Goals & Objectives
