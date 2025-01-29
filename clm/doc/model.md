@@ -2,7 +2,7 @@
 
 Model grids kinds. Model spectral kinds. Chemistry and physics within the grid. Wave patterns within the spectral. Mixed grid and spectral.
 
-Grid - kinds, limited area, high resolution
+Grid - kinds, limited area, high resolution, finite difference (equations), 
 * Regular, Grid, 
 * Rectilinear Grid, one dimentional latitude and longitude. Concerns; pole singularities, convergence of longitude meridians
 * Curviliear Grid, two dimentional coordinates, . Concerns; complex search algo's for interpolation of points around a location.
@@ -15,7 +15,7 @@ Spectral - kinds, global forcasting
 
 spectral model vs grid model  - Brave search
 * Gird approach
-	* Difference equiations
+	* Difference equations
 	* Grid model form; (∂u/∂t) + (ui+1 − ui−1/2Δx) = 0, ui is wind velocity at grid piont i, Δx is grid spacing
 * Spectral approach
 	* Spherical harmonics
@@ -41,6 +41,7 @@ Model kinds
 * Coupled Atmosphere Ocean GCM, AOGCM, 
 * Energy Balanced Model
 * Box Model
+* Spectral Model
 
 Model kinds, subsystem models
 * Earth systems models
@@ -71,10 +72,10 @@ Grid - interpolation
 * Regridding, grid interpolation, methods
 * Destination grid, interpolation to, 
 * Source grid, interpolation from, 
-* Bilinear, common interpoation method
-* Conservative, common interpoation method
-* Patch, common interpoation method
-* Nearest neighbor, 
+* Bilinear, common interpolation method
+* Conservative, common interpolation method
+* Patch, common interpolation method
+* Nearest neighbour, 
 * Inverse distance,
 * Spline,
 * Binning,
@@ -83,8 +84,16 @@ Grid - interpolation
 
 Grid - concerns
 * interpolation
-* pole singularieis
+* pole singularities
 * convergence of longitude meridians
+* 
+
+Spectral - 
+* Spectral method [WP](https://en.wikipedia.org/wiki/Spectral_method), 
+* Spectral model, ams [WS](https://glossary.ametsoc.org/wiki/Spectral_model), [SD](https://www.sciencedirect.com/topics/engineering/spectral-model), 
+* Spectral mode,
+* Spectral harmonics, 
+* Spectral radiation models, 
 * 
 
 Chemistry
