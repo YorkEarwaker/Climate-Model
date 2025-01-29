@@ -60,6 +60,7 @@ TODO
 * <todo: consider, computation package for numerical analysis org\agw\cmp\nan not sure what this consists of other than research though? more investigation required, >
 * <todo: consider, public API, \api sub directory in all package structures, for example; org.agw.mph.api , ensure this approach would be OSGI compliant, see also module-info.java files, move this to Automation rep? > 
 * <todo: consider, API generic approach for; java, cpp, python, js/ts, . Is there any reason not to do org\..\..\api , move this to Automation rep? >
+* <todo: consider, re \eco project, consider placing link to https://christopherquentin.com/ re sustainability, >
 
 DONE
 * <done: first iteration readme, >
