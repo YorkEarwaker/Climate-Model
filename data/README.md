@@ -44,6 +44,11 @@ Atmospheric CO2 Measurement Sites, and other aerosols and gasses
 * Réseau Atmosphérique de Mesure des Composés à Effet de Serre RAMCES, Institut Pierre-Simon Laplace IPSL, France and other locations globally
 * NOAA/ESRL Baseline Observatory Netork, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
 
+Climate data products
+* Global Land Data Assimilation System GLDAS,
+* Climate Hazards Group InfraRed Precipitation with Stations CHIRPS,
+* 
+
 Sources of other data kinds to list
 * ...
 
@@ -52,6 +57,12 @@ Sources of other data kinds to list
 * Weather series data, uninterupted homogenaic long time series
 * Forcast
 * Hindcast
+
+Data pipelines <todo: move to model?>
+* Data assimilation DA, [SD](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/data-assimilation), [WP](https://en.wikipedia.org/wiki/Data_assimilation), to provide accurate initial conditions for the model, combining model forecasts with observations
+* Error covarience, 
+* Observation operator, h(), H, map modelled variable to actual observational data, 
+* Kalman filtering, 
 
 Time scales
 * Year, February 2034, projected year of breaching 1.5 Paris agreement global temperature, initial projection was March 2045, Paris Agreement signed December 2015, last sourced 14 January 2025
