@@ -58,11 +58,13 @@ TODO
 * <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package, should this be \eng engineering and civil engineering appears as a sub package org\awg\eng\civ liking this approach better >
 * <todo: consider, seperate weather org\agw\wth package related to climate package there is likely to be a lot of overlap particularly in physics \phy and chemistry \chm >
 * <todo: consider, computation package for numerical analysis org\agw\cmp\nan not sure what this consists of other than research though? more investigation required, >
+* <todo: consider, public API, \api sub directory in all package structures, for example; org.agw.mph.api , ensure this approach would be OSGI compliant, see also module-info.java files, move this to Automation rep? > 
+* <todo: consider, API generic approach for; java, cpp, python, js/ts, . Is there any reason not to do org\..\..\api , move this to Automation rep? >
 
 DONE
 * <done: first iteration readme, >
 * <done: first iteration repository wiki, >
-* <done: delete old java code directory structure, refactore as module based, for seperate code bases, >
+* <done: delete old java code directory structure, refactor as module based, for seperate code bases, >
 * <done: select first project, consider extreme weather attribution (Imperial), selected>
 * <done: consider org\agw\geo for geological capability, create Holocene >
 * <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
