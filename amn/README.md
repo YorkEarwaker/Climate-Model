@@ -39,7 +39,9 @@ TODO
 * <todo: consider C++ repository structure, as this will be systems engineering; hardward, firmware, . some server side application code telemetry data processing, may require java code base, & web front end, >
 * <todo: consider, several sub-directories to amn project if multiple code bases are required, >
 * <todo: consider, similar objectives, autonomous atmospheric network aan, at varous heights in the gas phase column, gasses, aerosols, particulates, spectroscopy, high altitude airship/balloon h = P_0/ρg, h is altutude, P_0 initial pressure, ρ is air density, g is acceleration due to gravity, weather and environmental monitoring >
-* <todo: consider, similar objectives, autonomous oceanic network aon, at varous depths in the liquid phase column, disolved gasses, temperature, flows, biome, 	Bathyscaphe, >
+* <todo: consider, similar objectives, autonomous oceanic network aon, at varous depths in the liquid phase column, disolved gasses, temperature, flows, biome, Bathyscaphe, >
+* <todo: consider, radiosondes, telemetry instrument that measures atmospheric variables and transmits them to the ground, battery powered, balloon lift, >
+* <todo: consider, METAR every hour, SYNOP every six hours, and other report standards, >
 
 DONE
 * <done: intent to commit >
