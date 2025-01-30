@@ -116,6 +116,7 @@ Mathematics
 
 Books
 * Grids in Numerical Weather and Climate Models, 22 May 2013, Sarah N Collins, Robert S James, Pallav Ray, Katherine Chen, Angie Lassman and James Brownlee, [DOI](https://doi.org/10.5772/55922), [WS](https://www.intechopen.com/chapters/43438)
+* Spectral Representation of Time and Physical Parameters in Numerical Weather Prediction, 5 November 2018, Kristoffer Lindvall, Jan Scheffel, [DOI](https://doi.org/10.5772/intechopen.80351), [WS](https://www.intechopen.com/chapters/63389)
 
 Papers
 * First- and Second-Order Conservative Remapping Schemes for Grids in Spherical Coordinates, 1 Sep 1999, Philip W. Jones, [DOI](https://doi.org/10.1175/1520-0493(1999)127<2204:FASOCR>2.0.CO;2)
