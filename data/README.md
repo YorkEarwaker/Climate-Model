@@ -42,7 +42,7 @@ Atmospheric CO2 Measurement Sites, and other aerosols and gasses
 * Mauna Loa Observatory, Hawaii, since 1958, National Ocean and Atmospheric Administration NOAA, Scripps Iinstitution of Oceanography
 * World Data Centre for Greenhouse Gases WDCGG, Global Atmosphere Watch GAW program, data hosted in Japan Meteorological Agency JMA
 * Réseau Atmosphérique de Mesure des Composés à Effet de Serre RAMCES, Institut Pierre-Simon Laplace IPSL, France and other locations globally
-* NOAA/ESRL Baseline Observatory Netork, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
+* NOAA/ESRL Baseline Observatory Network, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
 
 Climate data products
 * Global Land Data Assimilation System GLDAS,
@@ -55,10 +55,36 @@ Sources of other data kinds to list
 ## References
 
 * Weather series data, uninterupted homogenaic long time series
-* Forcast
+* Forecast
 * Hindcast
 
-Data pipelines <todo: move to model?>
+Data - met station based data validation, quality of data, integrity of data
+* station-based validation data
+* record structure data test
+* range/limits test
+* time and interval consistency test
+* persistence test
+* spacial consistency test
+* rate of change limits, 
+* no observed change limits, continous with time, 
+* validation data completeness
+* validation data availability
+* observation variable
+* observation site, variables at sites, 
+* affects on model grid point behaviour for same variable/site 
+* monitoring and telemetry
+* calibration attention
+* maintenance attention
+
+Data - met station based reports
+* METAR, 
+* SYNOP, 
+
+Data - earth observation data validation, quality of data, integrity of data
+* EO data, unverified? 
+* ...
+
+Data - model pipelines <todo: move to model?>
 * Data assimilation DA, [SD](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/data-assimilation), [WP](https://en.wikipedia.org/wiki/Data_assimilation), to provide accurate initial conditions for the model, combining model forecasts with observations
 * Error covarience, 
 * Observation operator, h(), H, map modelled variable to actual observational data, 
