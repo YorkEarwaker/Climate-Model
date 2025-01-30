@@ -7,7 +7,7 @@ import org.agw.geo.gts.Anthropocene;
 
 /**
  * AnthropogenicGlobalHealth
- * Medicine and public health practice, adaptation and mitigation, due to climate change
+ * Medicine and global health practice, adaptation and mitigation, due to global warming and climate change.
  * Pandemics
  * 
  */
