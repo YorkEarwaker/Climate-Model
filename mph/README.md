@@ -7,7 +7,8 @@ Public health requires its own meteorological data and pipelines. A number of li
 For example;
 * specific site locale's of particular epidemiological concern, 
 * global warming/climate change as a planetary wide longitudinal study, 
-* 
+* environmental health studies
+* ...
 
 ## Status
 
