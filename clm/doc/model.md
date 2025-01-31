@@ -66,7 +66,8 @@ Cell - unit of grid in which computation takes place
 * 
 
 Levels - layers of grids or stacks of cells
-* to source
+* Decimal degrees DDs, 
+* ...
 
 Grid - interpolation
 * Regridding, grid interpolation, methods
