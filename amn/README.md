@@ -1,10 +1,10 @@
 # Autonomous meteorological network amn
 
-Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. In coordination with other stakeholders; public health, environment agency, transport agency, agriculture agency, metropolitan agency, and so on. Specific stakeholder sites of interest. Unmanned technology systems. Synoptic six hourly, hourly, other time measure metric. System of systems. Local, regional, and global systems management.
+Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. In coordination with other stakeholders; public health, environment agency, transport agency, agriculture agency, metropolitan agency, and so on. Specific stakeholder sites of interest. Unmanned technology systems. Synoptic six hourly, hourly, other temporal resolution time measure metric. System of systems. Local, regional, and global systems management.
 
-Meeting WMO standards. Other standard sub sets, yet to be defined, for specific stakeholder groups. Standards deltas from WMO optimal might be on a per observational intsrument unit basis, or use case scenario basis? 
+Meeting WMO standards. Other standard sub sets, yet to be defined, for specific stakeholder group concerns. Standards deltas from WMO base station optimal might be on a; per observational instrument unit basis, or use case scenario basis, or industry vertical basis, ? 
 
-Land born units fixed s/m/l, water born units buoys, air born units weather balloons. Likely meso amn's for different concerns of diverse stakeholder groups. For example meso networks; for micro climates of large urban centres, rail infrastructure network, agricultural irrigation network, public health and epidemiology, and so on.
+Land born units fixed s/m/l, water born units buoys, air born units weather balloons. Likely meso amn's for different concerns of diverse stakeholder groups. For example, meso networks for; public health and epidemiology, micro climates of large urban centres, transport (road, rail, air, marine, ) infrastructure network, agricultural irrigation network, telco network, energy (electric, hydrogen, fossil, ) network, and so on.
 
 Weather/climate data is a first class topic of concern. 
 
@@ -22,6 +22,9 @@ See
 * World Weather Attribution data, extreme event attribution
 * Extreme event emergency management response and recovery data
 * Planning data, mitigation, adaptation, civil engineering, 
+* Medicine and public health
+* Toward, temporal and spatial completeness, geo coverage ground based
+* Toward, scope and quality and integrity, geo coverage ground based
 * Future proofing adaptation
 * Strategic resilliency 
 * Global weather knows no borders
@@ -46,12 +49,12 @@ TODO
 * <todo: consider, METAR every hour, SYNOP every six hours, and other report standards, >
 * <todo: consider, station-based validation data, NFRs; completeness, availability, >
 * <todo: consider, measurement and control module, data logger, like; Campbell Scientific CR10X,  >
-* <todo: consider, power energy requirements, sml station base, battery, solar, wind, hydro, hidrogen, local grid (if available), >
+* <todo: consider, power energy requirements, sml station base, battery, solar, wind, hydro, hydrogen, local grid (if available), >
 * <todo: consider standards WMO concern delta mitigation, unit basis, scenario basis, other basis, >
 
 DONE
 * <done: intent to commit >
-* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementaton in Java centric projects, Apache Celix for OSGi implenentation for C/C++ centric projects, >
+* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementation in Java centric projects, Apache Celix for OSGi implementation for C/C++ centric projects, >
 
 ## References
 
