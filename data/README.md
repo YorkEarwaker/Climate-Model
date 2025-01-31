@@ -11,7 +11,7 @@ Data kinds
 * Oceanic, liquid phase
 * Lithographic, solid phase
 * Cryospheric, solid phase
-* Biospheric, phases? sinks, absorbtion, emmision, 
+* Biospheric, phases? sinks, absorbtion, emission, 
 * Anthrospheric, emmision, storage, transformation, 
 * Metadata
 * Reference
@@ -45,9 +45,10 @@ Atmospheric CO2 Measurement Sites, and other aerosols and gasses
 * NOAA/ESRL Baseline Observatory Network, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
 
 Climate data products
-* Global Land Data Assimilation System GLDAS,
-* Climate Hazards Group InfraRed Precipitation with Stations CHIRPS,
-* 
+* Global Land Data Assimilation System GLDAS, 
+* Climate Hazards Group InfraRed Precipitation with Stations CHIRPS, 
+* Global Data Assimilation System GDAS, 
+* ...
 
 Sources of other data kinds to list
 * ...
@@ -64,7 +65,7 @@ Data - met station based data validation, quality of data, integrity of data
 * range/limits test
 * time and interval consistency test
 * persistence test
-* spacial consistency test
+* spatial consistency test
 * rate of change limits, 
 * no observed change limits, continous with time, 
 * validation data completeness
@@ -76,12 +77,20 @@ Data - met station based data validation, quality of data, integrity of data
 * calibration attention
 * maintenance attention
 
+Data - evaluation criteria, estimate relative to observed values, 
+* Pearson's correlation coefficient R
+* Nash Sutcliffe efficiency coefficient NSE
+* Mean bias error MBE
+* Root mean square error RMSE
+* True positive rate TPR
+* False positive rate FPR
+
 Data - met station based reports
 * METAR, 
 * SYNOP, 
 
 Data - earth observation data validation, quality of data, integrity of data
-* EO data, unverified? 
+* EO data, unverified? concern; uncertainty estimates have wide variation, 
 * ...
 
 Data - model pipelines <todo: move to model?>
