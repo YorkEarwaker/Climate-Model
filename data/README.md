@@ -77,6 +77,10 @@ Data - met station based data validation, quality of data, integrity of data
 * calibration attention
 * maintenance attention
 
+Data - earth observation data validation, quality of data, integrity of data
+* EO data, unverified? concern; uncertainty estimates have wide variation, 
+* ...
+
 Data - evaluation criteria, estimate relative to observed values, 
 * Pearson's correlation coefficient R
 * Nash Sutcliffe efficiency coefficient NSE
@@ -85,13 +89,15 @@ Data - evaluation criteria, estimate relative to observed values,
 * True positive rate TPR
 * False positive rate FPR
 
+Data - evaluation criteria, non linear analysis requirement, not currently served well? mixed domain data, meteorological and some other doamin for example public health, 
+* cubic splines
+* polynomial transformations
+* others to source
+
 Data - met station based reports
 * METAR, 
 * SYNOP, 
 
-Data - earth observation data validation, quality of data, integrity of data
-* EO data, unverified? concern; uncertainty estimates have wide variation, 
-* ...
 
 Data - model pipelines <todo: move to model?>
 * Data assimilation DA, [SD](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/data-assimilation), [WP](https://en.wikipedia.org/wiki/Data_assimilation), to provide accurate initial conditions for the model, combining model forecasts with observations
