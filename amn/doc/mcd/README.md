@@ -18,7 +18,7 @@ See also
 ## Status
 
 TODO
-* <todo: consider, MCD Hardware specification, >
+* <todo: consider, MCD Hardware specification, Bill of Materials BoM, building blocks, >
 * <todo: consider, MCD requirements for different deployment scenarios, sml, >
 * <todo: consider, Bill of Materials for sub components, air balloon, land unit, water buoys,>
 * <todo: consider, build, >
