@@ -12,6 +12,12 @@ Depiction of overlap of stakeholder concerns via; grid, heatmap, Euler diagram, 
 
 Another use case for portable station might the study of predicted extreme weather. Bouys put in line of hurricane. Which would be hazard work. Due to unpredictability of tacking as shown by spaghetti graphs. This might also be the case for typhoon landfall. And other project extreme events, heat and wet bulb events, precipitation events, wind events, drought events, and so on.
 
+Portable stations would also be an useful capability in response to extreme events. And ongoing emergency management response and recovery events.
+
+One roll out option of more permanent fix station units might be in sites where extreme events have occurred and are predicted to reoccur in the years and decades to come. So given assumption that instrumentation measurement and data validation is the same for portable and fixed units fixed units could replace portable units. <todo: consider moving this para to main amn README.md >
+
+One parallel piece of work is in coordination with WMO and NMHS and other stakeholders like public health and global health for prospective sites for a roll out of fixed station sites. Another would be working with private sector and NGO stakeholders for industry specific roll out programme. The private sector initiatives might help finance the public health initiatives for example. <todo: consider moving this para to main amn README.md >
+
 Portable stations for epidemiological monitoring of camps of displaced people. Climate refugees, conflict refugees, economic migrants, and so on. 
 
 See also
