@@ -62,4 +62,10 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 		// TODO Auto-generated method stub
 		
 	}
+
+	@Override
+	public void modesOfNaturalVariability() {
+		// TODO Auto-generated method stub
+		
+	}
 }
