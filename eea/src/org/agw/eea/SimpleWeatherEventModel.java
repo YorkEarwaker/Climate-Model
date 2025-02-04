@@ -57,6 +57,18 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 		
 	}
 
+	/** 
+	 * Shift fit <todo: implement>
+	 * ...
+	 * Scale fit <todo: implement>
+	 * fit parameters μ_0, σ_0, α
+	 * μ = μ_0 exp(αT′/μ_0), 
+	 * σ = σ_0 exp(αT′/μ_0),
+	 * 
+	 * 100/Δ l / l = 100[exp(α(T_1′- T_0′)/μ_0)-1]
+	 * Shift and Scale fit <todo: implement>
+	 * ...
+	 */
 	@Override
 	public void trendDefinition() {
 		// TODO Auto-generated method stub

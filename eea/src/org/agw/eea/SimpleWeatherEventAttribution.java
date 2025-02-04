@@ -11,7 +11,7 @@ public class SimpleWeatherEventAttribution implements WeatherEventAttribution {
 	
 	// <todo: consider this implements AnthropogenicEventAttribution.java >
 	// <todo: use SimpleWeatherEventModel.java here ?>
-	// <todo: use a concrete class that implments EventAttributionProtocol.java here? or this implments EventAttributionProtocol.java>
+	// <todo: use a concrete class that implements EventAttributionProtocol.java here? or this implments EventAttributionProtocol.java>
 
 	/**
 	 * @param args

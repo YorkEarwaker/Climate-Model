@@ -8,6 +8,8 @@ import org.agw.mdl.Model;
 /**
  * EventModel
  * WIP
+ * Sources
+ * https://ascmo.copernicus.org/articles/6/177/2020/
  */
 public interface EventModel extends Model {
 	
@@ -16,7 +18,21 @@ public interface EventModel extends Model {
 	/**
 	 * constants; public static final field declarations, default
 	 */
-	 
+	//<todo: consider variable types, should these even be here, in an abstract class perhpas? >
+	//<todo: int is a placeholder variable type, >
+	//<todo: consider moving these variables to WeatherEventModel >
+	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter)
+	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma
+	int threshold_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
+	int thing_x = 0; // the thing being modelled, precipitation, temperature, <todo: refactor, after better definition, >
+	
+	int ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta
+	int α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha
+	
+	// Delta Δ https://en.wikipedia.org/wiki/Delta_(letter)
+	
+	// Prime ′ https://en.wikipedia.org/wiki/Prime_(symbol)
+	
 	/**
 	 * public abstract method declarations, default
 	 * private abstract method declarations, if any
@@ -47,6 +63,8 @@ public interface EventModel extends Model {
 	public void trendDefinition();	
 	
 	/**
+	 * <todo: Which of these to do first? ENSO?, AO? to source what is the approach/method? >
+	 * 
 	 * El Niño Southern Oscillation ENSO, La Niña, https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation
 	 * Atlantic Multidecadal Oscillation AMO, https://en.wikipedia.org/wiki/Atlantic_multidecadal_oscillation
 	 * Pacific Decadal Oscillation PDO, https://en.wikipedia.org/wiki/Pacific_decadal_oscillation
