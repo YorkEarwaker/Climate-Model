@@ -9,18 +9,30 @@ TODO
 * <todo: waste management 'great garbage patch' issues in global seas/oceans, sea life, food chain public health issues,  >
 * <todo: intrusion into virgin landscapes, virology, pandemics, zoonotic tansmission, Covid19, Ebola, ... >
 * <todo: deforestation and climate impacts, Amazon rainforest and Pantanal, Pantanal wildfire, >
+* <todo: pollination, pollinators, the great bee die off, >
+* <todo: bio diversity, >
 
 DONE
 * <done: intent to commit>
+
+## Good Causes
+
+Christopher Quentin Foundation, [WS](https://christopherquentin.com/), bees, trees, water, music, 
 
 ## References
 
 Great garbage patches
 * Atlantic Garbage Patch
 * Great Pacific Garbage Patch
-* Indian Ocean garbage patch
+* Indian Ocean garbage Patch
 * ...
 
 Plastic
 * Plastisphere
 * Microplastics
+
+Pollination
+* Pollinators, 
+* Bees,
+* ...
+
