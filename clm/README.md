@@ -52,18 +52,22 @@ TODO
 * <todo: consider, model grid resolution, vertical hieght atmosphere resolution, vertical depth ocean resolution, >
 * <todo: consider, prallelism, Java threading, >
 * <todo: consider, core climate\weather model, dynamical core, laws of fluid motion, dynamical equations of fluid motion, non linar Naview Stokes partial differential equations, laws of thermodynamics, concervation laws for example of mass, >
-* <todo: condider, dynamical core, spherical harmonics, >
+* <todo: consider, dynamical core, spherical harmonics, >
 * <todo: consider, hydrostatic equations of motion vs non hydrostatic equations of motion, >
 * <todo: consider, 16 bit vs 32 bit vs 64 bit reals, mixed precision arithmatic, neural nets, >
 * <todo: consider, changing project name to \unm or \uni or similar, to represent unified model or universal model,  >
 * <todo: consider, multiple grid kinds for model, for different model run computation scenarios, >
+* <todo: consider, climate/weather numerical prediction model, physics, that can represent extreme weather events well, most are not fit for purpose for doing so, High Priority! see also \eea >
+* <todo: consider, model meta data for good fit in other use cases, \eea, \mph, \emr, \eco, \pbs, for each scenario use case which is meta data set required for good fit evaluation purpose? models to publish meta data? means to acquire meta data via model api? first pass at method to derive/get values where no bespoke use case scenario meta data exists, as gap analysis! see \eea EEA as first test case example, see \amn as one remedial step >
+* <todo: consider, how to assess deficiencies in model for use case scenario where natural variability mask model systematic deficiencies for use case, related to meta data and \eea, \mph, \emr, \eco, \pbs, uc/scenarios, see \eea EEA as first test case example, see \amn as one remedial step >
+* ...
 
 DONE
 * <done: intent to commit>
 * <done: started to model basic model components in Java, wip, iterate, >
-* <done: consider, grid for model, create seperate documentation page for same. >
+* <done: consider, grid for model, create separate documentation page for same. >
 * <done: consider, review of Met Office parameterization criteria, wip >
-* <done: consider, move parameterization content to seperate page in documentation, >
+* <done: consider, move parameterization content to separate page in documentation, >
 
 ## Libraries
 
