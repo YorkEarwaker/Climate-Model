@@ -18,13 +18,13 @@ See
 
 ## Goals & Objectives
 
+* Toward, temporal and spatial completeness, geo coverage ground based, High priority!
+* Toward, scope and quality and integrity, geo coverage ground based, High priority!
 * Global warming data, global warming limits, planetary boundary science
 * World Weather Attribution data, extreme event attribution
 * Extreme event emergency management response and recovery data
 * Planning data, mitigation, adaptation, civil engineering, 
 * Medicine and public health
-* Toward, temporal and spatial completeness, geo coverage ground based
-* Toward, scope and quality and integrity, geo coverage ground based
 * Future proofing adaptation
 * Strategic resilliency 
 * Global weather knows no borders
