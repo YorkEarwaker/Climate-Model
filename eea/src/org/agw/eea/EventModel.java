@@ -24,10 +24,10 @@ public interface EventModel extends Model {
 	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter)
 	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma
 	int threshold_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
-	int thing_x = 0; // the thing being modelled, precipitation, temperature, <todo: refactor, after better definition, >
+	int thing_x = 0; // the thing being modelled, precipitation, temperature, wind, <todo: refactor, after better definition, >
 	
-	int ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta
-	int α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha
+	int ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta <todo: scope of zeta, proper name, function, >
+	int α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
 	
 	// Delta Δ https://en.wikipedia.org/wiki/Delta_(letter)
 	
@@ -83,7 +83,24 @@ public interface EventModel extends Model {
 	 * Step 4
 	 */
 	 
-	
+	/**
+	 * Assess that the climate model to be used is fit for purpose
+	 * for extreme event attribution EEA of the particular event kind  
+	 * Does the climate model, to be used to replicate extreme event,
+	 * have the capability to replicate the extreme event kind under investigation
+	 * 
+	 * Climate models that can represent the physics of the event as numerical prediction.
+	 * A number (which is best number) of models to allow for strengths and weaknesses of model kind
+	 * A number (best num?) of models to allow different model spreads from several (num?) model kinds
+	 * Greater confidence if (num?) models agree on results, given model uncertainties (probability of distribution of trends)
+	 * 
+	 * step three returns inputs to step four
+	 * return period as change in probability PR
+	 * observed trend and intensity ΔI
+	 * 
+	 * 
+	 */
+	public void modelEvaluation();
 	
 	/**
 	 * default method implementation declarations, if any
