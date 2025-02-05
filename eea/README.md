@@ -19,7 +19,11 @@ TODO
 * <todo: obervational data aquisition for analysis, reliability issues, homogeneity issues, missing data gap issues, etc  . requirement for protocols, requirements for seperate project UN WWO working with partners like WWA and others to create 'reliable off the shelf' data set avaiable, local regional gobal, for eea efforts and others, data is a first class issue, >
 * <todo: requirement, observational data, long time series up to and including the event, >
 * <todo: statistical analysis of data, methods, protocols, processes, activities, tasks, workflow, this should be part of data project >
-* 
+* <todo: consider, climate/weather numerical prediction model, physics, that can represent extreme weather events well, most are not fit for purpose for doing so, High Priority! see also \clm >
+* <todo: consider, gap analysis of existing climate/weather models NP physics, which have capability to model specific extreme weather events kinds,  >
+* <todo: consider, what are the model test/evaluation criteria for these? to best operatioanalise? >
+* <todo: consider, what is the model metadata required for evaluation? how to make EEA model evaluation meta data available for all models? see also \clm meta data climate model concerns >
+* ...
 
 DONE
 * <done: Intent to start, >
