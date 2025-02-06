@@ -22,11 +22,15 @@ package org.agw.eea;
  */
 public interface EventAttributionProtocol {
 	
-	// will this extend another interface EventAttribution?
+	// <todo: consider, will this extend another interface EventAttribution? >
+	// <todo: consider, will this extend another interface Protocol? >
+	
+	// see EventModel comments as the activity steps here are courser grained version of the subset of EventModel 
+	// is implementing class of AnthropogenicEventAttribution where these are joined up?
 	
 	/**
 	 * list eight step protocol methods? which each call a protocol process activity class?
-	 * <todo: consider return arguements for protocol methods >
+	 * <todo: consider return arguments for protocol methods >
 	 * <todo: consider method parameter arguments, >
 	 * <todo: consider generics or method parameters args and return arg >
 	 */

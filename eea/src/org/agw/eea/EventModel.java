@@ -13,23 +13,31 @@ import org.agw.mdl.Model;
  */
 public interface EventModel extends Model {
 	
+	// this interface replicates with finer grained instances tasks the activities steps EventAttributionProtocol , 
+	// will class the implements EventAttributionProtocol use this EventModel, 
+	// will EventAttributionProtocol use EventModel as a variable instance to pass between activity steps? 
+	
 	// <todo: final static constants, method declarations, method defaults, >
 	
 	/**
 	 * constants; public static final field declarations, default
 	 */
-	//<todo: consider variable types, should these even be here, in an abstract class perhpas? >
+	//<todo: consider variable types, should these even be here, in an abstract class perhaps? >
 	//<todo: int is a placeholder variable type, >
 	//<todo: consider moving these variables to WeatherEventModel >
-	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter)
+	
+	// <todo: these variables are replicated in org.agw.mth.sta.GaussianEvent . where should they sit? Likely in mathematics package via interface inheritance but where? >
+	// Fit Parameters
 	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma
-	int threshold_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
+	int thresholdParameter_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
+	int dontKnowTheNameOfThisParameter_α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
+	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter) 
 	int thing_x = 0; // the thing being modelled, precipitation, temperature, wind, <todo: refactor, after better definition, >
+
+	int penaltyTerm_ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta 
+	int 𝛕 = 0; // Tau 𝛕 https://en.wikipedia.org/wiki/Tau , time <todo: scope of tau, proper name, function, likely time>
 	
-	int ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta <todo: scope of zeta, proper name, function, >
-	int α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
-	
-	// Delta Δ https://en.wikipedia.org/wiki/Delta_(letter)
+	// Delta Δ https://en.wikipedia.org/wiki/Delta_(letter) change in intensity of event? Δ I ?
 	
 	// Prime ′ https://en.wikipedia.org/wiki/Prime_(symbol)
 	
