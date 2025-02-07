@@ -45,6 +45,7 @@ Methods/protocols
 * Independent variable, e.g. smoking (burning tobacco), anthropogenic green house gas emissions (burning fossil fuels),  
 * Covariates, 
 * Cofounders, 
+* Confidence interval CI, 
 * Statistical significance, 
 * Odds ratio OR, 
 * Relative risk RR, 
