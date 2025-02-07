@@ -61,6 +61,8 @@ public interface EventAttributionProtocol {
 	 
  	/**
 	 * 5 multi-method multi-model attribution,
+	 * fixed forcing runs
+	 * transient forcing runs
 	 * @param args
 	 */
 	 public void multiAttribution();

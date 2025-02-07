@@ -126,6 +126,9 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 	 * result of this activity is a list of models that can be used to model the extreme event in question
 	 * If fewer than two models pass the evaluation test it cannot be used for robust attribution statement,
 	 * a single model is likely overconfident, 
+	 * for model run, as factual (industrial) and counterfactual (preindustrial), climate conditions
+	 * factual, yes anthropogenic increase, as is current anthropogenic green house gas warming, since circa 1778
+	 * counterfactual, no anthropogenic increase, supposition of no anthropogenic green house gas warming, say circa 1778
 	 * 
 	 * Step 1
 	 * evaluation of model general properties <todo: implement>
