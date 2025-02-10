@@ -81,6 +81,7 @@ Hardware Bill of Materials BoM - to consider capablility like
 * data storage, 
 * data retrieval,  
 * 
+* Instrument shelter, [WP](https://en.wikipedia.org/wiki/Stevenson_screen) Sevenson screen, 
 
 Papers
 * Guidelines on validation procedures for meteorological data from automatic weather stations, 9 March 2011, J. Estévez, P. Gavilán, J.V. Giráldez, Journal of Hydrology, Volume 402, Issues 1–2,
