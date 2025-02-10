@@ -4,7 +4,7 @@ Metrics and telemetry, data logging and storage, .
 
 What other variables and metrics might be included in a amn unit? Over and above standard meterological ones. Detection of gases, particles and particulates, microbiome, chemical molecules, and so on. Likely on a per use case and scenario basis. 
 
-Modular system of systems approach to ensure pick and mix observational tools and instruments. Where over a certain limit, to be defined, for arguments sake say ten, move from small unit size to medeim unit size. The limit of ten being entirely arbitrary. 
+Modular system of systems approach to ensure pick and mix observational tools and instruments. Where over a certain limit, to be defined, for arguments sake say ten, move from small unit size to medium unit size. The limit of ten being entirely arbitrary. Or upper limits might be; small might have five instruments, medium five to fifteen instruments, large fifteen and above, again purely arbitrary sizing exercise as initial stake in the ground. 
 
 The standard height for measurement is set at two meters for meterological data for wind speed for example. What might a different suite of such requirements look like? Which bodies would be responsible for setting them? WMO and which others? Industry bodies? Gov bodies? NMHSs? NGOs? ... That is which are the set of stakeholder groups to canvas for respective concerns.  
 
