@@ -39,7 +39,7 @@ DONE
 Sources of data for use in modelling.
 
 Atmospheric CO2 Measurement Sites, and other aerosols and gasses
-* Mauna Loa Observatory, Hawaii, since 1958, National Ocean and Atmospheric Administration NOAA, Scripps Iinstitution of Oceanography
+* Mauna Loa Observatory, Hawaii, since 1958, National Ocean and Atmospheric Administration NOAA, Scripps Institute of Oceanography
 * World Data Centre for Greenhouse Gases WDCGG, Global Atmosphere Watch GAW program, data hosted in Japan Meteorological Agency JMA
 * Réseau Atmosphérique de Mesure des Composés à Effet de Serre RAMCES, Institut Pierre-Simon Laplace IPSL, France and other locations globally
 * NOAA/ESRL Baseline Observatory Network, data hosted in Carbon Dioxide Information Analysis Center CDIAC, Oak Ridge National Laboratory ORNL
@@ -49,6 +49,9 @@ Climate data products
 * Climate Hazards Group InfraRed Precipitation with Stations CHIRPS, 
 * Global Data Assimilation System GDAS, 
 * ...
+
+Paeleoclimatology
+* Temperature 12k [WS](https://lipdverse.org/project/temp12k/), multidecadal and milleninal-scale change in climate over the Holocene that is the last 12,000 years, relation to planetary boundary science pbs, 
 
 Sources of other data kinds to list
 * ...
