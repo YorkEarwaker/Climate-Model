@@ -33,54 +33,136 @@ public interface EventAttributionProtocol {
 	 * <todo: consider return arguments for protocol methods >
 	 * <todo: consider method parameter arguments, >
 	 * <todo: consider generics or method parameters args and return arg >
+	 * <todo: all input, throughput, and output of top level protocol activities >
 	 */
 	 
 	/**
-	* 1 analysis trigger
+	* 1 analysis trigger 
+	* Input
+	* - extreme weather event ewe
+	* - extreme climate event ece 
+	* 
+	* Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
 	* @param args
 	*/
 	public void analysisTrigger(); 
 	
 	/** 
 	 * 2 event definition
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
 	 * @param args
 	 */
 	 public void eventDefinition();
 
 	/**
 	 * 3 trend detection
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
  	 * @param args
 	 */
 	 public void trendDetection();
 	 
  	/**
 	 * 4 model evaluation
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
  	 * @param args
 	 */
 	 public void modelEvaluation();
 	 
  	/**
 	 * 5 multi-method multi-model attribution,
-	 * fixed forcing runs
-	 * transient forcing runs
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - fixed forcing runs
+	 * - transient forcing runs
+	 * 
+	 * Output
+	 * - 
+	 * 
 	 * @param args
 	 */
 	 public void multiAttribution();
  
  	/**
 	 * 6 hazard synthesis
+	 * Input
+	 * - probability ratios and changes in intensity for both 
+	 * - observation data, fits to observations
+	 * - model data, transient runs
+	 * 
+	 * Throughput
+	 * - synthesis of partial results into attribution statement
+	 * 
+	 * Step 1, convert fits to observation and transient runs to common base line
+	 * - 1900 as common base line
+	 * - provides ease of communication
+	 * - availability of observation data
+	 * - availability of model run data
+	 * 
+	 * 
+	 * Output
+	 * - 
+	 * 
 	 * @param args
 	 */
 	 public void hazardSynthesis();
 	 
  	/**
 	 * 7 vulnerability & exposure analysis
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
 	 * @param args
 	 */
 	 public void vulnerabilityAndExposureAnalysis();
 	 
  	/**
 	 * 8 communication
+	 * Input
+	 * - 
+	 * 
+	 * Throughput
+	 * - 
+	 * 
+	 * Output
+	 * - 
+	 * 
 	 * @param args
 	 */
 	 public void communication();
