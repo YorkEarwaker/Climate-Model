@@ -25,6 +25,11 @@ TODO
 * <todo: consider, what is the model metadata required for evaluation? how to make EEA model evaluation meta data available for all models? see also \clm meta data climate model concerns >
 * <todo: consider, indecies like; Fire Weather Index FWI, meteorological information; temperature, humidity, wind speed, precipitation, . time; preceding weeks and months. use FWI for characteristics making wildfire more likely, atmospheric patterns and other trends,  >
 * <todo: consider, list all indecies like FWI for extreme event attribution, as first step to operationalise in code base; protocols, methods, processes, algorithms, variables, , >
+<todo: consider, determine extreme climate event ece as a attribution concern with separate parallel but distinct protocol to extreme weather event ewe? Is the input for ece projected extreme events ee base on planetary boundary science? doughnut economics? future cast, regional models? future cast possibly of ele's?>
+* <todo: consider, off the shelf prepackaged model run data for extreme events, medium term, requires regional models at low enough resolution for all ee scenario and ee use cases, open source (and COTS), open source preferred, >
+* <todo: consider, off the shelf model configuration,  open source (and COTS), open source preferred, >
+* <todo: consider, ontology set for weather models/climate models as a means of standardisation, common nomencalture, common units of measure, and so on, implies weather ontology and climate ontology as prerequisites, >
+* <todo: consider, ontology set for domains of discourse - eea, pbs, mph, eco, geo, clm, amn, and so on, -  common nomencalture, common units of measure, and so on, as applied science and engineering, >
 * ...
 
 DONE
@@ -81,10 +86,19 @@ Terms
 * Statistical Climatology,
 
 Resolution
-* Downscaling, resolution for retional climate models
+* Downscaling, resolution for regional climate models
 * Regional climate model, RCM, 
 * Dynamical downscaling
 * Statistical downscaling
+
+Baseline - reference value, observed, reconstructed, 1900 baseline for eea investigations, 
+* Global Surface Temperature GST, [WP](https://en.wikipedia.org/wiki/Global_surface_temperature), weighted average temperature over land and oceans, global mean surface temperature GMST, global average surface temperature GAST, 
+* Ocean heat content OHC, ocean heat uptake OHU, 
+* Sea surface temperature SST, surface layer, 
+* Surface air temperature SAT, surface layer, over land and ice, 
+* Temperature, Climate proxy record, reconstructed, tree rings, marine sediments, lake sediments, ice cores, coral rings, paeleoclimatology, past climate, 
+* Temperature, Instrumental temperature record, observed, reliable temperature measurements, circa 1850-1880, UK, others?
+* ...
 
 Organisations academy
 * World Weather Attribution, [WS](https://www.worldweatherattribution.org/), [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
