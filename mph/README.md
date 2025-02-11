@@ -20,6 +20,11 @@ DONE
 * <done: intent to commit>
 * <done: consider, AnthropogenicPublicHealth interface, wip, iterate; method declarations, constants, api, >
 
+## Data
+
+International
+* INFORM Early Warning and Preparedness, see Global Risk Index GRI, EU Home [WS](https://drmkc.jrc.ec.europa.eu/inform-index), Harvard [WS](https://repository.gheli.harvard.edu/repository/12774/), acaps org [WS](https://www.acaps.org/en/thematics/all-topics/inform-severity-index), reliefweb [WS](https://reliefweb.int/organization/inform), for vulnerability and exposure analysis, EEA step 7
+
 ## References
 
 * Public Health [WP](https://en.wikipedia.org/wiki/Public_health)
