@@ -51,11 +51,30 @@ TODO
 * <todo: consider, station-based validation data, NFRs; completeness, availability, >
 * <todo: consider, measurement and control module, data logger, like; Campbell Scientific CR10X,  >
 * <todo: consider, power energy requirements, sml station base, battery, solar, wind, hydro, hydrogen, local grid (if available), >
-* <todo: consider standards WMO concern delta mitigation, unit basis, scenario basis, other basis, >
+* <todo: consider, standards WMO concern delta mitigation, unit basis, scenario basis, other basis, >
+* <todo: consider, sourcing Met Office inspection scheme for weather stations, others like WMO, NOAA, and so on >
 
 DONE
 * <done: intent to commit >
 * <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementation in Java centric projects, Apache Celix for OSGi implementation for C/C++ centric projects, >
+
+## Standards
+
+International - global
+* Instruments and Methods of Observation Programme (IMOP), WMO, [WS](https://community.wmo.int/en/activity-areas/imop)
+
+Jurisdiction - regional
+* <todo: source for WMO measurement lead centres and others; CA, CN, DE, ES, EU, IT, JP, KR, FI, NO - nordic countries, RU, TR, UK, US, ... >
+* <todo: source for WMO regional instrument centres and other; AG, AU, CN, DE, EG, FR, JP, TR, ...>
+* ISO/IEC 17025, regional instrument centre accreditation criteria, 
+
+Orgs
+* Commission for Observation, Infrastructure and Information Systems INFCOM, WMO? 
+
+## Libs
+
+International
+* Java assessment, regional insturment centres, WMO, [WS](https://wmoomm.sharepoint.com/sites/wmocpdb/eve_group/Forms/AllItems.aspx?id=%2Fsites%2Fwmocpdb%2Feve%5Fgroup%2FExpert%20Team%20on%20Quality%2C%20Traceability%20and%20Calibration%20%28ET%2DQTC%29%20%282020%2D2024%29%5F4b0a2388%2Dc404%2Deb11%2Da813%2D000d3a25bdee%2FGroup%20Members%2FJava%2Dassessment&p=true&ga=1)
 
 ## References
 
@@ -89,5 +108,6 @@ Papers
 
 News Papers
 * How are gases in the atmosphere analyzed and measured?, 18 October 2021, Andrew Moseman, Jesse Kroll, Ask MIT Climate, MIT, [WS](https://climate.mit.edu/ask-mit/how-are-gases-atmosphere-analyzed-and-measured), By shining different kinds of light and radiation through air samples, scientists can tell which gases are absorbing or reacting to that light, and in what amounts.
- 
+ * Weather Observation site classification, Met Office, [WS](https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/observation-site-classification)
+ * ...
 
