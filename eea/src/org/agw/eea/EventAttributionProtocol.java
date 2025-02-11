@@ -39,6 +39,7 @@ public interface EventAttributionProtocol {
 	/**
 	* 1 analysis trigger 
 	* Input
+	* - extreme meteorological event eme, 
 	* - extreme weather event ewe
 	* - extreme climate event ece 
 	* 
@@ -140,13 +141,19 @@ public interface EventAttributionProtocol {
  	/**
 	 * 7 vulnerability & exposure analysis
 	 * Input
-	 * - 
+	 * - hazard risk, extreme meteorological event eme, ewe, ece
+	 * - quantitative hazard attribution
 	 * 
 	 * Throughput
-	 * - 
+	 * - impact assessment of realized hazard risk
+	 * - exposure risk
+	 * - vulnerability risk
+	 * - country wide risk and event locale specific risk
+	 * - risk management, e.g. Inform index global risk index GRI, <todo: others to source, UN? World Bank? IMF? others? >
 	 * 
 	 * Output
-	 * - 
+	 * - qualitative exposure attribution
+	 * - qualitative vulnerability attribution
 	 * 
 	 * @param args
 	 */
