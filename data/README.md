@@ -27,6 +27,7 @@ TODO
 * <todo: consider moving data related concerns from other project here, for example eea datapiplines for statistical climatology >
 * <todo: consider, first cut pull services to access data storage sites, RESTful, JSON, other? implies Java project, polling? probably only to dedicated notification resources,  >
 * <todo: consider, first cut alert services to warn of unusal readings from data storage sites, RESTful, JSON, other? implies Java project, >
+* <todo: consider, ontology package, \ont either internal to data source src\org\agw\dat\ont, alternatley as a separate top level project \ont , src\org\agw\ont\ see todo statements in other projects re ontology like \eea, >
 
 DONE
 * <done: intent to commit >
