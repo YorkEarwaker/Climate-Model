@@ -27,6 +27,7 @@ TODO
 * <todo: consider, list all indecies like FWI for extreme event attribution, as first step to operationalise in code base; protocols, methods, processes, algorithms, variables, , >
 * <todo: consider, determine extreme climate event ece as a attribution concern with separate parallel but distinct protocol to extreme weather event ewe? Is the input for ece projected extreme events ee base on planetary boundary science? doughnut economics? future cast, regional models? future cast possibly of ele's?>
 * <todo: consider, substantive difference between terms, extreme meteorological event eme, extreme weather event ewe, extreme climate event ece, other similar terms . for example and extreme anthropogenic event eae might also be an eme, ewe, ece, but an eae may be unrelated to meteorology, it might be political or economic or social and so on, >
+* <todo: consider, AnthropogenicMeteorologicalEvent, in place of or in addition to AnthropogenicWeatherEvent, >
 * <todo: consider, relation to extreme geological event ege, where it might be a solar flare, caldera, earth quake, stumani, earth magnetic poll switch, and so on, some of which at extreme might also be classified as ele,  . >
 * <todo: consider, off the shelf prepackaged model run data for extreme events, medium term, requires regional models at low enough resolution for all ee scenario and ee use cases, open source (and COTS), open source preferred, >
 * <todo: consider, off the shelf model configuration,  open source (and COTS), open source preferred, >
@@ -43,6 +44,8 @@ DONE
 
 Climate and weather specific ones.
 * KNMI Climate Explorer, [WS](https://climexp.knmi.nl/start.cgi), GitLab <todo: source url to hyperlink, >,  web application
+* EUropean CLimate and weather Events: Interpretation and Attribution EUCLEIA, [WS](https://eucleia.eu/), project ended December 2016
+* EUropean Prototype demonstrator for the Harmonisation and Evaluation of Methodologies for attribution of extreme weather Events EUPHEME [WS](https://jpi-climate.eu/project/eupheme/), next iteration of eucleia, 
 
 Models
 * climate prediction dot net CPDN, [WS](https://climateprediction.net/)
@@ -62,6 +65,10 @@ Data
 * RDF, triples, directed graphs, 
 
 ## References
+
+Journals
+* Advances in Statistical Climatology, Meteorology and Oceanography, Copernicus Publications, [WS](https://www.advances-statistical-climatology-meteorology-oceanography.net/), open access, 
+* Weather Attribution, Springer Nature Link, [WS](https://link.springer.com/collections/dbddgeedhg), hybrid, open access, pay wall, 
 
 Papers - science, eea
 * A protocol for probabilistic extreme event attribution analyses, 10 Nov 2020 (Published), Philip, S., Kew, S., van Oldenborgh, G. J., Otto, F., Vautard, R., van der Wiel, K., King, A., Lott, F., Arrighi, J., Singh, R., and van Aalst, M.: Adv. Stat. Clim. Meteorol. Oceanogr., 6, 177–203, 2020. [DOI](https://doi.org/10.5194/ascmo-6-177-2020), [WS](https://ascmo.copernicus.org/articles/6/177/2020/)
