@@ -46,7 +46,6 @@ TODO
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
-* <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundary limits,  >
 * <todo: consider is eco also bio? or seperate bio package? biome biosphere >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\siu package >
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
@@ -78,6 +77,7 @@ DONE
 * <done: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. best fit under \mph\med? >
 * <done: consider org\agw\eco package for ecological capability, eco impacts, waste management, externalisation ecological costs, public health costs, >
 * <done: consider, re \eco project, consider placing link to https://christopherquentin.com/ re sustainability, >
+* <done: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundary limits,  >
 
 ## References
 
