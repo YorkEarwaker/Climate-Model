@@ -13,7 +13,7 @@ See
 * Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
 * Planetary boundary science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
 * Weather and climate data [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/data), 
-* Medicine and public health [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/mph)
+* Medicine and public health mph [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/mph)
 * others tbd ...
 
 ## Goals & Objectives
@@ -74,7 +74,7 @@ Orgs
 ## Libs
 
 International
-* Java assessment, regional insturment centres, WMO, [WS](https://wmoomm.sharepoint.com/sites/wmocpdb/eve_group/Forms/AllItems.aspx?id=%2Fsites%2Fwmocpdb%2Feve%5Fgroup%2FExpert%20Team%20on%20Quality%2C%20Traceability%20and%20Calibration%20%28ET%2DQTC%29%20%282020%2D2024%29%5F4b0a2388%2Dc404%2Deb11%2Da813%2D000d3a25bdee%2FGroup%20Members%2FJava%2Dassessment&p=true&ga=1)
+* Java assessment, regional instrument centres, WMO, [WS](https://wmoomm.sharepoint.com/sites/wmocpdb/eve_group/Forms/AllItems.aspx?id=%2Fsites%2Fwmocpdb%2Feve%5Fgroup%2FExpert%20Team%20on%20Quality%2C%20Traceability%20and%20Calibration%20%28ET%2DQTC%29%20%282020%2D2024%29%5F4b0a2388%2Dc404%2Deb11%2Da813%2D000d3a25bdee%2FGroup%20Members%2FJava%2Dassessment&p=true&ga=1)
 
 ## References
 
