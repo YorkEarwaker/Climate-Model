@@ -1,0 +1,29 @@
+# Extinction level event ele
+
+Major harm to human civilisation or end to a planetary environment able to support humanity.
+
+Anthropogenic global warming and resulting anthropogenic climate change are one possible ele with specific impact of cascading systems effects. A global weather/climate system unsuitable for sustaining human life. The third mass extinction in biosphere. Global zoonotic transfer pandemic.  ...
+
+See
+
+* Ecology eco [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eco)
+* Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
+* Planetary boundary science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
+* Medicine and public health [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/mph)
+* others tbd ...
+
+## Status
+
+TODO
+* <todo: consider, tie to global warming/climate change concerns, \agw \eea \pbs etc,  >
+* <todo: consider, source the EU equivalents of, JPL; Asteroid Watch, CNEOS, ? NASA PDCO? >
+* <todo: consider, other countries with similar PDCO and like capability, AU, CN, IN, JP, others? >
+
+DONE
+* <done: intent to commit>
+
+## References
+
+* Asteroid Watch, JPCL gov [WS](https://www.jpl.nasa.gov/asteroid-watch/)
+* Center for Near Earth Object Studies, JPL gov [WS](https://cneos.jpl.nasa.gov/)
+* Planetary Defence Coordinatioin Office PDCO, NASA gov [WS](https://science.nasa.gov/planetary-defense/)
