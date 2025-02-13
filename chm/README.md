@@ -1,33 +1,28 @@
-# Java
+# Chemistry chm
 
-Java project directory and file organisation.
+Chemistry based capability. 
 
 ## Status
 
 TODO
-* <todo: iterate Java Project repository structure, dirs, files, work in progress wip >
-* <todo: deleta structure for coding libraries? tbd. >
+* <todo: consider, chemical elements, particularly those in relation to anthropogenic global warming, >
+* <todo: consider, periodic table, class, >
+* <todo: consider, content for Element interface, >
+* <todo: consider, content for Molecule interface, >
+* <todo: consider, random selection of elements to start to build toward periodic table completeness, at least one from each block, s-block, f-block, d-block, p-block, >
 
 DONE
-* <done: Java, applications, first cut, v0.1>
-
-## Libraries
-JDK/SDK/JRE
-* Oracle, 
-* Adoptium, Eclipse Temurin, OpenJDK, [WS](https://adoptium.net/), Eclipse Foundation, Open source,
-* ...
+* <done: intent to commit>
+* <done: consider, use Java Record as data holding structure for element information, implement Element interface, wip >
 
 ## References
 
-Terms
-* Java, [WP](https://en.wikipedia.org/wiki/Java_(programming_language)) programming language, 
-* JDK Java development kit
-* SDK Software development kit
-* JRE Java runtime environment
-* JSR Java specification requests
-* JCP Java community process
-* 
+* Chemistry
+* Chemical element, [WP](https://en.wikipedia.org/wiki/Chemical_element)
+* Periodic table, [WP](https://en.wikipedia.org/wiki/Periodic_table)
 
-Lists - of java language
-* List of Java keywords, [WP](https://en.wikipedia.org/wiki/List_of_Java_keywords)
-* List of Java annotation
+Combustion
+* Fire
+
+Fire
+* Fire [WS](https://www.pbs.org/wgbh/nova/fire/onfire.html), PBS
