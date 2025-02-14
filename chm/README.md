@@ -22,7 +22,7 @@ DONE
 * <done: intent to commit>
 * <done: consider, use Java Record as data holding structure for element information, implement Element interface, wip >
 * <done: consider, create Element interface, >
-* <deon: consider, create Molecule interface, >
+* <done: consider, create Molecule interface, >
 * <done: consider, random selection of elements to start to build toward periodic table completeness, at least one from each block, s-block, f-block, d-block, p-block, >
 
 ## References
