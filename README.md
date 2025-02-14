@@ -46,7 +46,9 @@ TODO
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
-* <todo: consider is eco also bio? or seperate bio package? biome biosphere >
+* <todo: consider, is eco also bio? or seperate bio package? biome biosphere >
+* <todo: consider, biosphere biome project bio, org\agw\bio , to place sapiens, tree of life taxonomy? relate Sapiens to Anthropocene interface, >
+* <todo: consider, chemistry project chm, org\agw\chm for chemical elements, periodic table, molecules like CO2, CH4, H2O, . fire to sit here or in phy? >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\siu package >
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
