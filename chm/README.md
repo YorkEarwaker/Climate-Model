@@ -17,6 +17,7 @@ TODO
 * <todo: consider, should Things currently under \mcl inherit Compound instead of Molecule? rename package? bike shedding?>
 * <todo: consider, complete creation of all remaining elements in periodic table, >
 * <todo: consider, subpackage org\agw\chm\ptb periodic table, interfaces Group, Period, Block, >
+* <todo: consider, finish p-block next, >
 
 
 DONE
