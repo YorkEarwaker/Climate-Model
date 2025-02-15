@@ -17,7 +17,10 @@ TODO
 * <todo: consider, should Things currently under \mcl inherit Compound instead of Molecule? rename package? bike shedding?>
 * <todo: consider, complete creation of all remaining elements in periodic table, >
 * <todo: consider, subpackage org\agw\chm\ptb periodic table, interfaces Group, Period, Block, >
-* <todo: consider, finish p-block next, >
+* <todo: consider, \ptb interface or collection or other, Primordial, DecayProduct, Synthetic, ponder more, >
+* <todo: consider, period 5 completion, after p-block, >
+* <todo: consider, d-block completion, after period 5, >
+* <todo: consider, f-block completion, after d-block, >
 
 
 DONE
@@ -26,9 +29,10 @@ DONE
 * <done: consider, create Element interface, >
 * <done: consider, create Molecule interface, >
 * <done: consider, random selection of elements to start to build toward periodic table completeness, at least one from each block, s-block, f-block, d-block, p-block, >
-* <done: s-block, group 1 Hydrogen and alkali metals, group 2 Alkaline Earth metals, >
+* <done: s-block, group 1 Hydrogen and alkali metals, group 2 Alkaline earth metals, >
 * <done: group 18 Nobel gases, >
 * <done: period 1, period 2, period 3, period 4, >
+* <done: consider, finish p-block next, >
 
 ## References
 
