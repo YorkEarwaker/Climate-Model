@@ -30,6 +30,7 @@ Global 200 - WWF
 * Biogeographic realm, 
 * Bioregion, 
 * Ecoregion, 
+* Global 200, [WP](https://en.wikipedia.org/wiki/Global_200)
 
 Great garbage patches
 * Atlantic Garbage Patch
