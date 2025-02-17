@@ -50,14 +50,19 @@ public interface EventAttributionProtocol {
 	 * Throughput
 	 * - impact thresholds, 
 	 * - - number of people affected, 
+	 * - - - ≥ 100 deaths
+	 * - - - ≥ 1,000,000 people affected
+	 * - - - ≥ 50% of total population affected
+	 * - - - & co indicator appeals by IFRC & RCS
 	 * - - development/risk index and capability to cope, 
-	 * - - others?
+	 * - - extreme loss of life, absolute, and percent within national boundary,
+	 * - - extreme economic loss, absolute, and percent within national boundary,
 	 * 
 	 * - near record events, new record events
 	 * - - spectacle, news focus, 
 	 * 
 	 * Output
-	 * - event selected
+	 * - extreme meteorological event selected
 	 * 
 	* @param args
 	*/
@@ -69,9 +74,12 @@ public interface EventAttributionProtocol {
 	 * - event choice and definition
 	 * 
 	 * Input
-	 * - 
+	 * - extreme meteorological event
 	 * 
 	 * Throughput
+	 * - goal 1; to be maximising of anthropogenic contribution, best index for this to test for external forcing signal, averages over large areas and time scales 
+	 * - goal 1.1?; to be relevant for adaptation not simply mitigation, impacts the really affect people
+	 * - goal 2; to be meteorological extreme, index maximising return time of event, but increases signal to noise ratio
 	 * - 
 	 * 
 	 * Output
