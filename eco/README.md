@@ -21,6 +21,16 @@ Christopher Quentin Foundation, [WS](https://christopherquentin.com/), bees, tre
 
 ## References
 
+* Anthrome, [WP](https://en.wikipedia.org/wiki/Anthropogenic_biome), Anthropogenic biome, intensive land use biomes, farmland, agricultural land, open cast mining, city scapes, 
+* Biome, [WP](https://en.wikipedia.org/wiki/Biome)
+* Biosphere, 
+* Ecosystem, 
+
+Global 200 - WWF
+* Biogeographic realm, 
+* Bioregion, 
+* Ecoregion, 
+
 Great garbage patches
 * Atlantic Garbage Patch
 * Great Pacific Garbage Patch
