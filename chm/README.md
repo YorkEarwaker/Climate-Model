@@ -18,7 +18,6 @@ TODO
 * <todo: consider, complete creation of all remaining elements in periodic table, >
 * <todo: consider, subpackage org\agw\chm\ptb periodic table, interfaces Group, Period, Block, >
 * <todo: consider, \ptb interface or collection or other, Primordial, DecayProduct, Synthetic, ponder more, >
-* <todo: consider, d-block completion, after period 5, >
 * <todo: consider, f-block completion, after d-block, >
 
 
@@ -31,8 +30,9 @@ DONE
 * <done: s-block, group 1 Hydrogen and alkali metals, group 2 Alkaline earth metals, >
 * <done: group 18 Nobel gases, >
 * <done: period 1, period 2, period 3, period 4, >
-* <done: consider, finish p-block next, >
+* <done: consider, finish p-block next, p-block finished, and group 13 Triels, 14 Tetrels, 15 Pnicto­gens, 16 Chal­co­gens, 17 Halo­gens, >
 * <done: consider, period 5 completion, after p-block, period 5, group 3 4 5 8 9 10 11 >
+* <done: consider, d-block completion, after period 5, d-block finished, and group 6 7 12 >
 
 ## References
 
