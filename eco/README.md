@@ -1,6 +1,8 @@
 # Ecology eco
 
-Ecological capability and concerns, monitoring, eco impacts, waste management, externalisation ecological costs, public health costs, biosphere, biome, 
+Ecological capability and concerns, monitoring, eco impacts, waste management, externalisation ecological costs, public health costs, biosphere, biome, .
+
+Can any environment on earth now considered to be entirely truly natural and untouched by humanity? 
 
 ## Status
 
