@@ -28,3 +28,6 @@ DONE
 * Asteroid Watch, JPCL gov [WS](https://www.jpl.nasa.gov/asteroid-watch/)
 * Center for Near Earth Object Studies, JPL gov [WS](https://cneos.jpl.nasa.gov/)
 * Planetary Defence Coordinatioin Office PDCO, NASA gov [WS](https://science.nasa.gov/planetary-defense/)
+
+ELE's
+* How Birds Survived the Dinosaur Apocalypse, Birds are today’s only living dinosaurs, but how did they survive the asteroid?, [WS](https://www.pbs.org/wgbh/nova/video/how-birds-survived-the-dinosaur-apocalypse), 6 February 2025, PBS, NOVA
