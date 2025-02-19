@@ -33,6 +33,7 @@ DONE
 * <done: consider, finish p-block next, p-block finished, and group 13 Triels, 14 Tetrels, 15 Pnicto­gens, 16 Chal­co­gens, 17 Halo­gens, >
 * <done: consider, period 5 completion, after p-block, period 5, group 3 4 5 8 9 10 11 >
 * <done: consider, d-block completion, after period 5, d-block finished, and group 6 7 12 >
+* <done: consider, period 6 completion, finished period 6, remaining f-block elements from p6,  >
 
 ## References
 
