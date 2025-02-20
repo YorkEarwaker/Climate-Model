@@ -18,7 +18,9 @@ TODO
 * <todo: consider, complete creation of all remaining elements in periodic table, >
 * <todo: consider, subpackage org\agw\chm\ptb periodic table, interfaces Group, Period, Block, >
 * <todo: consider, \ptb interface or collection or other, Primordial, DecayProduct, Synthetic, ponder more, >
-* <todo: consider, f-block completion, after d-block, >
+* <todo: consider, g-block, h-block, period 8, period 9, ... consider chm\elm\thr theoretical, or chm\elm\ext extended, or chm\elm\ept extendend periodic table, or chm\elm\hyp hypothetical, like hyp, ponder more, after organesson Z=118 element in period 7, >
+* <todo: consider, argument 'String name', for name used for element for a particular instantiation of Element Record, >
+* <todo: consider, not including in Element Record Block, Period, similar as these relate only to periodic table representation of chemical elements and are not specific to element, description of orbitals to be different, description of allotrope to Molecule only? isomers for Element? Should Allotrope be an interface itself taking as reference or argument Element Record, ? >
 
 
 DONE
@@ -34,6 +36,7 @@ DONE
 * <done: consider, period 5 completion, after p-block, period 5, group 3 4 5 8 9 10 11 >
 * <done: consider, d-block completion, after period 5, d-block finished, and group 6 7 12 >
 * <done: consider, period 6 completion, finished period 6, remaining f-block elements from p6,  >
+* <done: consider, f-block completion, after d-block, finished period 7, remaining f-block elements from p7, >
 
 ## References
 
