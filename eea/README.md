@@ -110,6 +110,13 @@ Baseline - reference value, observed, reconstructed, 1900 baseline for eea inves
 * Temperature, Instrumental temperature record, observed, reliable temperature measurements, circa 1850-1880, UK, others?
 * ...
 
+Indecies - extreme event definition <todo: source urls, other event definition indecies>
+* Expert Team on Climate Change Detection and Indices ETDDCI
+* Universal Thermal Comfort Index UTCI, physical model of how human disipate heat, requires non universal applicable qualifiers like clothing sytle and skin colour,
+* Web bulb temperature, humidity related to ability of body cooling via perspiration
+* Plamer Drought Severity Index
+* Soil mositure potential evaporation
+
 Organisations academy
 * World Weather Attribution, [WS](https://www.worldweatherattribution.org/), [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
 
