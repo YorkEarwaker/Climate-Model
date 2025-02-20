@@ -72,18 +72,64 @@ public interface EventAttributionProtocol {
 	 * 2 event definition
 	 * Activity
 	 * - event choice and definition
+	 * - event attribution goal('s), event kind classification, event variables, event region spatial, event timespan temporal, 
 	 * 
 	 * Input
 	 * - extreme meteorological event
 	 * 
 	 * Throughput
+	 * - goals may overlap, but a single one takes primacy?
 	 * - goal 1; to be maximising of anthropogenic contribution, best index for this to test for external forcing signal, averages over large areas and time scales 
 	 * - goal 1.1?; to be relevant for adaptation not simply mitigation, impacts the really affect people
 	 * - goal 2; to be meteorological extreme, index maximising return time of event, but increases signal to noise ratio
-	 * - 
+	 * - goal 3; to be maximising of human society impact and ecological impact, best index for this to test for
+	 * - What question is being asked above, and what physical variables can be mapped to answer the question of attribution, 
+	 * - - meteorological variables, <todo: list meteorological variables, map to event type, >
+	 * - - hydrological variables, <todo: list hydrological variables, map to event type, >
+	 * - - other physical impact models, <todo: list of other variable criteria? map to event type, . that is what other physical models are used? >
+	 * - question 'framing' using 'classs based' defintion, all events of similar magnitude or more extreme, 
+	 * - spatial and temporal properties of variable, 3 day average/max index over a month/season, area region, 
+	 * - class based event, event definition, e.g. heat and drought to extreme fire index, moderate rain moderate wind extreme water levels, 
+	 * - local expert input, spatial area/region definition for example, 
+	 * 
+	 * common indecies - impact literature, definition of extreme event kinds
+	 * 
+	 * Heat extremes
+	 * highest maximum temperature of the year TXx, shorter heat waves, imapct on people outdoors, e.g. India
+	 * maximum of 3-day average maximum temperatures TX3x, longer heat waves, impact on people indoors, e.g. EU 
+	 * 3-day daily mean temperatures TG3x, correlates well with daily maximum, 
+	 * Expert Team on Climate Change Detection and Indices ETDDCI
+	 * Universal Thermal Comfort Index UTCI, physical model of how human dissipate heat, requires non universal applicable qualifiers like clothing sytle and skin colour,
+	 * Web bulb temperature, humidity related to ability of body cooling via perspiration
+	 * 
+	 * Cold extremes
+	 * similar to heat mean avergages but for temperature minima
+	 * ice model?
+	 * snowfall, snowdepth, ?
+	 * 
+	 * High precipitation extremes
+	 * flooding, hydrological model, 
+	 * river basin average precipiation over a given time period also useful in place of hydro model
+	 * in situ flooding
+	 * additional complications, confounding? contributors, river basin management, land use, in addition to changes in atmosphere in atmospheric model
+	 * 
+	 * Drought extremes
+	 * Additional complications, confounding? contributors, 
+	 * Meteorological drought - lack of rain
+	 * Agricultural drought - lack of soil moisture, good soil modules in climate model required, or irrigation effects in a hydrological model
+	 * Other human intervention is water cycle,
+	 * Palmer Drought Severity Index
+	 * Soil moisture potential evaporation
+	 * 
+	 * Standard event definitions required for, - see \amn as part of a possible solution?
+	 * Wind storm extremes, 
+	 * Tornadoes extremes
+	 * Hurricane extremes
+	 * Hail and freezing rain extremes
+	 * particularly challenging above, as long homogeneous time series often not available and nor are suitable models for replication
 	 * 
 	 * Output
-	 * - 
+	 * - event attribution kind and scope
 	 * 
 	 * @param args
 	 */
@@ -94,9 +140,11 @@ public interface EventAttributionProtocol {
 	 * Activity
 	 * - observation set collection and assessment
 	 * - estimating probability and trends of observation set
+	 * - establish return time of event
 	 * 
 	 * Input
-	 * - 
+	 * - event attribution kind and scope
+	 * - long time series min fifty (50) years, preferred one hundred (100) years
 	 * 
 	 * Throughput
 	 * - 
