@@ -21,6 +21,7 @@ TODO
 * <todo: consider, g-block, h-block, period 8, period 9, ... consider chm\elm\thr theoretical, or chm\elm\ext extended, or chm\elm\ept extendend periodic table, or chm\elm\hyp hypothetical, like hyp, ponder more, after organesson Z=118 element in period 7, >
 * <todo: consider, argument 'String name', for name used for element for a particular instantiation of Element Record, >
 * <todo: consider, not including in Element Record Block, Period, similar as these relate only to periodic table representation of chemical elements and are not specific to element, description of orbitals to be different, description of allotrope to Molecule only? isomers for Element? Should Allotrope be an interface itself taking as reference or argument Element Record, ? >
+* <todo: consider, Anthropogenic for synthetic elements, could they appear elsewhere in the universe under natural conditions different from Earth? While most synthetics have an extremely short half life it does not preclude them from appearing in nature under the right conditions outside of the laboratory somewhere in the universe, supernova for example, even if the decay quickly afterward, >
 
 
 DONE
