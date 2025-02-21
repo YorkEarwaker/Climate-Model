@@ -87,12 +87,12 @@ public interface EventAttributionProtocol {
 	 * - - meteorological variables, <todo: list meteorological variables, map to event type, >
 	 * - - hydrological variables, <todo: list hydrological variables, map to event type, >
 	 * - - other physical impact models, <todo: list of other variable criteria? map to event type, . that is what other physical models are used? >
-	 * - question 'framing' using 'classs based' defintion, all events of similar magnitude or more extreme, 
+	 * - question 'framing' using 'class based' definition, all events of similar magnitude or more extreme, 
 	 * - spatial and temporal properties of variable, 3 day average/max index over a month/season, area region, 
 	 * - class based event, event definition, e.g. heat and drought to extreme fire index, moderate rain moderate wind extreme water levels, 
 	 * - local expert input, spatial area/region definition for example, 
 	 * 
-	 * common indecies - impact literature, definition of extreme event kinds
+	 * common indices - impact literature, definition of extreme event kinds
 	 * 
 	 * Heat extremes
 	 * highest maximum temperature of the year TXx, shorter heat waves, imapct on people outdoors, e.g. India
@@ -108,8 +108,9 @@ public interface EventAttributionProtocol {
 	 * snowfall, snowdepth, ?
 	 * 
 	 * High precipitation extremes
+	 * annual maximum of 3-day averaged precipitation RX3day
 	 * flooding, hydrological model, 
-	 * river basin average precipiation over a given time period also useful in place of hydro model
+	 * river basin average precipitation over a given time period also useful in place of hydro model
 	 * in situ flooding
 	 * additional complications, confounding? contributors, river basin management, land use, in addition to changes in atmosphere in atmospheric model
 	 * 
@@ -126,7 +127,7 @@ public interface EventAttributionProtocol {
 	 * Tornadoes extremes
 	 * Hurricane extremes
 	 * Hail and freezing rain extremes
-	 * particularly challenging above, as long homogeneous time series often not available and nor are suitable models for replication
+	 * particularly challenging above, as long homogeneous time series often not available, and nor are suitable models for replication
 	 * 
 	 * Output
 	 * - event attribution kind and scope
@@ -144,13 +145,29 @@ public interface EventAttributionProtocol {
 	 * 
 	 * Input
 	 * - event attribution kind and scope
-	 * - long time series min fifty (50) years, preferred one hundred (100) years
+	 * - long time series min fifty (50) years, preferred one hundred (100) years or more
+	 * - time series inclusive of extreme event
+	 * - time series observation selection
+	 * - - time series often not perfect so best reliable dataset of the available set to be selected
+	 * - - <todo: see \amn, \data, \others, indicates global preparedness and capability uplift, toward data integrity and preparedness, data pipelines, >
+	 * - - <todo: see \amn, \data, \others, UN SDG's & development aid, improve locale and regional personnel competency and capability maturity, >
+	 * - - gridded analysis, 
+	 * - - quality controlled weather stations, hydrological stations, actual measurements, 
+	 * - - radar analysis, often limited available spatially and temporally <todo: radar weather station locations, >   
+	 * - - satellite analysis, often limited temporally, not hard physical measurement datasets, of actual physical index, precipitation, wind, runoff, soil moisture, ...
+	 * - - - CPC Unified Gauge-Based Analysis of Global Daily Precipitation, since 1979 to present, daily global precipitation estimates,
+	 * - - - Grid Analysis and Display System (GrADS), software for accessing, manipulating, visualising, geophysical data,
+	 * - - - <todo: full list of other dataset sources, where is this all co-located? WMO? can it all be locally sourced and also globally centrally managed? also regionally managed? see \amn, \data, \others, >
 	 * 
 	 * Throughput
-	 * - 
+	 * - see also EventModel, SimpleWeatherEventModel
+	 * - observational data, time series dataset pruning and selection, for particular indecies related to event kind, 
+	 * - statisical method selection, for particular indecies (temperature, precipitation, wind, ... ) related to event kind, 
+	 * - data pipeline, prepare and process time series dataset for selected statistical analysis method, 
+	 * - define trend, using statistical analysis method and prepared dataset
 	 * 
 	 * Output
-	 * - 
+	 * - event kind instance trend definition
 	 * 
  	 * @param args
 	 */

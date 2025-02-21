@@ -10,6 +10,8 @@ import org.agw.mdl.Model;
  * WIP
  * Sources
  * https://ascmo.copernicus.org/articles/6/177/2020/
+ * https://link.springer.com/article/10.1007/s10584-021-03071-7
+ * 
  */
 public interface EventModel extends Model {
 	
@@ -29,10 +31,11 @@ public interface EventModel extends Model {
 	// <todo: these variables are replicated in org.agw.mth.sta.GaussianEvent . where should they sit? Likely in mathematics package via interface inheritance but where? >
 	// Fit Parameters
 	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma
-	int thresholdParameter_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
-	int dontKnowTheNameOfThisParameter_α = 0;// Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
+	int positionParameter_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
+	int thresholdParameter_u = 0; // 
+	int dontKnowTheNameOfThisParameter_α = 0; // Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
 	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter) 
-	int thing_x = 0; // the thing being modelled, precipitation, temperature, wind, <todo: refactor, after better definition, >
+	int thing_x = 0; // rename index_x? the thing being modelled, precipitation, temperature, wind, <todo: refactor, after better definition, >
 
 	int penaltyTerm_ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta 
 	int 𝛕 = 0; // Tau 𝛕 https://en.wikipedia.org/wiki/Tau , time <todo: scope of tau, proper name, function, likely time>
@@ -40,6 +43,8 @@ public interface EventModel extends Model {
 	// Delta Δ https://en.wikipedia.org/wiki/Delta_(letter) change in intensity of event? Δ I ?
 	
 	// Prime ′ https://en.wikipedia.org/wiki/Prime_(symbol)
+	
+	int dispersionParameter_σ_over_μ = 0; // σ/μ, for precipitation and wind events, 
 	
 	/**
 	 * public abstract method declarations, default
@@ -63,6 +68,42 @@ public interface EventModel extends Model {
 	
 	 /**
 	  * @param args
+	  * 
+	  * Temperature extremes
+	  * - for good approximation assumption
+	  * - - scale parameter σ, keep constant
+	  * - - shape parameter ξ, keep constant
+	  * 
+	  * Precipitation and wind extremes
+	  * - for index flood assumption
+	  * - - dispersion parameter σ/μ, keep constant
+	  * - - shape parameter ξ, keep constant
+	  * 
+	  * Driver identification separation 
+	  * - for region/locale resolution, temporal and spatial
+	  * - assumptions to be checked against model runs, model modules, parameterisations,
+	  * - - local aerosol forcing
+	  * - - land surface changes, orography, cityscapes, e.g. influencing wind storm severity downward in EU
+	  * - - irrigation, influencing temperature downward 
+	  * - - an other <todo: what is the comprehensive list >
+	  * - - <todo: \amn, \data, \others, pre preparation of driver identification in advance, as changes occure e.g. \flw urban planning new neighbourhoods or new tall buildings or new irrigation scheme and so on , identification of good practice to like WMO station standards for this sort of reporting to aid in \eea and \emr to extreme events, \emr project to be included >
+	  * - - <todo: assume this affects past datasets, in that locale specific changes have to be included in datasets and model runs as they occured over time, cityscapes affecting wind and temperature as heat islands and flooding as run off from paved surfaces and smog burning things fossil/wood/waste and so on, >...
+	  * 
+	  * Spatial pooling - ? <todo: more research, >
+	  * - to increase quantity of available data, <todo: pitfalls? >
+	  * 
+	  * Trend detection - trend definition
+	  * - strong dependency, for detection of trend in observation data, on variable
+	  * - available of observation datasets and quality, 
+	  * - ability of models to replicate
+	  * - Athropogenic global warming and climate change sufficiently strong now to detect trends for
+	  * - Ability to detect trends
+	  * - - extreme heat
+	  * - - extreme short duration precipitation, small scale precipitation using spatial pooling
+	  * - - extreme winter events more variable, but do show trends
+	  * - Hard to detect trends
+	  * - - extreme drought, time scales longer, 
+	  * 
 	  * Shift fit
 	  * Scale fit
 	  * Shift and scale fit

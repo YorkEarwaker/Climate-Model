@@ -8,6 +8,7 @@ package org.agw.eea;
  * Model of the weather event
  * Sources
  * https://ascmo.copernicus.org/articles/6/177/2020/
+ * https://link.springer.com/article/10.1007/s10584-021-03071-7 
  * 
  */
 public class SimpleWeatherEventModel implements WeatherEventModel {
@@ -107,6 +108,13 @@ public class SimpleWeatherEventModel implements WeatherEventModel {
 	 * 100/Δ I / I = 100[exp(α(T′_1- T′_0)/μ_0)-1]
 	 * Shift and Scale fit <todo: implement>
 	 * ...
+	 * 
+	 * Pitfalls to be considered
+	 * - spurious trends, due to extreme not recorded in part of time series with varying amount of missing data 
+	 * - spurious trends, due to distance between stations, occurrence of extremes will be depressed by interpolation, lower station density will give fewer extremes in gridded analysis, if distance between stations is greater than decorrelation scale of extreme, 
+	 * - variability of quality or reanlysis by variable and region/locale 
+	 * see also EventModel, EventAttributionProtocol, refactoring likely needed between these artifacts, 
+	 * 
 	 */
 	@Override
 	public void trendDefinition() {
