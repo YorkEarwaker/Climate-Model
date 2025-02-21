@@ -55,7 +55,16 @@ Paeleoclimatology
 * Temperature 12k [WS](https://lipdverse.org/project/temp12k/), multidecadal and milleninal-scale change in climate over the Holocene that is the last 12,000 years, relation to planetary boundary science pbs, 
 
 Sources of other data kinds to list
-* ...
+* CPC Unified Gauge-Based Analysis of Global Daily Precipitation, since 1979 to present, daily global precipitation estimates,
+
+## Libraries
+
+Libs
+* <to be sourced>
+
+Software
+* Grid Analysis and Display System (GrADS), software for accessing, manipulating, visualising, geophysical data,
+
 
 ## References
 
@@ -115,7 +124,14 @@ Time scales
 * Century, 2001 to 2100 the twenty-first 21st century
 * Millenium, 2001 to 3000 the 3rd millenium CE
 
-News Papers
+News Papers - global warming, IPCC
 * We’ve ‘lost’ 19 years in the battle against global warming since the Paris Agreement, 12th December 2023, ECMWF, Copernicus, [WS](https://climate.copernicus.eu/weve-lost-19-years-battle-against-global-warming-paris-agreement)
-* 
-* 
+* ...
+
+News Papers - data sets
+* CPC Unified Gauge-Based Analysis of Global Daily Precipitation, [WS](https://climatedataguide.ucar.edu/climate-data/cpc-unified-gauge-based-analysis-global-daily-precipitation), retrieved 2025-02-21, National Center for Atmospheric Research Staff (Eds). Last modified 2022-09-09
+* GPCC: Global Precipitation Climatology Centre.”, [WS](https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre), retrieved 2025-02-21, National Center for Atmospheric Research Staff (Eds). Last modified 2024-03-13 
+
+
+
+
