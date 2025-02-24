@@ -162,7 +162,7 @@ public interface EventAttributionProtocol {
 	 * Throughput
 	 * - see also EventModel, SimpleWeatherEventModel
 	 * - observational data, time series dataset pruning and selection, for particular indecies related to event kind, 
-	 * - statisical method selection, for particular indecies (temperature, precipitation, wind, ... ) related to event kind, 
+	 * - statistical method selection, for particular indecies (temperature, precipitation, wind, ... ) related to event kind, 
 	 * - data pipeline, prepare and process time series dataset for selected statistical analysis method, 
 	 * - define trend, using statistical analysis method and prepared dataset
 	 * 
@@ -177,15 +177,31 @@ public interface EventAttributionProtocol {
 	 * 4 model evaluation
 	 * Activity
 	 * - assessing and selecting models fit for purpose for a specific event attribution 
+	 * - more than one model must pass as fit for purpose or attribution cannot proceed 
 	 * 
 	 * Input
-	 * - 
+	 * - A list of candidate climate/weather models, NCP/NWP models, other model kinds? 
 	 * 
 	 * Throughput
-	 * - 
+	 * - Due diligence, candidate model evaluation steps
+	 * - Minimum fit for purpose test for every candidate model
+	 * - - model capability, For extreme event kind of concern is model capable, in principle, of representing it.
+	 * - - - insufficient grid resolution, <todo: model metadata, extreme event kind to grid resolution >
+	 * - - - insufficient physics, numerical predictive capability, <todo: model metadata, extreme event kind to physics >
+	 * - - model statistical compatibility, does the statistical approach used for the observed extremes have a compatible matach to the statisital capability used for the simulated extreme event in the model 
+	 * - - (model?) meteorology (theory?) realistic, (physics?, Parameterisations?, module/components) driving extremes 
+	 * 
+	 * - Even passing these tests the model may not be, able to represent well/reliably/accurately, sensitive to anthropogenic effects/impacts
+	 * - - sub grid parameterisations often fail to represent extreme events, 
+	 * - - or fail after extreme event (physics) are numerically modelled, <todo: is this a bounding issue? >
+	 * - - different models often report different trends, one of the reasons more than one model is required
+	 * - - use case hydrological variable of interest, multiple models required, <todo: min number N of models? 2, 3 N? >
+	 * - - use case other physical impact variable of interest, multiple models required, <todo: what are the list physical variable interest pvi, groupings of pvi? >
+	 * 
 	 * 
 	 * Output
-	 * - 
+	 * - list of selected climate/weather models fit for purpose to model extreme event kind
+	 * - and climate/weather models fit for purpose > 1
 	 * 
  	 * @param args
 	 */
