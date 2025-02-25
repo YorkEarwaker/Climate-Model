@@ -56,6 +56,7 @@ TODO
 * <todo: consider, what are the optimal station distribution, who many per kilometre, for which use cases; climate ncp, meterological nwp, eea, mph, emr, business vertical like transport, and so on, >
 * <todo: consider, how could business vertical and other use case scenarios datasets be used or made compatible for use in ncp/nwp models, that is be of necessary quality and integrity, they would greatly increase spatial resolution, and likely temporal resolution, that is joined upness, core to this in standardised instrument specs for quality and integrity and maintenance, but this should not be a focus for analysis paralysis, >
 * <todo: consider, Design Engineering Practice, tools, electrical engineering, systems engineering, systems architecture, systems modelling, cad? SysML? SEBok? >
+* <todo: consider, Raspberry Pi, >
 
 DONE
 * <done: intent to commit >
