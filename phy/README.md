@@ -5,10 +5,10 @@ Physcis based capability.
 ## Status
 
 TODO
-* <todo: Java Project repository structure, dirs, files, work in progress wip >
+* <todo: consider, first interface, class, record, enun, likely in relation to physical constants,  >
 
 DONE
-* <done: n/a>
+* <done: intent to commit>
 
 ## References
 
