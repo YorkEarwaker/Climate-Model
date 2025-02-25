@@ -119,6 +119,8 @@ Indecies - extreme event definition <todo: source urls, other event definition i
 
 Organisations academy
 * World Weather Attribution, [WS](https://www.worldweatherattribution.org/), [WP](https://en.wikipedia.org/wiki/World_Weather_Attribution), multi nation academic effort, 
+* Uk Universities Climate Network, UK, London, 
+* Global Alliance of Universities on Climate, CN, Beijing
 
 Mathematics
 * Statisics
