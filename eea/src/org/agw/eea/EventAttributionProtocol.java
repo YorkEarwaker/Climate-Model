@@ -180,24 +180,35 @@ public interface EventAttributionProtocol {
 	 * - more than one model must pass as fit for purpose or attribution cannot proceed 
 	 * 
 	 * Input
-	 * - A list of candidate climate/weather models, NCP/NWP models, other model kinds? 
+	 * - A list of candidate climate/weather models, different model kinds, <todo: model metadata capability requirement, as RESTful URI?, >
+	 * - - NCP/NWP models, numerical prediction, 
+	 * - - non hydrostatic model kinds, ~ 100 meter resolution, high res, regional models, orography, shore line, wind flow, meso scale prediction, compute intensive, 
+	 * - - other model kinds? <todo: what is the enumeration list of model kinds>
 	 * 
 	 * Throughput
 	 * - Due diligence, candidate model evaluation steps
-	 * - Minimum fit for purpose test for every candidate model
-	 * - - model capability, For extreme event kind of concern is model capable, in principle, of representing it.
+	 * - Minimum fit for purpose three step test for every candidate model
+	 * - - 1 model capability, For extreme event kind of concern is model capable, in principle, of representing it.
 	 * - - - insufficient grid resolution, <todo: model metadata, extreme event kind to grid resolution >
+	 * - - - - <todo: what is the grid res to event kind map, what other model criteria for event kind, latitude? model modules? >
+	 * - - - - tropical cyclone event hurricane/typhoon extreme, 25km res grid
+	 * - - - - connective storm event one day summer precipitation extreme, 12km res grid, and non-hydrostatic model
+	 * - - - - midlatitude winter extreme, 200?km red grid, course grained grid <todo: how course>
 	 * - - - insufficient physics, numerical predictive capability, <todo: model metadata, extreme event kind to physics >
-	 * - - model statistical compatibility, does the statistical approach used for the observed extremes have a compatible matach to the statisital capability used for the simulated extreme event in the model 
-	 * - - (model?) meteorology (theory?) realistic, (physics?, Parameterisations?, module/components) driving extremes 
+	 * - - - - tornado event kinds high centrifugal effect, and practically nill coriolis effect? 
+	 * - - - - hurricane event kinds high coriolis effect, and <tbd what is> coriolis effect?
+	 * - - 2 model statistical compatibility, does the statistical approach used for the observed extremes have a compatible matach to the statisital capability used for the simulated extreme event in the model 
+	 * - - 3 (model?) meteorology (theory?) realistic, (physics?, parameterisations?, module/components) driving extremes 
 	 * 
 	 * - Even passing these tests the model may not be, able to represent well/reliably/accurately, sensitive to anthropogenic effects/impacts
 	 * - - sub grid parameterisations often fail to represent extreme events, 
 	 * - - or fail after extreme event (physics) are numerically modelled, <todo: is this a bounding issue? >
 	 * - - different models often report different trends, one of the reasons more than one model is required
-	 * - - use case hydrological variable of interest, multiple models required, <todo: min number N of models? 2, 3 N? >
-	 * - - use case other physical impact variable of interest, multiple models required, <todo: what are the list physical variable interest pvi, groupings of pvi? >
+	 * - - - use case hydrological variable of interest, multiple models required, <todo: min number N of models? 2, 3 N? >
+	 * - - - use case other physical impact variable of interest, multiple models required, <todo: what are the list physical variable interest pvi, groupings of pvi? >
 	 * 
+	 * Interpolation
+	 * - interpolating extremes reduces extremes by definition.
 	 * 
 	 * Output
 	 * - list of selected climate/weather models fit for purpose to model extreme event kind

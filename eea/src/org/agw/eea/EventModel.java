@@ -30,11 +30,13 @@ public interface EventModel extends Model {
 	
 	// <todo: these variables are replicated in org.agw.mth.sta.GaussianEvent . where should they sit? Likely in mathematics package via interface inheritance but where? >
 	// Fit Parameters
-	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma
+	int scaleParameter_σ = 0; // Sigma σ https://en.wikipedia.org/wiki/Sigma, corresponding to the variability of the extreme (relative to mean)
+	int dispersionParameter_σ_over_μ = 0; // σ/μ, for precipitation and wind events, corresponding to the variability of the extreme (relative to mean)
+	
 	int positionParameter_μ = 0; // Mu μ https://en.wikipedia.org/wiki/Mu_(letter)
 	int thresholdParameter_u = 0; // 
 	int dontKnowTheNameOfThisParameter_α = 0; // Alpha α https://en.wikipedia.org/wiki/Alpha <todo: scope of alpha, proper name, function, >
-	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter) 
+	int shapeParameter_ξ = 0; // Xi ξ https://en.wikipedia.org/wiki/Xi_(letter) , how fat or thin the tail is
 	int thing_x = 0; // rename index_x? the thing being modelled, precipitation, temperature, wind, <todo: refactor, after better definition, >
 
 	int penaltyTerm_ζ = 0; // Zeta ζ https://en.wikipedia.org/wiki/Zeta 
@@ -44,7 +46,7 @@ public interface EventModel extends Model {
 	
 	// Prime ′ https://en.wikipedia.org/wiki/Prime_(symbol)
 	
-	int dispersionParameter_σ_over_μ = 0; // σ/μ, for precipitation and wind events, 
+	int trendParameter = 0; // concerns with model limitations, not fit for purpose? model issues relation, 
 	
 	/**
 	 * public abstract method declarations, default
