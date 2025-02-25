@@ -60,6 +60,12 @@ TODO
 * <todo: consider, climate/weather numerical prediction model, physics, that can represent extreme weather events well, most are not fit for purpose for doing so, High Priority! see also \eea >
 * <todo: consider, model meta data for good fit in other use cases, \eea, \mph, \emr, \eco, \pbs, for each scenario use case which is meta data set required for good fit evaluation purpose? models to publish meta data? means to acquire meta data via model api? first pass at method to derive/get values where no bespoke use case scenario meta data exists, as gap analysis! see \eea EEA as first test case example, see \amn as one remedial step >
 * <todo: consider, how to assess deficiencies in model for use case scenario where natural variability mask model systematic deficiencies for use case, related to meta data and \eea, \mph, \emr, \eco, \pbs, uc/scenarios, see \eea EEA as first test case example, see \amn as one remedial step >
+* <todo: consider, macro meso micro, scales of analysis and interaction, climate models, business vertical e.g. epidemiology, health care and medicine, viticulture, building architecture, terms used differently, but both relate to climate, or is it that climate conditions in vinticulture use the term differently? different definition different analysis context?, >
+* <todo: consider, macro meso micro, scales of analysis and interaction, climate models, confusion conflation with grid resolution km, different contexts in which terms are used in climatology,  >
+* <todo: consider, macro meso micro, in vinticulture, macroclimate region river valley, mesoclimate locale within a region, microclimate a few rows in vinyard, canopy microclimate area directly around vine leaves, >
+* <todo: consider, macro meso micro, in epidemiology, population level region, SIR model macro level model predicts spread of diseases across a population? >
+* <todo: consider, macro meso micro, other views from other business verticals, domains of discourse, mapping of terminology with SKOS W3C ontology mapping, >
+* <todo: consider, macro meso micro, e.g. is region in climate modeling the equivalent to eco biome Global 200 concept? >
 * ...
 
 DONE
@@ -87,8 +93,8 @@ Languages
 
 Model equations
 * physical principles,
-* varibles of physical principles
-* Parameterization
+* variables of physical principles
+* Parameterisation
 * 
 
 physical principles, of cm, seven
@@ -98,6 +104,33 @@ physical principles, of cm, seven
 * conservation of momentum of air in three directions
 * ideal gas law applied to air
 
+model - hydrostatic
+* hydrostatic equation solver
+* Euler equations? highly compressable? 
+* bore speed, large scale feature of flow
+* interface thickness, large scale feature of flow
+* macro scale, 
+* low resolution, course grained
+
+model - non hydrostatic
+* non hydrostatic equation solver
+* Earths gravity downward effect on upward decrease in air pressure with hight aka upward directed gradient force, 
+* hydrostatic equilibrium, on Earth downward gravity force cancels upward directed gradient force
+* meso scale, regional models, 
+* mid? resolution, 
+
+model - Earths rotation, <todo: move to \phy ?>
+* Coriolis effect, 
+* centrifugal effect,
+* <todo: other rotation effects? >
+* model kinds ?
+* coriolis influences circulaton patterns of atmosphere and oceans, causes air and water to move in curved path
+* coriolis affects large scale weather patterns and ocean currents
+* upward? centrifugal effect of earth spin ? 
+* downward? coriolis effect of eartch spin ?
+* Earths gravity effect and Earths spin Coriolis effect
+* Earths gravity effect and Earths spin centrifugal effect
+
 variables, of principles, of cm, seven
 * air temperature
 * pressure
@@ -105,13 +138,16 @@ variables, of principles, of cm, seven
 * water vapor content
 * wind magnitude in three directions
 
-resolution, of cm
+model - resolution, of cm
 * fine grained, tens of kilometers
 * course grained, hundreds of kilometers
-* 
+* micro scale level, grid resolution ?km, local climate; mountain, valley, city, science direct [WS](https://www.sciencedirect.com/topics/engineering/microclimate)
+* meso scale level, grid resolution ?km, regional climate; geographical homogeneous area science direct [WS](https://www.sciencedirect.com/topics/engineering/mesoclimate), 
+* macro scale level, grid resolution ?km, global climate; 
+
 geo location, of cm
 * global, course grained, IPCC, 
-* regional, fine grained, disease, agriculture, adpatation
+* regional, fine grained, disease, agriculture, adaptation, 
 
 Chemical elements, earth systems, 
 * Abundance of chemical elements, [WP](https://en.wikipedia.org/wiki/Abundance_of_the_chemical_elements)
@@ -122,11 +158,15 @@ Papers
 * The physics of numerical analysis: a climate modelling case study, 2020, Palmer T. N., Phil. Trans. R. Soc. A.37820190058, [DOI](http://doi.org/10.1098/rsta.2019.0058), [WS](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0058)
 * Neural general circulation models for weather and climate., 22 July 2024, Kochkov, D., Yuval, J., Langmore, I. et al., Nature 632, 1060–1066 (2024). [DOI](https://doi.org/10.1038/s41586-024-07744-y)
 
+Papers - grid, physics
+* An unstructured-grid, finite-volume, nonhydrostatic, parallel coastal ocean simulator, 3 May 2006, O.B. Fringe, M. Gerritsen, R.L. Street, Ocean Modelling, Volume 14, Issues 3–4, 2006, Pages 139-173, [DOI](https://doi.org/10.1016/j.ocemod.2006.03.006), science direct [WS](https://www.sciencedirect.com/science/article/abs/pii/S1463500306000394), Stanford [PDF](https://web.stanford.edu/~fringer/publications/obf_oceanmodelling_2006_14.pdf)
+
 News Papers - climate models
 * Climate Models, 8 January 2021, Elfatih Eltahir, Aaron Krol, Explainer, MIT Climate Portal, MIT, [WS](https://climate.mit.edu/explainers/climate-models)
 * Unified Model, The Unified Model (UM) is a numerical model of the atmosphere used for both weather and climate applications., Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)
 * Numerical Weather Prediction Model, weather forecasting, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/weather-forecasting)
 * Seasonal and climate models, Configurations of the Unified Model for seasonal, decadal and centennial climate predictions, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models)
+* What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?, [WS](https://earthscience.stackexchange.com/questions/2257/what-are-the-applications-of-hydrostatic-solvers-vs-non-hydrostatic-solvers-in-n), 11 July 2014, StackExchange, Earth Science, 
 
 News Papers - obervations
 * How we measure atmospheric pressure, Atmospheric pressure is measured by a barometer that employs a silicon capacitive pressure sensor having excellent repeatability and long term stability characteristics., Met Office, [WS](https://www.metoffice.gov.uk/weather/guides/observations/how-we-measure-atmospheric-pressure)
