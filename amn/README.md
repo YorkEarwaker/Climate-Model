@@ -6,9 +6,15 @@ Meeting WMO standards. Other standard sub sets, yet to be defined, for specific 
 
 Land born units fixed s/m/l, water born units buoys, air born units weather balloons. Likely meso amn's for different concerns of diverse stakeholder groups. For example, meso networks for; public health and epidemiology, micro climates of large urban centres, transport (road, rail, air, marine, ) infrastructure network, agricultural irrigation network, telco network, energy (electric, hydrogen, fossil, ) network, and so on.
 
+Start now to deploy amn for temporal and spatial coverage for time series data collection now for crisis climate management over the next fifty years.
+
 Weather/climate data is a first class topic of concern. 
 
-See 
+See sub projects
+* Measurement, control, data mcd [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/README.md), a sub project component
+* <todo: instrument sub project, >
+
+See related top level projects
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
 * Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
 * Planetary boundary science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
@@ -18,7 +24,7 @@ See
 
 ## Goals & Objectives
 
-* Toward, temporal and spacial completeness, geo coverage ground based, High priority!
+* Toward, temporal and spatial completeness, geo coverage ground based, High priority!
 * Toward, scope and quality and integrity, geo coverage ground based, High priority!
 * Global warming data, global warming limits,
 * World Weather Attribution data, extreme event attribution
@@ -55,8 +61,8 @@ TODO
 * <todo: consider, sourcing Met Office inspection scheme for weather stations, others like WMO, NOAA, and so on >
 * <todo: consider, what are the optimal station distribution, who many per kilometre, for which use cases; climate ncp, meterological nwp, eea, mph, emr, business vertical like transport, and so on, >
 * <todo: consider, how could business vertical and other use case scenarios datasets be used or made compatible for use in ncp/nwp models, that is be of necessary quality and integrity, they would greatly increase spatial resolution, and likely temporal resolution, that is joined upness, core to this in standardised instrument specs for quality and integrity and maintenance, but this should not be a focus for analysis paralysis, >
-* <todo: consider, Design Engineering Practice, tools, electrical engineering, systems engineering, systems architecture, systems modelling, cad? SysML? SEBok? >
-* <todo: consider, Raspberry Pi, >
+* <todo: consider, Design Engineering Practice, tools, electrical engineering, systems engineering, systems architecture, systems modelling, cad? SysML? SEBok? mbse, >
+* <todo: consider, Raspberry Pi, evaluate as part of measurement control data mcd unit, >
 
 DONE
 * <done: intent to commit >
@@ -79,6 +85,12 @@ Orgs
 
 International
 * Java assessment, regional instrument centres, WMO, [WS](https://wmoomm.sharepoint.com/sites/wmocpdb/eve_group/Forms/AllItems.aspx?id=%2Fsites%2Fwmocpdb%2Feve%5Fgroup%2FExpert%20Team%20on%20Quality%2C%20Traceability%20and%20Calibration%20%28ET%2DQTC%29%20%282020%2D2024%29%5F4b0a2388%2Dc404%2Deb11%2Da813%2D000d3a25bdee%2FGroup%20Members%2FJava%2Dassessment&p=true&ga=1)
+
+## Hardware
+
+Computing
+* Raspberry Pi, [WP](https://en.wikipedia.org/wiki/Raspberry_Pi), consider as part of control unit, 
+* 
 
 ## References
 
