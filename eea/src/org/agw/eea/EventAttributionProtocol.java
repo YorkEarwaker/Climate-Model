@@ -195,10 +195,13 @@ public interface EventAttributionProtocol {
 	 * - - - - connective storm event one day summer precipitation extreme, 12km res grid, and non-hydrostatic model
 	 * - - - - midlatitude winter extreme, 200?km red grid, course grained grid <todo: how course>
 	 * - - - insufficient physics, numerical predictive capability, <todo: model metadata, extreme event kind to physics >
-	 * - - - - tornado event kinds high centrifugal effect, and practically nill coriolis effect? 
+	 * - - - - tornado event kinds high centrifugal effect, and practically nill coriolis effect? <todo: not from EEA papers, wiki article on coriolis effect>
 	 * - - - - hurricane event kinds high coriolis effect, and <tbd what is> coriolis effect?
 	 * - - 2 model statistical compatibility, does the statistical approach used for the observed extremes have a compatible matach to the statisital capability used for the simulated extreme event in the model 
 	 * - - 3 (model?) meteorology (theory?) realistic, (physics?, parameterisations?, module/components) driving extremes 
+	 * - - - small-scale extremes, often half or models fail to pass
+	 * - - - - due to grid issues, 
+	 * - - - - due to bounding issues which don't permit extreme to be represented, cut of precipitation 200-300 mm/dy, or heat to high in deserts 70 Celsius 158 Fahrenheit, 
 	 * 
 	 * - Even passing these tests the model may not be, able to represent well/reliably/accurately, sensitive to anthropogenic effects/impacts
 	 * - - sub grid parameterisations often fail to represent extreme events, 
