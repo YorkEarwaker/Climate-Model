@@ -56,6 +56,7 @@ Paeleoclimatology
 
 Sources of other data kinds to list
 * CPC Unified Gauge-Based Analysis of Global Daily Precipitation, since 1979 to present, daily global precipitation estimates,
+* Deutscher Wetterdienst, time series data [WS](https://www.dwd.de/EN/ourservices/cdc/cdc_ueberblick-klimadaten_en.html)
 
 ## Libraries
 
@@ -64,6 +65,10 @@ Libs
 
 Software
 * Grid Analysis and Display System (GrADS), software for accessing, manipulating, visualising, geophysical data,
+
+Education
+* Met Matters, RMS [WS](https://www.rmets.org/metmatters/where-find-detailed-weather-data), links to a number of weather data sources
+* Kaggle, Community Prediction Competition, [WS](https://www.kaggle.com/c/weather/data)
 
 
 ## References
