@@ -1,129 +1,96 @@
-# Autonomous meteorological network amn
+# Measurement, control, data, mcd
 
-Units oversight by local jurisdiction national meteorolgical and hydrological service NMHS. In coordination with other stakeholders; public health, environment agency, transport agency, agriculture agency, metropolitan agency, and so on. Specific stakeholder sites of interest. Unmanned technology systems. Synoptic six hourly, hourly, other temporal resolution time measure metric. System of systems. Local, regional, and global systems management.
+Metrics and telemetry, data logging and storage, . 
 
-Meeting WMO standards. Other standard sub sets, yet to be defined, for specific stakeholder group concerns. Standards deltas from WMO base station optimal might be on a; per observational instrument unit basis, or use case scenario basis, or industry vertical basis, ? 
+What other variables and metrics might be included in a amn unit? Over and above standard meterological ones. Detection of gases, particles and particulates, microbiome, chemical molecules, and so on. Likely on a per use case and scenario basis. 
 
-Land born units fixed s/m/l, water born units buoys, air born units weather balloons. Likely meso amn's for different concerns of diverse stakeholder groups. For example, meso networks for; public health and epidemiology, micro climates of large urban centres, transport (road, rail, air, marine, ) infrastructure network, agricultural irrigation network, telco network, energy (electric, hydrogen, fossil, ) network, and so on.
+Modular system of systems approach to ensure pick and mix observational tools and instruments. Where over a certain limit, to be defined, for arguments sake say ten, move from small unit size to medium unit size. The limit of ten being entirely arbitrary. Or upper limits might be; small might have five instruments, medium five to fifteen instruments, large fifteen and above, again purely arbitrary sizing exercise as initial stake in the ground. 
 
-Start now to deploy amn for temporal and spatial coverage for time series data collection now for crisis climate management over the next fifty years.
+The standard height for measurement is set at two meters for meterological data for wind speed for example. What might a different suite of such requirements look like? Which bodies would be responsible for setting them? WMO and which others? Industry bodies? Gov bodies? NMHSs? NGOs? ... That is which are the set of stakeholder groups to canvas for respective concerns.  
 
-Weather/climate data is a first class topic of concern. 
+Depiction of overlap of stakeholder concerns via; grid, heatmap, Euler diagram, other . Cross section comparative analysis of measurement suites per stakeholder. Use cases for fixed station sites for longer term time series data for extreme event attribution. Use cases for portable station sites for shorter term time series data for public health and epidemiology. A mixture of fixed stations sites and portable station sites both marine based and land based might also be appropriate for environment agencies in for example monitoring coastal errosion accelerated by rising sea levels. For example fixed bouys might after fifty years, or less, be further from the shoreline than when first installed. Additional bouys might be installed closer to the receded shoreline.
 
-See sub projects
-* Measurement, control, data mcd [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/README.md), a sub project component
-* <todo: instrument sub project, >
+Another use case for portable station might the study of predicted extreme weather. Bouys put in line of hurricane. Which would be hazard work. Due to unpredictability of tacking as shown by spaghetti graphs. This might also be the case for typhoon landfall. And other project extreme events, heat and wet bulb events, precipitation events, wind events, drought events, and so on.
 
-See related top level projects
-* Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
-* Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
-* Planetary boundary science pbs [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/pbs)
-* Weather and climate data [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/data), 
-* Medicine and public health mph [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/mph)
-* others tbd ...
+Portable stations would also be an useful capability in response to extreme events. And ongoing emergency management response and recovery events.
 
-## Goals & Objectives
+One roll out option of more permanent fix station units might be in sites where extreme events have occurred and are predicted to reoccur in the years and decades to come. So given assumption that instrumentation measurement and data validation is the same for portable and fixed units fixed units could replace portable units. <todo: consider moving this para to main amn README.md >
 
-* Toward, temporal and spatial completeness, geo coverage ground based, High priority!
-* Toward, scope and quality and integrity, geo coverage ground based, High priority!
-* Global warming data, global warming limits,
-* World Weather Attribution data, extreme event attribution
-* Extreme event emergency management response and recovery data
-* Planning data, mitigation, adaptation, civil engineering, 
-* Medicine and public health
-* Planetary boundary science
-* Future proofing adaptation
-* Strategic resilliency 
-* Global weather knows no borders
-* Open source for complete transparency
-* UN SDG's
-* Development assistance
+One parallel piece of work is in coordination with WMO and NMHS and other stakeholders like public health and global health for prospective sites for a roll out of fixed station sites. Another would be working with private sector and NGO stakeholders for industry specific roll out programme. The private sector initiatives might help finance the public health initiatives for example. <todo: consider moving this para to main amn README.md >
+
+Portable stations for epidemiological monitoring of camps of displaced people. Climate refugees, conflict refugees, economic migrants, and so on. 
+
+See also
+* Networks [GH](https://github.com/YorkEarwaker/Networks)
 
 ## Status
 
 TODO
-* <todo: research, >
-* <todo: contact WMO >
-* <todo: first itertion land born units, small, mediumm, large, small priority? check priority stakeholder group, assume small yes to avoid analysis parallysis, >
-* <todo: parallel workstreams land, water, air, >
-* <todo: Autonomous Meteorological Network, placeholder name, project name tbc, aws autonomous/automated weather station? wsn weather station network? msn meteorological station network? gmn global meterological network? other name?  >
-* <todo: consider base instrumentation, Thermometer (air/sea surface temperature), Barometer (air pressure), Hydrometer (humidity), Anemometer (wind speed), Pyranometer (solar radiation), Rain guage (precipitation), Wind vane (wind direction), ceilometer (cloud height), present weather sensor/visibility sensor, ultrasonic snow depth sensor, Evaporation pan, others. Which are core base which are specific to context? >
-* <todo: consider C++ repository structure, as this will be systems engineering; hardward, firmware, . some server side application code telemetry data processing, may require java code base, & web front end, >
-* <todo: consider, several sub-directories to amn project if multiple code bases are required, >
-* <todo: consider, similar objectives, autonomous atmospheric network aan, at varous heights in the gas phase column, gasses, aerosols, particulates, spectroscopy, high altitude airship/balloon h = P_0/ρg, h is altutude, P_0 initial pressure, ρ is air density, g is acceleration due to gravity, weather and environmental monitoring >
-* <todo: consider, similar objectives, autonomous oceanic network aon, at varous depths in the liquid phase column, disolved gasses, temperature, flows, biome, Bathyscaphe, >
-* <todo: consider, radiosondes, telemetry instrument that measures atmospheric variables and transmits them to the ground, battery powered, balloon lift, >
-* <todo: consider, METAR every hour, SYNOP every six hours, and other report standards, >
-* <todo: consider, station-based validation data, NFRs; completeness, availability, >
-* <todo: consider, measurement and control module, data logger, like; Campbell Scientific CR10X,  >
-* <todo: consider, power energy requirements, sml station base, battery, solar, wind, hydro, hydrogen, local grid (if available), >
-* <todo: consider, standards WMO concern delta mitigation, unit basis, scenario basis, other basis, >
-* <todo: consider, sourcing Met Office inspection scheme for weather stations, others like WMO, NOAA, and so on >
-* <todo: consider, what are the optimal station distribution, who many per kilometre, for which use cases; climate ncp, meterological nwp, eea, mph, emr, business vertical like transport, and so on, >
-* <todo: consider, how could business vertical and other use case scenarios datasets be used or made compatible for use in ncp/nwp models, that is be of necessary quality and integrity, they would greatly increase spatial resolution, and likely temporal resolution, that is joined upness, core to this in standardised instrument specs for quality and integrity and maintenance, but this should not be a focus for analysis paralysis, >
-* <todo: consider, Design Engineering Practice, tools, electrical engineering, systems engineering, systems architecture, systems modelling, cad? SysML? SEBok? mbse, >
-* <todo: consider, Raspberry Pi, evaluate as part of measurement control data mcd unit, >
+* <todo: consider, MCD Hardware specification, Bill of Materials BoM, building blocks, >
+* <todo: consider, MCD requirements for different deployment scenarios, sml, >
+* <todo: consider, Bill of Materials for sub components, air balloon, land unit, water buoys,>
+* <todo: consider, build, >
+* <todo: consider, buy, >
+* <todo: are these the correct standards to use? ITU-R V.24, V.28, , are these superseded? current? deprecated?  >
+* <todo: consider, Raspberry pi, likely yes. which version pico? see also 40 pin GPIO for control circuits? start with Raspberry Pi to side step analysis paralysis, >
+* <todo: consider, with Ethernet capability a requirement, probably not? >
+* <todo: consider, evaluation of single board computers; Arduino IT, BeagleBone US?, & Raspberry Pi UK, NVIDAI Jetson US?, BIGTREETECH US?, Radxa ROCK 4 US?, other?  don't let this be an analysis paralysis concern, >
+* <todo: consider, evaluation of SBC from CN, Nano Pi, Orange Pi, Banana Pi, others? prefer local UK tech over CN? US? EU? costs vs supply issues,  don't let this be an analysis paralysis concern, >
+* <todo: consider, SBC and similar, how will they perform in stress situations, How will they endure (life span) different environmental conditions; bouys saltwater corrosion, condensation, heat, humidity, cold, >
+* <todo: consider, Which to addopt computer on module COM, system on chip SoC, system in package Sip, single board computer SBC, or more analogue approach which migh have a wider survival rate in diverse environmental conditions, one size fits all env conditions? or multiple approaches dependent on env conditions? notwithstanding protective housing? >
+* <todo: consider, modularisation at the SBC level? right to repair, or is the state of the art not up to this and moment,  >
+* <todo: consider, start with Raspberry Pi for proof of concept PoC and first cut minimum viable product MVP, >
+* <todo: consider, form factor, size spec of board and components, does Raspberry Pi conform to form factor standards, don't let this be an analysis paralysis concern, >
+* <todo: consider, Proof of Concept PoC, single instrument, and Raspberry Pi?, variable temperature? data collection option tbd? >
+* <todo: consider, is there a preferred SBC for automated weather stations? seek advice WMO? >
+* <todo: consider, what does a small MVP look like, three instruments? which variables; temperature, humidity, precipitation, >
 
 DONE
-* <done: intent to commit >
-* <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementation in Java centric projects, Apache Celix for OSGi implementation for C/C++ centric projects, >
+* <done: intent to commit>
 
 ## Standards
 
-International - global
-* Instruments and Methods of Observation Programme (IMOP), WMO, [WS](https://community.wmo.int/en/activity-areas/imop)
-
-Jurisdiction - regional
-* <todo: source for WMO measurement lead centres and others; CA, CN, DE, ES, EU, IT, JP, KR, FI, NO - nordic countries, RU, TR, UK, US, ... >
-* <todo: source for WMO regional instrument centres and other; AG, AU, CN, DE, EG, FR, JP, TR, ...>
-* ISO/IEC 17025, regional instrument centre accreditation criteria, 
-
-Orgs
-* Commission for Observation, Infrastructure and Information Systems INFCOM, WMO? 
-
-## Libs
-
-International
-* Java assessment, regional instrument centres, WMO, [WS](https://wmoomm.sharepoint.com/sites/wmocpdb/eve_group/Forms/AllItems.aspx?id=%2Fsites%2Fwmocpdb%2Feve%5Fgroup%2FExpert%20Team%20on%20Quality%2C%20Traceability%20and%20Calibration%20%28ET%2DQTC%29%20%282020%2D2024%29%5F4b0a2388%2Dc404%2Deb11%2Da813%2D000d3a25bdee%2FGroup%20Members%2FJava%2Dassessment&p=true&ga=1)
+Data device 
+* ITU-R V.24, RS-232 connector, still in use? [WP](https://en.wikipedia.org/wiki/List_of_ITU-T_V-series_recommendations)
+* ITU-R-V.28, RS-232 connector, still in use?
+* <todo: consider, ITU and standards bodies others to source >
 
 ## Hardware
 
-Computing
-* Raspberry Pi, [WP](https://en.wikipedia.org/wiki/Raspberry_Pi), consider as part of control unit, 
-* 
+Connector
+* USB? would this be robust enough, get loose under stressed conditions, 
+* RS-?, would a pin based connector be better, harder to dislodge under stress conditions, 
+
+Circuit Board, Chip 
+* General purpose input output GPIO, [WP](https://en.wikipedia.org/wiki/General-purpose_input/output), 
+* Single board computer SBC, [WP](https://en.wikipedia.org/wiki/Single-board_computer), single circuit board, microprocessor, I/O, memory, 
+* Embedded system, 
+* ARM chip?
+* IIoT, 
+* other
+
+NFR's
+* SBC, SoC, etc, concerns with
+* repairability, whole unit might have to be replaced. right to repair, repair cost, remote access, locale skills, 
+* maintainability, repairability concerns might though provide a basis for upskilling and education for maintenance support
+* sustainability, tech waste, 
+* modification, 
+* monitoring, 
+
+Catalogues
+* List of open source hardware projects, [WP](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
+
 
 ## References
 
-* Automatic weather station [WS](https://en.wikipedia.org/wiki/Automatic_weather_station), 
-* Weather station [WP](https://en.wikipedia.org/wiki/Weather_station), Met Office [WS](https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/weather-stations)
-* Systems engineering
-* Industrial internet of things IIOT,
-* Synoptic, set times of 24hr day,
+Terms
+* Open Source Hardware [WP](https://en.wikipedia.org/wiki/Open-source_hardware)
 
-Organisations
-* WMO
-* Regional Climate Centres RCCs,
-* Regional Climate Outlook Forums RCOFs,
-* National Meteorological and Hydrological Services NMHSs, for example; UK Met Office, 
+MCD, BoM land
+* ...
+
+Radiosondes, BoM atmosphere, weather balloons, 
+* ...
+
+?, BoM water sea, ocean
 * 
-
-Hardware Bill of Materials BoM - to consider capablility like
-* measurement, 
-* monitoring, 
-* telemetry, 
-* control, 
-* data logging, 
-* data storage, 
-* data retrieval,  
-* 
-* Instrument shelter, [WP](https://en.wikipedia.org/wiki/Stevenson_screen) Sevenson screen, 
-
-Papers
-* Guidelines on validation procedures for meteorological data from automatic weather stations, 9 March 2011, J. Estévez, P. Gavilán, J.V. Giráldez, Journal of Hydrology, Volume 402, Issues 1–2,
-2011, Pages 144-154, ISSN 0022-1694, [DOI](https://doi.org/10.1016/j.jhydrol.2011.02.031.), [WS](https://www.sciencedirect.com/science/article/pii/S0022169411001594)
-
-News Papers
-* How are gases in the atmosphere analyzed and measured?, 18 October 2021, Andrew Moseman, Jesse Kroll, Ask MIT Climate, MIT, [WS](https://climate.mit.edu/ask-mit/how-are-gases-atmosphere-analyzed-and-measured), By shining different kinds of light and radiation through air samples, scientists can tell which gases are absorbing or reacting to that light, and in what amounts.
- * Weather Observation site classification, Met Office, [WS](https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/observation-site-classification)
- * ...
-
