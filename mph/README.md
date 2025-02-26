@@ -59,3 +59,8 @@ Methods/protocols
 
 Papers
 * Evaluating meteorological data from weather stations, and from satellites and global models for a multi-site epidemiological study, August 2018, Josh M. Colston, Tahmeed Ahmed, Cloupas Mahopo, Gagandeep Kang, Margaret Kosek, Francisco de Sousa Junior, Prakash Sunder Shrestha, Erling Svensen, Ali Turab, Benjamin Zaitchik, Environmental Research, Volume 165, Pages 91-109, ISSN 0013-9351, [DOI](https://doi.org/10.1016/j.envres.2018.02.027), [WS](https://www.sciencedirect.com/science/article/pii/S0013935118300926)
+
+News Papers
+* World Health Organisation (8 December 2024). Disease Outbreak News; Undiagnosed disease – Democratic Republic of the Congo. Available at: [WS](https://www.who.int/emergencies/disease-outbreak-news/item/2024-DON546)
+* ...
+
