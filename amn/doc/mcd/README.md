@@ -80,6 +80,10 @@ NFR's
 Catalogues
 * List of open source hardware projects, [WP](https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
 
+## Learning
+
+* MSc Cleantech Innovation, Grantham Institute, Imperial, [WS](https://www.imperial.ac.uk/grantham/education/msc-cleantech-innovation/) 
+* <todo: others >
 
 ## References
 
