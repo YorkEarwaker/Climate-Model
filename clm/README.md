@@ -78,13 +78,18 @@ DONE
 ## Libraries
 
 Libs
-* to source
+* ClimateLab [GH](https://github.com/climlab/climlab), Python, package for process-oriented climate modeling
 
 Languages
 * Java, 
 * C, not in this iteration
 * Cpp, not in this iteration
 * other? Python, analytics? not in this iteration
+
+## Learning
+
+Book
+* The Climate Laboratory, A hands-on approach to climate physics and climate modeling, Brian E. J. Rose, University at Albany, [WS](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/climate-system-models.html)
 
 ## References
 
