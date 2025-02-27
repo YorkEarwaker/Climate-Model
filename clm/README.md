@@ -154,12 +154,17 @@ Chemical elements, earth systems,
 * Chemical compostion of atmosphere, [WP](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Composition)
 * Chemical composition of sea water, [WP](https://en.wikipedia.org/wiki/Seawater#Chemical_composition)
 
-Papers
+Papers - nwp/ncp
 * The physics of numerical analysis: a climate modelling case study, 2020, Palmer T. N., Phil. Trans. R. Soc. A.37820190058, [DOI](http://doi.org/10.1098/rsta.2019.0058), [WS](https://royalsocietypublishing.org/doi/10.1098/rsta.2019.0058)
+
+Papers - AI/ML
 * Neural general circulation models for weather and climate., 22 July 2024, Kochkov, D., Yuval, J., Langmore, I. et al., Nature 632, 1060–1066 (2024). [DOI](https://doi.org/10.1038/s41586-024-07744-y)
 
 Papers - grid, physics
 * An unstructured-grid, finite-volume, nonhydrostatic, parallel coastal ocean simulator, 3 May 2006, O.B. Fringe, M. Gerritsen, R.L. Street, Ocean Modelling, Volume 14, Issues 3–4, 2006, Pages 139-173, [DOI](https://doi.org/10.1016/j.ocemod.2006.03.006), science direct [WS](https://www.sciencedirect.com/science/article/abs/pii/S1463500306000394), Stanford [PDF](https://web.stanford.edu/~fringer/publications/obf_oceanmodelling_2006_14.pdf)
+
+Papers - ocean circulation
+* Continued Atlantic overturning circulation even under climate extremes. 26 February 2025, Baker, J.A., Bell, M.J., Jackson, L.C. et al.,  Nature 638, 987–994 (2025). [DOI](https://doi.org/10.1038/s41586-024-08544-0) [WS](https://www.nature.com/articles/s41586-024-08544-0)
 
 News Papers - climate models
 * Climate Models, 8 January 2021, Elfatih Eltahir, Aaron Krol, Explainer, MIT Climate Portal, MIT, [WS](https://climate.mit.edu/explainers/climate-models)
@@ -168,5 +173,5 @@ News Papers - climate models
 * Seasonal and climate models, Configurations of the Unified Model for seasonal, decadal and centennial climate predictions, Met Office, [WS](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model/climate-models)
 * What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?, [WS](https://earthscience.stackexchange.com/questions/2257/what-are-the-applications-of-hydrostatic-solvers-vs-non-hydrostatic-solvers-in-n), 11 July 2014, StackExchange, Earth Science, 
 
-News Papers - obervations
+News Papers - observations
 * How we measure atmospheric pressure, Atmospheric pressure is measured by a barometer that employs a silicon capacitive pressure sensor having excellent repeatability and long term stability characteristics., Met Office, [WS](https://www.metoffice.gov.uk/weather/guides/observations/how-we-measure-atmospheric-pressure)
