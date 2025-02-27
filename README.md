@@ -57,7 +57,6 @@ TODO
 * <todo: consider, computation package for numerical analysis org\agw\cmp\nan not sure what this consists of other than research though? more investigation required, >
 * <todo: consider, public API, \api sub directory in all package structures, for example; org.agw.mph.api , ensure this approach would be OSGI compliant, see also module-info.java files, move this to Automation rep? > 
 * <todo: consider, API generic approach for; java, cpp, python, js/ts, . Is there any reason not to do org\..\..\api , move this to Automation rep? >
-* <todo: consider, integration project \eai, enterprise application integration patterns, start with connector, for data retrieval, consider use of relevant Apache foundation projects, >
 
 DONE
 * <done: first iteration readme, >
@@ -82,6 +81,7 @@ DONE
 * <done: consider, biosphere biome project bio, org\agw\bio , to place sapiens, tree of life taxonomy? relate Sapiens to Anthropocene interface, Sapiens to appear elsewhere, likely \ant or \thp for anthropoloy? as Sapiens now inhabit almost all surface biomes/ecosystems in biosphere, >
 * <done: consider, chemistry project chm, org\agw\chm for chemical elements, periodic table, molecules like CO2, CH4, H2O, . fire to sit here or in phy? >
 * <done: consider, physics project phy, org\agw\phy for physics, physical constants, classical mechanics, other? >
+* <done: consider, enterprise integration project \ein, enterprise application integration patterns, start with connector, for data retrieval, consider use of relevant Apache foundation projects, This capability will be held in the Application repository, >
 
 ## References
 
