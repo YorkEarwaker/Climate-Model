@@ -44,6 +44,7 @@ TODO
 * <todo: consider, Proof of Concept PoC, single instrument, and Raspberry Pi?, variable temperature? data collection option tbd? >
 * <todo: consider, is there a preferred SBC for automated weather stations? seek advice WMO? >
 * <todo: consider, what does a small MVP look like, three instruments? which variables; temperature, humidity, precipitation, >
+* <todo: purchase Raspberry Pi, for PoC, >
 
 DONE
 * <done: intent to commit>
