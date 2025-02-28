@@ -26,7 +26,6 @@ See also
 ## Status
 
 TODO
-* <todo: consider, MCD Hardware specification, Bill of Materials BoM, building blocks, >
 * <todo: consider, MCD requirements for different deployment scenarios, sml, >
 * <todo: consider, Bill of Materials for sub components, air balloon, land unit, water buoys,>
 * <todo: consider, build, >
@@ -37,7 +36,7 @@ TODO
 * <todo: consider, evaluation of single board computers; Arduino IT, BeagleBone US?, & Raspberry Pi UK, NVIDAI Jetson US?, BIGTREETECH US?, Radxa ROCK 4 US?, other?  don't let this be an analysis paralysis concern, >
 * <todo: consider, evaluation of SBC from CN, Nano Pi, Orange Pi, Banana Pi, others? prefer local UK tech over CN? US? EU? costs vs supply issues,  don't let this be an analysis paralysis concern, >
 * <todo: consider, SBC and similar, how will they perform in stress situations, How will they endure (life span) different environmental conditions; bouys saltwater corrosion, condensation, heat, humidity, cold, >
-* <todo: consider, Which to addopt computer on module COM, system on chip SoC, system in package Sip, single board computer SBC, or more analogue approach which migh have a wider survival rate in diverse environmental conditions, one size fits all env conditions? or multiple approaches dependent on env conditions? notwithstanding protective housing? >
+* <todo: consider, Which to adopt computer on module COM, system on chip SoC, system in package Sip, single board computer SBC, or more analogue approach which migh have a wider survival rate in diverse environmental conditions, one size fits all env conditions? or multiple approaches dependent on env conditions? notwithstanding protective housing? >
 * <todo: consider, modularisation at the SBC level? right to repair, or is the state of the art not up to this and moment,  >
 * <todo: consider, start with Raspberry Pi for proof of concept PoC and first cut minimum viable product MVP, >
 * <todo: consider, form factor, size spec of board and components, does Raspberry Pi conform to form factor standards, don't let this be an analysis paralysis concern, >
@@ -46,10 +45,66 @@ TODO
 * <todo: consider, what does a small MVP look like, three instruments? which variables; temperature, humidity, precipitation, >
 * <todo: purchase Raspberry Pi for PoC, >
 * <todo: purchase thermometer for PoC, basic, digital/electronic?, >
-* <todo: several online sources for building a weather station with a Raspberry Pi online, select one to start reviewing content, >
+* <todo: consider, several online sources for building a weather station with a Raspberry Pi online, select one to start reviewing content, >
+* <todo: consider, portable screen interface to MCD, onsite configuration, inspection, maintenance, bluetooth? Ethernet? USB? chromium? tablet? >
+* <todo: consider, mobile app, smartphone? minimum spec? BYO?, MCD spec? >
+* <todo: consider acronym TMA, Terrestrial, Marine, Air/Atmosphere, TMAS Space? microsatellites, >
+* <todo: consider, OLED display, plug in interface, current variable instrument display? >
+* <todo: consider, service drone, related project, in remote location wifi free zones, or hard to access, drone data upload bluetooth, download on return? part of service drone? >
+* ...
 
 DONE
 * <done: intent to commit>
+* <done: consider, MCD Hardware specification, Bill of Materials BoM, building blocks, work in progress for PoC,  >
+
+## Bill of Materials
+
+MCD, PoC, BoM
+* Description, embedded system SBC and sensor, 
+* Raspberry Pi, version TBD
+* product TBD, instrument, basic sensor, temperature? 
+
+MCD CIM, PoC, BoM
+* Description, portable device on site screen interface, (configuration, inspection, maintenance, CIM?) ...
+* product TBD? device, open source?
+* all CIM capability programmed in device, 
+
+MCD NMT, PoC, BoM
+* Description, remote device screen interface, (network, monitoring, telemetry, NMT + CIM? better/different acronym, ) ...
+* product TBD? BYO device? laptop to begin with? 
+* network uplink? modification prerequisite to MCD? 
+* PostGres + Timescaledb extension, remote time series RDBMS? localhost PoC
+* LAMP data remote processing, analytics, graphing?
+
+MCD, MVP, BoM
+* Description, TMA platform deployment agnostic?, first iteration T(MA). mid temperate only?
+* product TBD, Embedded system?, SBC? Sleep mode inbetween readings/transmitting?
+* product TBD, instrument 01, temperature? hygrometer? same chip, different stand alone chip, better componentisation, more cost, separate chip like more accurate?
+* product TBD, instrument 02, humidity? hygrometer? chip
+* product TBD, instrument 03, pressure? hygrometer? chip
+* product TBD, instrument 04, precipitation? 
+* product TBD, instrument 0N, other? 
+* product TBD, geo location, gps? 
+* product TBD, RFID? <todo: consider this is part of weather station platform TMA, also separate one for MCD module/component? rfid for each instrument too?  >
+* product TBD, OLED display, variable instrument set current readings?
+* product TBD, energy, battery? solar? both?
+* product TBD, network, wifi, ES/SBC bluetooth RPi?, 
+
+MCD CIM, MVP, BoM
+* WIP
+* More research required, 
+
+MCD NMT, MVP, BoM
+* WIP
+* More research required, 
+* not sure about below
+* InfluxDB? some bad comments on this option, on RPi? <likely overspec for PoC but of for MVP CIM? Best keep analytics graphing remote? large unit only? took much complexity? >
+* Grafana, on RPi? <likely overspec for PoC but of for MVP CIM? Best keep analytics graphing remote? large unit only? took much complexity? >
+
+Radiosondes, BoM atmosphere, weather balloons,  <todo: breakout to separate page?>
+* ...
+
+?, BoM water sea, ocean - same as land? <todo: breakout to separate page?>
 
 ## Standards
 
@@ -58,19 +113,50 @@ Data device
 * ITU-R-V.28, RS-232 connector, still in use?
 * <todo: consider, ITU and standards bodies others to source >
 
+## Libraries
+
+Libs
+* HomeAssistant? open source
+* ESPHome firmware? open source 
+
+Services? SaaS?
+* MapBox
+* ClimaCell
+* LocationIQ
+* RainViewer
+
 ## Hardware
 
 Connector
 * USB? would this be robust enough, get loose under stressed conditions, 
-* RS-?, would a pin based connector be better, harder to dislodge under stress conditions, 
+* RS-232?, would a pin based connector be better, harder to dislodge under stress conditions, 
+* RS-485?, 
+* i2C?, 
 
 Circuit Board, Chip 
-* General purpose input output GPIO, [WP](https://en.wikipedia.org/wiki/General-purpose_input/output), 
-* Single board computer SBC, [WP](https://en.wikipedia.org/wiki/Single-board_computer), single circuit board, microprocessor, I/O, memory, 
-* Embedded system, 
-* ARM chip?
-* IIoT, 
-* other
+* Raspberry Pi, RPi, Raspi, [WS](https://www.raspberrypi.com/)
+* ARM, RPi chip?
+* ...
+
+Sensors
+* ID, Maker, Kind, Variable, Capability
+* DHT22 (AM2302), Aosong, , (temp, humidity, ), 
+* SHT40, , , (temp, humidity, ), internal dehumidifier heater, 
+* SHT41, , , (temp, humidity, )
+* SHT3X, , , (temp, humidity, )
+* SHT31, Sensirion, hygrometer, ( , ), 
+* SHT71, Sensirion, hygrometer, ( , ), 
+* BME-280, Bosch, , (temp, humidity, pressure, )
+* BPM-?, Bosch Sensortec, , ( , )
+* HDC20xx, , 
+* HDC30xx, , (humidity, )
+* TMP117, , (high accuracy temperature)
+* PCT2075
+* Si7021, Silicon Labs, hygrometer, ( , ), 
+* HTU21D, Measurement Specialities, hygrometer, ( , ), 
+* DS18B20 <todo: one wire protocols? research >
+* SMT172 <todo: one wire protocols? research >
+* ...
 
 NFR's
 * SBC, SoC, etc, concerns with
@@ -85,6 +171,7 @@ Catalogues
 
 ## Learning
 
+Tertiary Ed +
 * MSc Cleantech Innovation, Grantham Institute, Imperial, [WS](https://www.imperial.ac.uk/grantham/education/msc-cleantech-innovation/) 
 * <todo: others >
 
@@ -93,11 +180,52 @@ Catalogues
 Terms
 * Open Source Hardware [WP](https://en.wikipedia.org/wiki/Open-source_hardware)
 
-MCD, BoM land
+Circuit Board, Chip 
+* General purpose input output GPIO, [WP](https://en.wikipedia.org/wiki/General-purpose_input/output), 
+* Single board computer SBC, [WP](https://en.wikipedia.org/wiki/Single-board_computer), single circuit board, microprocessor, I/O, memory, 
+* Embedded system, 
+* IIoT, 
+* other
+
+Sensor kind
+* Hygrometers, 
+* Thermistor, <todo: consider, Wheatstone bridge into an ADC? research >
+* Thermocouple, <todo: consider, requries I2C interface chip? research >
+* Thermowell probe, 
+
+Variables
+* die temperature
+* air temperature
+
+News Papers - Respberry Pi
+* I made weather station app and designed it for a Raspberry Pi using the official 7" 800x480 touch screen, [WS](https://www.reddit.com/r/raspberry_pi/comments/il03rk/i_made_weather_station_app_and_designed_it_for_a/?rdt=34061), raspberry_pi, Reddit, 
+
+News Papers - Arduino
+* First project I'm really proud of! An air quality sensor that writes to external SD memory + has an LCD screen. (I also don't understand capacitors and added them for no reason, no clue if there's a point to them here), [WS](https://www.reddit.com/r/ArduinoProjects/comments/1foninq/first_project_im_really_proud_of_an_air_quality/), ArduinoProjects, Reddit, 
+* Temp Sensor with OLED Display, [WS](https://www.reddit.com/r/ArduinoProjects/comments/1h22i1g/temp_sensor_with_oled_display/), ArduinoProjects, Reddit, 
+
+News Papers - embedded systems
+* What are some good modern temperature sensors? [WS](https://www.reddit.com/r/embedded/comments/1d3cakd/what_are_some_good_modern_temperature_sensors/), embedded, Reddit, 
 * ...
 
-Radiosondes, BoM atmosphere, weather balloons, 
+News Papers - data logger
+* Best Serial Data Logger Software for Sensor Monitoring?, [WS](https://www.reddit.com/r/embedded/comments/1gersgf/best_serial_data_logger_software_for_sensor/), RS-232, RS-485, log real time data from sensors, 
+* 
+
+News Papers - IoT storage, remote, RDBMS
+* Guidance needed on proper way to store IoT data from multiple devices, [WS](https://www.reddit.com/r/SQLServer/comments/1clk9ha/guidance_needed_on_proper_way_to_store_iot_data/), different schemas per IoT device, sensor device, 
+* What are you using as sensor database?, [](), IoT, Reddit, 
+
+News Papers - sensors, benchmark
+* Test and Calibrate DHT22 Hygrometers, [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html), kandrsmith
+* Wide range of Hygrometers: DHT22, AM2302, AM2320, AM2321, SHT71, HTU21D, Si7021, BME280, [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html), kandrsmith
+* Adding Sensirion SHT31 to the range of test hygrometers. , [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many_addsht31.html), kandrsmith
 * ...
 
-?, BoM water sea, ocean
+
+
+
+
+
+
 * 
