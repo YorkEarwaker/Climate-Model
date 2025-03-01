@@ -65,6 +65,23 @@ TODO
 * <todo: consider, an ocean device to follow marine currents like AMOC, PMOC, buoyancy control to sink and rise in the water column with current, follow current at depth, follow current at surface, store data while at depth, report data on rising, on board data storage requirements, mini bathiscape like for buoyancy control? see recent AMOC paper by MOHC UK on all ocean current interactions, this would be a major project! salinity variable measurement requirement, set them free (number?) to follow ocean currents, also related ocean gyres, >
 * <todo: consider, breaking out some of the things mcd to separate file-name.md pages, maintain mcd only as interface to sensors and variable data collection and storage and retrieval, >
 * <todo: consider, a doc\nst or similar name for instrumentation, with separate page for each instrument type, >
+* <todo: consider, radio transmission for remote sites, mountain ranges, deserts, tundra, cryosphere, etc, for transmission of time series data, >
+* <todo: consider, radar precipitation, >
+* <todo: consider, micro sattelites over specific regions, for monitoring locale specific concerns, Pantanal wildfire, Amazon deforestation illegal burning illegal logging illegal mining, Sub Sahara Africa green belt wall desertification, ecological concerns specific to a specific jurisdiction, >
+* <todo: consider, roll out to Africa, Caribbean Islands, Central America and South America, Pacific Islands,  etc, >
+* <todo: consider, weather reporting technology, time series data, NWP/NCP models, nowcasts, forecasts, hindcasts, ... >
+* <todo: consider, partner with tertiary education in deployment locales, >
+* <todo: consider, partner with tertiary education in UK, Imperial sustainable tech MSc like courses, Imperial, Cambridge, Oxford, Reading, others, >
+* <todo: consider, partner with tertiary education in AU NZ, specifically re Pacific Islands and near abroad, >
+* <todo: consider partner with tertiary education in CA, specifically Pacific facing, from CL to MX, >
+* <todo: consider partner with tertiary education in JP KR, specifically Pacific facing,  >
+* <todo: consider, partner with tertiary education in IN, SA, PK, TR, other similar, for deployment sites too? >
+* <todo: consider, reach out to development organisations, World Bank, development advice, >
+* <todo: consider, reach out to finance organisations, IMF, others, long term investment advice, >
+* <todo: consider, EU, >
+* <todo: consider, US, >
+* <todo: consider, reach out to UN re SDG's and agencies, WMO, ITU, WHO, WFP, ... >
+* <todo: consider, guidance from MOHC and GI others in UK, what roll can they play, >
 
 DONE
 * <done: intent to commit >
