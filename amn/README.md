@@ -84,7 +84,7 @@ TODO
 * <todo: consider, guidance from MOHC and GI others in UK, what role can they play, >
 * <todo: consider, UK remote first iteration deployment and support, partner with; one Carribean Island country Barbados (Atlantic)?, one Central American country El Salvador (Pacific)?, one South American country Guyana?, as test bed, with particular view to hurricain preparedness, use that as a basis to roll out as concept testing ground, marine unit buoys likely very important in this instance, also land unit weather stations,  >
 * <todo: consider, UK remote second iteration deployment and support, parallel streams in no particular order of preference, Africa, Central America, Central Asia, South America, South Asia, East Asia, Pacific Islands, and so on, ... >
-* <todo: consider, get concept test capability out on the ground, then consider upgrade path to WMO standards, or separate standards compliance path, one of the principle aims being to improve capability maturity, and as a mechanism for uplift in other related domain sectors,  >
+* <todo: consider, get concept test capability out on the ground, then consider upgrade path to WMO standards, or separate standards compliance path, one of the principle aims being to improve capability maturity, and as a mechanism for uplift in other related domain sectors, as a means to improve weather station spatial and temporal coverage for climate change long haul adaptation and mitigation, >
 * ...
 
 DONE
