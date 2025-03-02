@@ -67,21 +67,25 @@ TODO
 * <todo: consider, a doc\nst or similar name for instrumentation, with separate page for each instrument type, >
 * <todo: consider, radio transmission for remote sites, mountain ranges, deserts, tundra, cryosphere, etc, for transmission of time series data, >
 * <todo: consider, radar precipitation, >
-* <todo: consider, micro sattelites over specific regions, for monitoring locale specific concerns, Pantanal wildfire, Amazon deforestation illegal burning illegal logging illegal mining, Sub Sahara Africa green belt wall desertification, ecological concerns specific to a specific jurisdiction, >
+* <todo: consider, micro sattelites over specific regions, for monitoring locale specific concerns, Pantanal wildfire, Amazon deforestation illegal burning illegal logging illegal mining, Sub Saharan Africa green belt wall desertification, Himalayan monitoring glacial lakes for flood extreme events, ecological concerns specific to a specific jurisdiction, >
 * <todo: consider, roll out to Africa, Caribbean Islands, Central America and South America, Pacific Islands,  etc, >
 * <todo: consider, weather reporting technology, time series data, NWP/NCP models, nowcasts, forecasts, hindcasts, ... >
-* <todo: consider, partner with tertiary education in deployment locales, >
+* <todo: consider, partner with tertiary education in deployment locales, basis for technology hub, support and maintenance services, >
 * <todo: consider, partner with tertiary education in UK, Imperial sustainable tech MSc like courses, Imperial, Cambridge, Oxford, Reading, others, >
 * <todo: consider, partner with tertiary education in AU NZ, specifically re Pacific Islands and near abroad, >
-* <todo: consider partner with tertiary education in CA, specifically Pacific facing, from CL to MX, >
+* <todo: consider partner with tertiary education in CA, Arctic, specifically Pacific facing, from CL to MX,  >
 * <todo: consider partner with tertiary education in JP KR, specifically Pacific facing,  >
-* <todo: consider, partner with tertiary education in IN, SA, PK, TR, other similar, for deployment sites too? >
+* <todo: consider, partner with tertiary education in IN, MX, SA, PK, TR, other similar, for deployment sites too? >
 * <todo: consider, reach out to development organisations, World Bank, development advice, >
 * <todo: consider, reach out to finance organisations, IMF, others, long term investment advice, >
 * <todo: consider, EU, >
 * <todo: consider, US, >
 * <todo: consider, reach out to UN re SDG's and agencies, WMO, ITU, WHO, WFP, ... >
-* <todo: consider, guidance from MOHC and GI others in UK, what roll can they play, >
+* <todo: consider, guidance from MOHC and GI others in UK, what role can they play, >
+* <todo: consider, UK remote first iteration deployment and support, partner with; one Carribean Island country Barbados (Atlantic)?, one Central American country El Salvador (Pacific)?, one South American country Guyana?, as test bed, with particular view to hurricain preparedness, use that as a basis to roll out as concept testing ground, marine unit buoys likely very important in this instance, also land unit weather stations,  >
+* <todo: consider, UK remote second iteration deployment and support, parallel streams in no particular order of preference, Africa, Central America, Central Asia, South America, South Asia, East Asia, Pacific Islands, and so on, ... >
+* <todo: consider, get concept test capability out on the ground, then consider upgrade path to WMO standards, or separate standards compliance path, one of the principle aims being to improve capability maturity, and as a mechanism for uplift in other related domain sectors,  >
+* ...
 
 DONE
 * <done: intent to commit >
