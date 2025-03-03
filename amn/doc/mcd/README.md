@@ -53,7 +53,7 @@ TODO
 * <todo: consider acronym TMA, Terrestrial, Marine, Air/Atmosphere, TMAS Space? microsatellites, >
 * <todo: consider, OLED display, plug in interface, current variable instrument display? >
 * <todo: consider, service drone, related project, in remote location wifi free zones, or hard to access, drone data upload bluetooth, download on return? part of service drone? >
-* ...
+* <todo: consider Arduino microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, >
 
 DONE
 * <done: intent to commit>
@@ -61,10 +61,15 @@ DONE
 
 ## Bill of Materials
 
-MCD, PoC, BoM
-* Description, embedded system SBC and sensor, 
+MCD SBC, PoC, BoM
+* Description, embedded system single board computer SBC and sensor, 
 * Raspberry Pi, version TBD
 * product TBD, instrument, basic sensor, temperature? 
+
+MCD MCB, PoC, BoM
+* Description, embedded system microcontroller board MCB and sendor, 
+* Arduino, version TBD
+* product TBD, insturment, basic sensor, temperature? 
 
 MCD CIM, PoC, BoM
 * Description, portable device on site screen interface, (configuration, inspection, maintenance, CIM?) ...
