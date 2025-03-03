@@ -22,7 +22,7 @@ Portable stations for epidemiological monitoring of camps of displaced people. C
 
 See also
 * Networks [GH](https://github.com/YorkEarwaker/Networks)
-* Embedded systems [GH](https://github.com/YorkEarwaker/Climate-Model/amn/doc/mcd/Embedded-Systems.md), Raspberry Pi, Arduino, ES, IoT, 
+* Embedded systems [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Embedded-Systems.md), Raspberry Pi, Arduino, ES, IoT, 
 * note. Consider another page for analogue serial electrical engineering option for mcd module.
 
 ## Status
