@@ -22,6 +22,8 @@ Portable stations for epidemiological monitoring of camps of displaced people. C
 
 See also
 * Networks [GH](https://github.com/YorkEarwaker/Networks)
+* Embedded systems [GH](https://github.com/YorkEarwaker/Climate-Model/amn/doc/mcd/Embedded-Systems.md), Raspberry Pi, Arduino, ES, IoT, 
+* note. Consider another page for analogue serial electrical engineering option for mcd module.
 
 ## Status
 
@@ -196,25 +198,6 @@ Sensor kind
 Variables
 * die temperature
 * air temperature
-
-News Papers - Respberry Pi
-* I made weather station app and designed it for a Raspberry Pi using the official 7" 800x480 touch screen, [WS](https://www.reddit.com/r/raspberry_pi/comments/il03rk/i_made_weather_station_app_and_designed_it_for_a/?rdt=34061), raspberry_pi, Reddit, 
-
-News Papers - Arduino
-* First project I'm really proud of! An air quality sensor that writes to external SD memory + has an LCD screen. (I also don't understand capacitors and added them for no reason, no clue if there's a point to them here), [WS](https://www.reddit.com/r/ArduinoProjects/comments/1foninq/first_project_im_really_proud_of_an_air_quality/), ArduinoProjects, Reddit, 
-* Temp Sensor with OLED Display, [WS](https://www.reddit.com/r/ArduinoProjects/comments/1h22i1g/temp_sensor_with_oled_display/), ArduinoProjects, Reddit, 
-
-News Papers - embedded systems
-* What are some good modern temperature sensors? [WS](https://www.reddit.com/r/embedded/comments/1d3cakd/what_are_some_good_modern_temperature_sensors/), embedded, Reddit, 
-* ...
-
-News Papers - data logger
-* Best Serial Data Logger Software for Sensor Monitoring?, [WS](https://www.reddit.com/r/embedded/comments/1gersgf/best_serial_data_logger_software_for_sensor/), RS-232, RS-485, log real time data from sensors, 
-* 
-
-News Papers - IoT storage, remote, RDBMS
-* Guidance needed on proper way to store IoT data from multiple devices, [WS](https://www.reddit.com/r/SQLServer/comments/1clk9ha/guidance_needed_on_proper_way_to_store_iot_data/), different schemas per IoT device, sensor device, 
-* What are you using as sensor database?, [](), IoT, Reddit, 
 
 News Papers - sensors, benchmark
 * Test and Calibrate DHT22 Hygrometers, [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html), kandrsmith
