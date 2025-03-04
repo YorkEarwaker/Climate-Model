@@ -21,13 +21,12 @@ DONE
 ## References
 
 Terms
-* 
 * Real Time Operating System RTOS, [WP](https://en.wikipedia.org/wiki/Real-time_operating_system), switch between tasks based on priority, hard RTOS less jitter vs soft RTOS more jitter, time ? jitter, 
 * Time Sharing Operating System TSOS, switch between tasks based on clock interrupts 
 
 Embedded Systems - products
-* Arduino, microcontroller board, coding (C++ ), ~200mW, cpu 16MHz, ram (2k, 32k flash), network (additional shields for WiFi, Ethernet, )
-* Raspberry Pi, single board computer, coding (Python, C, C++, ), ~700mW, cpu 1.5GHz, ram (512MB, 8GB), network (HDMI, USB, Ethernet, WiFi, Bluetooth, )
+* Arduino, microcontroller board, coding (C++ ), ~200mW, cpu 16MHz, ram (2k, 32k flash), network (additional shields for WiFi, Ethernet, ), GPIO (14 digital I/O pins, 6 analog pin inputs)
+* Raspberry Pi, single board computer, coding (Python, C, C++, ), ~700mW, cpu 1.5GHz, ram (512MB, 8GB), network (HDMI, USB, Ethernet, WiFi, Bluetooth, ), GPIO (40 pins, handle variety of tasks, )
 
 Real Time Computing 
 * Jitter, telecomms, 
@@ -36,6 +35,13 @@ Real Time Computing
 * Multicore processor, CPU, one task event execution per core, 
 * Memory allocation, no memory leaks, avoid requirement for reboot to free blocked resources, all set statically at compile wherever possible not dynamic memory allocation at runtime, avoids dynamic memory fragmentation, no swap to disk file memory management,   
 * Fixed size block algorithms, for RTC, memory management, simple embedded systems, 
+
+Serial interface
+* Serial peripheral interface SPI, [WS](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
+* IC's peripheral, 
+* ADCs
+* DACs
+ 
 
 News Papers - RPi apps
  * What's your list of the best software/applications for your Raspberry Pi?, [WS](https://forums.raspberrypi.com/viewtopic.php?t=272664), 30 April 2020, Forums Raspberry Pi, 

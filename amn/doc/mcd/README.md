@@ -21,9 +21,11 @@ One parallel piece of work is in coordination with WMO and NMHS and other stakeh
 Portable stations for epidemiological monitoring of camps of displaced people. Climate refugees, conflict refugees, economic migrants, and so on. 
 
 See also
-* Networks [GH](https://github.com/YorkEarwaker/Networks)
+* Analogue systems [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Analogue-Systems.md), sensors, 
 * Embedded systems [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Embedded-Systems.md), Raspberry Pi, Arduino, ES, IoT, 
-* note. Consider another page for analogue serial electrical engineering option for mcd module.
+
+See repository
+* Networks [GH](https://github.com/YorkEarwaker/Networks)
 
 ## Status
 
@@ -145,25 +147,8 @@ Circuit Board, Chip
 * ARM, RPi chip?
 * ...
 
-Sensors
-* ID, Maker, Kind, Variable, Capability
-* DHT22 (AM2302), Aosong, , (temp, humidity, ), 
-* SHT40, , , (temp, humidity, ), internal dehumidifier heater, 
-* SHT41, , , (temp, humidity, )
-* SHT3X, , , (temp, humidity, )
-* SHT31, Sensirion, hygrometer, ( , ), 
-* SHT71, Sensirion, hygrometer, ( , ), 
-* BME-280, Bosch, , (temp, humidity, pressure, )
-* BPM-?, Bosch Sensortec, , ( , )
-* HDC20xx, , 
-* HDC30xx, , (humidity, )
-* TMP117, , (high accuracy temperature)
-* PCT2075
-* Si7021, Silicon Labs, hygrometer, ( , ), 
-* HTU21D, Measurement Specialities, hygrometer, ( , ), 
-* DS18B20 <todo: one wire protocols? research >
-* SMT172 <todo: one wire protocols? research >
-* ...
+Sensor
+* See Analogue-Systems
 
 NFR's
 * SBC, SoC, etc, concerns with
@@ -190,30 +175,7 @@ Terms
 Circuit Board, Chip 
 * General purpose input output GPIO, [WP](https://en.wikipedia.org/wiki/General-purpose_input/output), 
 * Single board computer SBC, [WP](https://en.wikipedia.org/wiki/Single-board_computer), single circuit board, microprocessor, I/O, memory, 
+* Microcontroller, 
 * Embedded system, 
 * IIoT, 
 * other
-
-Sensor kind
-* Hygrometers, 
-* Thermistor, <todo: consider, Wheatstone bridge into an ADC? research >
-* Thermocouple, <todo: consider, requries I2C interface chip? research >
-* Thermowell probe, 
-
-Variables
-* die temperature
-* air temperature
-
-News Papers - sensors, benchmark
-* Test and Calibrate DHT22 Hygrometers, [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_dht22.html), kandrsmith
-* Wide range of Hygrometers: DHT22, AM2302, AM2320, AM2321, SHT71, HTU21D, Si7021, BME280, [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many.html), kandrsmith
-* Adding Sensirion SHT31 to the range of test hygrometers. , [WS](https://www.kandrsmith.org/RJS/Misc/Hygrometers/calib_many_addsht31.html), kandrsmith
-* ...
-
-
-
-
-
-
-
-* 
