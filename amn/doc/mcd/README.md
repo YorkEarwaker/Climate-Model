@@ -165,6 +165,7 @@ Catalogues
 
 Tertiary Ed +
 * MSc Cleantech Innovation, Grantham Institute, Imperial, [WS](https://www.imperial.ac.uk/grantham/education/msc-cleantech-innovation/) 
+* <todo: source link to ITU presentation, Wireless systems at the interection of physical and digital time, Petar Popovski, ITU Journal, 4 March 2025 >
 * <todo: others >
 
 ## References
