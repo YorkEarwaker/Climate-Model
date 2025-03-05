@@ -62,6 +62,10 @@ Analog stuff suppliers - EMEA supply chain, US export limitations
 * DigiKey, 
 * Transfer Multisort Elektronik TME, 
 
-
+Serial interface
+* Serial peripheral interface SPI, [WS](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
+* IC's peripheral, 
+* ADCs
+* DACs
 
 

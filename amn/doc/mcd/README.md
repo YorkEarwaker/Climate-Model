@@ -23,6 +23,7 @@ Portable stations for epidemiological monitoring of camps of displaced people. C
 See also
 * Analogue systems [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Analogue-Systems.md), sensors, 
 * Embedded systems [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Embedded-Systems.md), Raspberry Pi, Arduino, ES, IoT, 
+* Power systems [GH]()
 
 See repository
 * Networks [GH](https://github.com/YorkEarwaker/Networks)
@@ -55,7 +56,9 @@ TODO
 * <todo: consider acronym TMA, Terrestrial, Marine, Air/Atmosphere, TMAS Space? microsatellites, >
 * <todo: consider, OLED display, plug in interface, current variable instrument display? >
 * <todo: consider, service drone, related project, in remote location wifi free zones, or hard to access, drone data upload bluetooth, download on return? part of service drone? >
-* <todo: consider Arduino microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, >
+* <todo: consider Arduino microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, try coding in standard C and flash using avrdude, good idea, pitfalls? without need to touch Arduino ecosystem. >
+* <todo: consider, RPi microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, likely before Arduino, >
+* <todo: evaluate Launchpad FOSS, Bitbucket, >
 
 DONE
 * <done: intent to commit>
@@ -144,6 +147,7 @@ Connector
 
 Circuit Board, Chip 
 * Raspberry Pi, RPi, Raspi, [WS](https://www.raspberrypi.com/)
+* Raspberry Pi, products, [WS](https://www.raspberrypi.com/products/)
 * ARM, RPi chip?
 * ...
 
@@ -182,3 +186,12 @@ Circuit Board, Chip
 * Embedded system, 
 * IIoT, 
 * other
+
+Collaboration - repositories
+Launchpad [WS](https://launchpad.net/), Ubuntu, A software collaboration platform that provides
+GitHub, current preferred option
+Bitbucket, 
+
+
+
+
