@@ -52,15 +52,16 @@ News Papers - sensors, benchmark
 * ...
 
 News Papers - serial interface
-* [WS](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html)
+* Introduction to SPI Interface, [WS](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html), September 2018, Piyu Dhaker, Analog Dialog
 
-Analogue stuff
-* [WS](https://www.analog.com/en/index.html)
-
-Suppliers - EMEA supply chain
+Analog stuff suppliers - EMEA supply chain, US export limitations
+* Analog Devices, us, [WS](https://www.analog.com/en/index.html)
 * Anglia, emea, [WS](https://www.anglia.com/index.asp)
 * Arrow, emea, [WS](https://www.arrow.com/en)
-* Mouser Electronics
-* DigiKey
-* Transfer Multisort Elektronik TME 
+* Mouser Electronics, 
+* DigiKey, 
+* Transfer Multisort Elektronik TME, 
+
+
+
 
