@@ -111,7 +111,7 @@ Terms
 Embedded Systems - products, microcontroller board MCB, single board computer SBC
 * Arduino, MCB (Atmel ATMega328P), coding (C++ ), ~200mW, cpu ( , 16MHz), ram (2kb, 32kb flash), network (additional shields for WiFi, Ethernet, ), GPIO (14 digital I/O pins, 6 analog pin inputs)
 * Raspberry Pi, SBC, coding (Python, C, C++, ), ~700mW, cpu 1.5GHz, ram (512MB, 8GB), network (HDMI, USB, Ethernet, WiFi, Bluetooth, ), GPIO (40 pins, handle variety of tasks, )
-Raspberry Pi Pico, MCB (RP2040), coding (C, C++, MicroPython, Rust, ), ~?mW, cpu (dual-core Arm Cortex-M0+, 133MHz), ram (264kb SRAM, 2Mb flash, ), network (WiFi, dual Bluetooth), GPIO (programmable IO (PIO), ), 
+* Raspberry Pi Pico, MCB (RP2040), coding (C, C++, MicroPython, Rust, ), ~?mW, cpu (dual-core Arm Cortex-M0+, 133MHz), ram (264kb SRAM, 2Mb flash, ), network (WiFi, dual Bluetooth), GPIO (programmable IO (PIO), ), 
 
 Input output
 * Programmable IO PIO, [WP](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output), not PRi PIO though smane acronym
