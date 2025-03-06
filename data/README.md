@@ -136,6 +136,9 @@ News Papers - global warming, IPCC
 News Papers - data sets
 * CPC Unified Gauge-Based Analysis of Global Daily Precipitation, [WS](https://climatedataguide.ucar.edu/climate-data/cpc-unified-gauge-based-analysis-global-daily-precipitation), retrieved 2025-02-21, National Center for Atmospheric Research Staff (Eds). Last modified 2022-09-09
 * GPCC: Global Precipitation Climatology Centre.”, [WS](https://climatedataguide.ucar.edu/climate-data/gpcc-global-precipitation-climatology-centre), retrieved 2025-02-21, National Center for Atmospheric Research Staff (Eds). Last modified 2024-03-13 
+* Aviation Data Enhances Met Office Weather Forecasts, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/aviation-data-enhances-weather-forecasts), 6 Mar 2025, Nicola Maxey
+
+
 
 
 
