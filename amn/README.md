@@ -157,3 +157,8 @@ News Papers
  * Remote weather stations and weather instruments: Best practices for higher quality data, [WS](https://metergroup.com/expertise-library/remote-weather-stations-weather-instruments-best-practices-for-higher-quality-data/), Meta Group, 
  * ...
 
+News Papers - tutorials
+* MicroPython: ESP32/ESP8266 BME280 Web Server (Weather Station) [WS](https://randomnerdtutorials.com/micropython-esp32-esp8266-bme280-web-server/), 
+
+
+
