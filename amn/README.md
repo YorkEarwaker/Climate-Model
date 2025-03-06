@@ -152,5 +152,8 @@ Papers
 News Papers
 * How are gases in the atmosphere analyzed and measured?, 18 October 2021, Andrew Moseman, Jesse Kroll, Ask MIT Climate, MIT, [WS](https://climate.mit.edu/ask-mit/how-are-gases-atmosphere-analyzed-and-measured), By shining different kinds of light and radiation through air samples, scientists can tell which gases are absorbing or reacting to that light, and in what amounts.
  * Weather Observation site classification, Met Office, [WS](https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/observation-site-classification)
+ 
+ News Papers - instrumentation
+ * Remote weather stations and weather instruments: Best practices for higher quality data, [WS](https://metergroup.com/expertise-library/remote-weather-stations-weather-instruments-best-practices-for-higher-quality-data/), Meta Group, 
  * ...
 
