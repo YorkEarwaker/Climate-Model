@@ -120,7 +120,7 @@ Embedded Systems - products, microcontroller board MCB, single board computer SB
 * Raspberry Pi Pico, MCB (RP2040), coding (C, C++, MicroPython, Rust, ), ~?mW, cpu (dual-core Arm Cortex-M0+, 133MHz), ram (264kb SRAM, 2Mb flash, ), network (WiFi, dual Bluetooth), GPIO (programmable IO (PIO), ), 
 
 Input output
-* Programmable IO PIO, [WP](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output), not PRi PIO though smane acronym
+* Programmable IO PIO, [WP](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output), not PRi PIO though smae acronym
 * 12C
 * SPI
 * GPIO
