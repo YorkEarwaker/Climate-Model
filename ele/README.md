@@ -31,3 +31,4 @@ DONE
 
 ELE's
 * How Birds Survived the Dinosaur Apocalypse, Birds are today’s only living dinosaurs, but how did they survive the asteroid?, [WS](https://www.pbs.org/wgbh/nova/video/how-birds-survived-the-dinosaur-apocalypse), 6 February 2025, PBS, NOVA
+* This Asteroid Might Make Impact With Earth in 2032, An asteroid is on a collision course with Earth, possibly making impact in 2032. But there’s no cause for alarm: There’s about a 2% chance of impact, and that number may go down. [WS](https://www.pbs.org/wgbh/nova/video/this-asteroid-might-make-impact-with-earth-in-2032/), 20 February 2025, PBS, NOVA
