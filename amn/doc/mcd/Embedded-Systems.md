@@ -90,6 +90,11 @@ News Papers - ide
 * Create New Eclipse Project For The RPi (Eclipse windows), [WS](https://raspberry-projects.com/pi/programming-in-c/compilers-and-ides/eclipse/create-new-eclipse-project-for-the-rpi), 
 * Anyone used Eclipse Managed Builds for pico in C++ [WS](https://forums.raspberrypi.com/viewtopic.php?t=329752), February 2022, Forums, RPi, 
 
+News Papers - RPi pico C/C++
+* 1
+* 2
+* Raspberry Pi Pico and RP2040 - C/C++ Part 3: How to Use PIO, [WS](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-3-how-to-use-pio/123ff7700bc547c79a504858c1bd8110), VS Code, 
+
 News Papers - data logger
 * Best Serial Data Logger Software for Sensor Monitoring?, [WS](https://www.reddit.com/r/embedded/comments/1gersgf/best_serial_data_logger_software_for_sensor/), RS-232, RS-485, log real time data from sensors, 
 * 
