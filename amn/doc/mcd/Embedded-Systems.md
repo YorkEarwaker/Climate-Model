@@ -20,29 +20,35 @@ DONE
 
 ## Bill of Materials
 
-Evaluation kit - electronics kit, 
-* Microcontroller, PRi pico 2
-* Breadboard, 
-* Resistors, 
-* Sensors, 
-* - temperature
-* - humidity
-* - air pressure
-* - light 
-* - motion
+RPi Pico 2, BoM, 
+* Description, evaluation kit, electronics kit, 
+* Microcontroller, RPi Pico 2, *
+* Breadboard, *
+* Resistors, *
+* Sensors, *
+* - temperature, *
+* - humidity, *?
+* - air pressure, *?
+* - light, optional?, not required for PoC,
+* - motion, optional?, not required for PoC,
 * Actuators, optional?, not required for PoC, bar LDR/LCD display
-* - LDR display, ? which LCD/LDR
-* - LCD diasplay, ? which LCD/LDR
-* - LED lights, 
-* - relay modules
-* - servo motors
-* - robotic kits
-* Jumper wires, 
-* Power Supply, A micro-USB cable or a battery pack
-* Wi-Fi Module, if not using Pico W, e.g. Adafruit Airlift WiFi Featherwing
-* Shield, optional? simplifies connections to various sensors and actuators, 12C, UART, 'Grove Shield' Aurdino like peripheral interface 
-* RPi pico 2 Pinout diagram, 
+* - LDR display, which LCD/LDR *?
+* - LCD display, which LCD/LDR *?
+* - LED lights, optional?, not required for PoC,
+* - relay modules, optional?, not required for PoC,
+* - servo motors, optional?, not required for PoC,
+* - robotic kits, optional?, not required for PoC,
+* Jumper wires, *
+* Power Supply, A micro-USB cable or a battery pack, *
+* Wi-Fi Module, if not using Pico W, e.g. Adafruit Airlift WiFi Featherwing, 
+* Shield, optional? simplifies connections to various sensors and actuators, 12C, UART, 'Grove Shield' Aurdino like peripheral interface, ? 
+* RPi Pico 2 Pinout diagram, ?
 * ...
+
+RPi Pico 2, BoM, Sensors 
+* Description, as above eval kit, both sensors? 
+* - - DHT22 (AM2302), Aosong, , (temperature, humidity, ), 
+* - - BME-280, Bosch, , (temperature, humidity, air pressure, ), 
 
 Suppliers - UK
 * Arrow, [WS](https://www.arrow.com/en), *
