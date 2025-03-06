@@ -151,6 +151,9 @@ Circuit Board, Chip
 * ARM, RPi chip?
 * ...
 
+Firmware
+* CMSIS, ARM, [GH](https://github.com/ARM-software/CMSIS_6)
+
 Sensor
 * See Analogue-Systems
 
@@ -188,10 +191,11 @@ Circuit Board, Chip
 * other
 
 Collaboration - repositories
-Launchpad [WS](https://launchpad.net/), Ubuntu, A software collaboration platform that provides
-GitHub, current preferred option
-Bitbucket, 
+* Launchpad [WS](https://launchpad.net/), Ubuntu, A software collaboration platform that provides
+* GitHub, current preferred option
+* Bitbucket, 
+* Mbed, ARM [WS](https://os.mbed.com/), rapid IoT development, [WS](https://os.mbed.com/blog/entry/Important-Update-on-Mbed/) platform and OS will reach end of life in July 2026, 
 
-
-
+Organisations
+* Trusted Firmware, [WS](https://www.trustedfirmware.org/),
 
