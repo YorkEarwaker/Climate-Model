@@ -20,9 +20,9 @@ DONE
 
 ## Bill of Materials
 
-RPi Pico 2, BoM, 
-* Description, evaluation kit, electronics kit, 
-* Microcontroller, RPi Pico 2, *
+MCB, BoM, high level list
+* Description, evaluation kit, electronics kit, prototyping
+* Microcontroller board, *
 * Breadboard, *
 * Resistors, *
 * Sensors, *
@@ -31,9 +31,10 @@ RPi Pico 2, BoM,
 * - air pressure, *?
 * - light, optional?, not required for PoC,
 * - motion, optional?, not required for PoC,
-* Actuators, optional?, not required for PoC, bar LDR/LCD display
-* - LDR display, which LCD/LDR *?
-* - LCD display, which LCD/LDR *?
+* Actuators, optional?, not required for PoC, bar LCD/OLED display
+* - LCD display, 
+* - OLED display, 
+* - LDR (Light Dependent Resistor), optional?, not required for PoC,
 * - LED lights, optional?, not required for PoC,
 * - relay modules, optional?, not required for PoC,
 * - servo motors, optional?, not required for PoC,
@@ -41,28 +42,160 @@ RPi Pico 2, BoM,
 * Jumper wires, *
 * Power Supply, A micro-USB cable or a battery pack, *
 * Wi-Fi Module, if not using Pico W, e.g. Adafruit Airlift WiFi Featherwing, 
-* Shield, optional? simplifies connections to various sensors and actuators, 12C, UART, 'Grove Shield' Aurdino like peripheral interface, ? 
-* RPi Pico 2 Pinout diagram, ?
+* Shield, optional? not required for PoC, simplifies connections to various sensors and actuators, 
+* - 12C, 
+* - UART, 
+* - SPI, 
+* - analog IO, 
+* - digital IO, 
+* - SDW debug interface, 
+* - ?V power interface, <todo: what Voltage power infrace for UK?>, 
+* - - Shield manufacturers 'KEYESTUDIO Raspberry Pi PICO IO Shield' 'Crowtail Shield' 'Grove Shield' 'Click Shield' e.g. Aurdino like peripheral interface, third party manufacturer interface to their own brand hardware/solution tech stack, 
+* RPi Pico 2 Pinout diagram, GPIO Reference Card, probably available via the online RPi documentation *?
 * ...
 
-RPi Pico 2, BoM, Sensors 
-* Description, as above eval kit, both sensors? 
-* - - DHT22 (AM2302), Aosong, , (temperature, humidity, ), 
-* - - BME-280, Bosch, , (temperature, humidity, air pressure, ), 
+What else do I need to use a Raspberry Pi Pico? [WS](https://support.thepihut.com/hc/en-us/articles/360017209098-What-else-do-I-need-to-use-a-Raspberry-Pi-Pico?input_string=breadboard+pico+compatibility)
 
-Suppliers - UK
+Pi Hut, sale price, 7 March 2025
+
+MCB - RPi Pico 2, BoM, Microcontroller board
+* Description, Microcontroller board for weather station, MCN PoC
+* - - RPi Pico 2, + head pins (headed), - WiFi 
+* - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366701441), £5.70 incl. VAT
+* - - RPi Pico 2, - head pins (not headed), - WiFi, not headed requires soldering, not for first project as would require adding soldering iron and solder to BoM
+* - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2), £4.80 incl. VAT
+* - - RPi Pico 2 W, + head pins (headed) + WiFi *
+* - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2-w?variant=54063378760065), £7.60 incl. VAT
+* - - RPi Pico 2 W, - head pins (not headed), + WiFi
+* - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2-w), £6.60 incl. VAT
+* - - Male Header Set for RPi Pico
+* - - - Pi Hut, head pins, colour coded [WS](https://thepihut.com/products/colour-coded-headers-for-raspberry-pi-pico), £1.50 incl. VAT
+* - - - Pi Hut, head pins, , £1 incl. VAT
+
+MCB - RPi Pico 2, BoM, Breadboard
+* Description, breadboard, assume breadboard for Pico 1 W works for Pico 2 W, same GPIO pin arrangement, breadboard is compatible with Pico 1, Pico 1 W, Pico 2, does not explicitly state Pico 2 W, 
+* - - Breadboard for Pico *
+* - - - Pi Hut, [WS](https://thepihut.com/products/breadboard-for-pico), £4.20 incl. VAT
+* - - Half-Size Breadboard - White, is this Pico compatible?
+* - - - Pi Hut, [WS](https://thepihut.com/products/raspberry-pi-breadboard-half-size), £3 incl. VAT
+* - - Full-Size Breadboard - White, is this Pico compatible?
+* - - - Pi Hut, [WS](https://thepihut.com/products/full-sized-breadboard), £5 incl. VAT
+
+MCB - RPi Pico 2, BoM, Jumper Wires
+* Description, jumper wires, assume male for breadboard? Jumper Wires compatible with the RPi Pico 2 Breadboard, 
+* - - 120-Piece Ultimate Jumper Bumper Pack (Dupont Wire) F/M, F/F, M/M
+* - - - Pi Hut, [WS](https://thepihut.com/products/thepihuts-jumper-bumper-pack-120pcs-dupont-wire),£6 incl. VAT
+* - - The Pi Hut's Jumper Wire Kit (140 Piece) * 
+* - - - Pi Hut, [WS](https://thepihut.com/products/jumper-wire-kit-140-piece), £4 incl. VAT
+
+MCB - RPi Pico 2, BoM, Power Supply
+* Description, 
+* - - USB-A to Micro-USB Cable * 
+* - - - Pi Hut, 15cm [WS](https://thepihut.com/products/usb-to-micro-usb-cable-0-5m?variant=37979679228099), £1.50 incl. VAT
+* - - - Pi Hut, 30cm , £2.00 incl. VAT
+* - - Micro-USB Cable with On/Off Switch, optional
+* - - - Pi Hut, [WS](https://thepihut.com/products/micro-usb-cable-with-on-off-switch), £3 incl. VAT
+* - - micro-USB power supply - UK plug, but does only when not being programmed? as uses single RPi Pico micro USB port, 
+* - - - Pi Hut, , £7.60 incl. VAT, not for PoC, but get anyway for continued time series data readings? 
+* - - Battery holder/carrier/carriage
+* - - - Pi Hut, not for PoC
+* - - Battery rechargeable?, tbc future eval, 
+* - - - Pi Hut, not for PoC
+* - - Solar Panel
+* - - - Pi Hut, not for PoC
+
+MCB - RPi Pico 2, BoM, Resistor
+* Description, 0ohm to 1Mohm
+* - - 575-Piece Ultimate Resistor Kit *
+* - - - Pi Hut, [WS](https://thepihut.com/products/ultimate-resistor-kit), £6 incl. VAT
+* - - Resistor01 100ohm 
+* - - - Pi Hut, 
+* - - Resistor02 value? ohm? 
+* - - - Pi Hut, 
+* - - Resistor03 value? ohm? 
+* - - - Pi Hut, 
+
+MCB - RPi Pico 2, BoM, Actuator, Display optional? nice to have to complete the circuit
+* Description, 
+* - - LCD Display 
+* - - - Pi Hut, circa £10.00
+* - - OLED display, 
+* - - - Pi Hut, circa £10.00
+
+MCB - RPi Pico 2, BoM, Sensor
+* Description, sensor for weather station, MCN PoC, buy direct from wholesaler? 
+* - - DHT22 (AM2302), Aosong, , (temperature, humidity, ), *
+* - - - Pi Hut, [WS](https://thepihut.com/products/dht22-temperature-humidity-sensor-extras), £8.70 incl. VAT
+* - - BME-280, Bosch, , (temperature, humidity, air pressure, ), *
+* - - - Pi Hut, [WS](https://thepihut.com/products/bme280-environmental-sensor), £8.90 incl. VAT
+* - - - Pi Hut, [WS](https://thepihut.com/products/bme280-breakout-temperature-pressure-humidity-sensor)
+* - - ENS160 Air Quality Monitor sensor, 
+* - - - Pi Hut, not required for PoC
+* - - Soil Moisture Sensor
+* - - - Pi Hut, not required for PoC
+
+Not required for PoC, but may be necessary if all headed RPi Pico 2 (W) are unavailable.
+
+* Soldering Tip Cleaner, , £4.90 incl. VAT
+* Antex XS25 Soldering Iron (UK Plug), , £34.30 incl. VAT
+* Magnetic Silicone Soldering Mat, , £11 incl. VAT
+* Antex Lead Free Solder - 4m Tube, , £4.40 incl. VAT
+
+Not required for PoC, Previous generation of RPi Pico, but this older version might suffice for simple sensor reading, temp, humdity, pressure, . So might swap out
+
+* Raspberry Pi Pico, , - headers £3.80 incl. VAT
+* Raspberry Pi Pico, , + headers £4.80 incl. VAT
+* Raspberry Pi Pico W, , - headers 
+* Raspberry Pi Pico W, , + headers 
+
+micro-USB power supply, compatible with RPi Pico 2, links from Pico page ? not stated compatible on web site when link is followed to Power Supply page
+Raspberry Pi 12.5W Micro USB Power Supply - UK Plug, £7.60 incl. VAT
+
+* Female Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
+* Stacking Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
+
+### Suppler
+
+Supplier - RPi, UK - all RPi approved? 
+* The PiHut, [WS](https://thepihut.com/), official retailer
+* Pimo Roni, [WS](https://shop.pimoroni.com/), tech treasure for tinkerers
+* MODMYPI, [WS](https://www.modmypi.com/), resolves to The PiHut, 
+* Pi Supply, [WS](https://uk.pi-supply.com/), the maker emporium
+* Rapid, [WS](https://www.rapidonline.com/education)
+* Cool Components, [WS](https://coolcomponents.co.uk/)
+* CPC Farnell, [WS](https://cpc.farnell.com/b/raspberry-pi)
+* Pi Spy, [WS](https://www.raspberrypi-spy.co.uk/buy/buy-a-pi-2/)
+
+Supplier - electrical engineering EE, UK, online 
 * Arrow, [WS](https://www.arrow.com/en), *
-* RS, [WS](https://uk.rs-online.com/web/), *
 * Maplin, [WS](https://www.maplin.co.uk/), 
-* Bowood Electronics, [WS](https://www.bowood-electronics.co.uk/) ????
 * Switch Electronics, [WS](https://www.switchelectronics.co.uk/) * 
 * Mouser Electronics United Kingdom, [WS](https://www.mouser.co.uk/) *
 * Enrg Tech, [WS](https://www.enrgtech.co.uk/) *
 * JPR Electronics, [WS](https://www.jprelec.co.uk/) *
-* Digital Outlet London, [WS](https://www.walthamforest.gov.uk/rubbish-and-recycling/waltham-forest-reuse-and-repair-directory/digital-outlet-london), ????
-* Buy & Sell Electronics Outlet, closed?
-* Farnell UK, [WS](https://uk.farnell.com/), *
+* Farnell UK, [WS](https://uk.farnell.com/), **
+
+Supplier -  UK, London retail shop
+* RS, [WS](https://uk.rs-online.com/web/), * ? mixed reviews of physical retail shops
+* SB Components, [WS](https://shop.sb-components.co.uk/) London? ? mixed reviews
+
+Supplier - UK, outside London
+* Bowood Electronics, [WS](https://www.bowood-electronics.co.uk/) Chesterfield, 
+
+Supplier - STEM, Maker, child oriented, UK
+* Cyntech Components, [WS](https://shop.cyntech.co.uk/)
+* Polydron [WS](https://www.polydron.co.uk/stem-shop.html)
+* The Stem club [WS](https://www.thestemclub.co.uk/lander)
+* STEM finity [WS](https://stemfinity.com/)
+* ...
+
+Supplier - UK, London, prototyping, 
+* Machines Room, no longer in operation
+* Cubik Innovation
+
+Supplier - UK, lists
 * UK, London, [WS](https://wiki.london.hackspace.org.uk/view/Suppliers), Hackspace
+* UK, London, [WS](https://www.londonscout.co.uk/best-electronics-stores-london), London Scout
 * others?
 
 ## Libraries
@@ -79,13 +212,16 @@ IDE
 
 libs
 * RPi.GPIO, python, interact with GPIO pins
-* avrdude, upload firmware to microcontroller, Atmel AVR MCB, Ubuntu [WS](https://manpages.ubuntu.com/manpages/focal/man1/avrdude.1.html), [GH]()
+* avrdude, upload firmware to microcontroller, Atmel AVR MCB, Ubuntu [WS](https://manpages.ubuntu.com/manpages/focal/man1/avrdude.1.html), <todo: sourc GH uri>
 
 RPi
 * RPi docs, [WS](https://www.raspberrypi.com/documentation/)
 * RPI docs, MCB, [WS](https://www.raspberrypi.com/documentation/microcontrollers/)
 * RPi docs, pico, MCB, C/C++ SDK [WS](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
 * ...
+
+???? texas instruments?
+* Brindle, [WS](https://bridle.tiac-systems.net/doc/3.7.1/bridle/index.html), open source,
 
 Languages
 * C/C++, 
@@ -153,6 +289,8 @@ News Papers - ES projects/tutorials, RPi MCB,
 * Getting Started with Raspberry Pi Pico (and Pico W) [WS](https://randomnerdtutorials.com/getting-started-raspberry-pi-pico-w/), ****
 * Raspberry Pi Pico Projects, [WS](https://how2electronics.com/raspberry-pi/raspberry-pi-pico-projects/)
 * Current and Future Projects: Transitioning from Raspberry Pi Pico W to Pico 2 with PicoBricks, [WS](https://picobricks.com/blogs/robotic-stem-projects/current-and-future-projects-transitioning-from-raspberry-pi-pico-w-to-pico-2-with-picobricks), 9 Aug 2024, PicoBricks Team
+* Raspberry Pi Pico and Pico W Pinout Guide: GPIOs Explained, [WS](https://randomnerdtutorials.com/raspberry-pi-pico-w-pinout-gpios/), RandomProjects
+* Raspberry Pi Pico: DHT11/DHT22 Temperature and Humidity Sensor (MicroPython), [WS](https://randomnerdtutorials.com/raspberry-pi-pico-dht11-dht22-micropython/), RandomProjects
 
 News Papers - RPi apps
  * What's your list of the best software/applications for your Raspberry Pi?, [WS](https://forums.raspberrypi.com/viewtopic.php?t=272664), 30 April 2020, Forums Raspberry Pi, 
