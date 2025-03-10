@@ -13,6 +13,7 @@ TODO
 * <todo: consider, as a real time controller Arduino may be the better choice, sensor readings, controlling actuators, etc, limitations with >
 * <todo: consider, both Arduino and Raspberry Pi as separate components in large option 'advanced' mcd? Arduino control, reading, . RPi onbaord analytics, networking options, >
 * <todo: consider, copy Raspberry Pi todo: things from README.md here?>
+* <todo: consider, moving much of the RPi specific PoC things to PoC dev README.md>
 
 DONE
 * <done: intent to commit>
@@ -224,8 +225,11 @@ Supplier - UK, lists
 
 ## Libraries
 
+RPi Examples, [GH](https://github.com/raspberrypi), C,  Shell,  C++,  Python,  Makefile, 
+
 IDE 
-* Thonny Python IDE, RPi pico (MicroPython), 
+* Thonny Python IDE, RPi pico (MicroPython, CircuitPython, ), 
+* Mu editor, (CircuitPython, )
 * uPyCraft IDE, 
 * Arduion IDE, RPi pico (C/C++ SDK), can be used to program 
 * VS Code, RPi pico (C/C++ SDK, MicroPython, )
@@ -249,12 +253,11 @@ RPi
 
 Languages
 * C/C++, 
-* MicroPython, [WS](https://micropython.org/), Python 3 compatible, subset of Py3 libs optimised for microcontrollers, 
-* CircuitPython, 
-* Arduino, 
+* MicroPython, [WP](https://en.wikipedia.org/wiki/MicroPython), [WS](https://micropython.org/), Python 3 compatible, subset of Py3 libs optimised for microcontrollers, general purpose, 
+* CircuitPython, [WP](https://en.wikipedia.org/wiki/CircuitPython), [WS](https://circuitpython.org/), compatible with CPython, fork of MicroPython mpy, and Blinka + mpy for SCB, optimized for AdaFruit products, 
+* Arduino, RTD Docs [WS](https://docs.arduino.cc/)
 * Java, ?
-* Rust, ?
-
+* Rust, ??
 Tool chain RPi MCB - coding
 * ...
 
@@ -313,6 +316,7 @@ Flashing, microcontroller,
 * Bootloader, 
 * UF2 USB Flashing Format, file,  
 * USB Mass Storage Class (MSC), 
+* Thumb2, 
 
 News Papers - ES projects/tutorials, RPi MCB,
 * Getting started with your Raspberry Pi Pico W [WS](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1), Projects, RPi Foundation, Python
@@ -321,6 +325,10 @@ News Papers - ES projects/tutorials, RPi MCB,
 * Current and Future Projects: Transitioning from Raspberry Pi Pico W to Pico 2 with PicoBricks, [WS](https://picobricks.com/blogs/robotic-stem-projects/current-and-future-projects-transitioning-from-raspberry-pi-pico-w-to-pico-2-with-picobricks), 9 Aug 2024, PicoBricks Team
 * Raspberry Pi Pico and Pico W Pinout Guide: GPIOs Explained, [WS](https://randomnerdtutorials.com/raspberry-pi-pico-w-pinout-gpios/), RandomProjects
 * Raspberry Pi Pico: DHT11/DHT22 Temperature and Humidity Sensor (MicroPython), [WS](https://randomnerdtutorials.com/raspberry-pi-pico-dht11-dht22-micropython/), RandomProjects
+
+News Papers - UF2, bootloader, micropython
+* Why does the pico accept Microsoft uf2 format rather than raw ARM machine code? [WS](https://www.reddit.com/r/raspberry_pi/comments/t79kyg/why_does_the_pico_accept_microsoft_uf2_format/), Raspberry Pi, Reddit, 
+* How can I convert my Micropython code to UF2 for mass flashing, [WS](https://www.reddit.com/r/raspberrypipico/comments/1fi20gm/how_can_i_convert_my_micropython_code_to_uf2_for/), Raspberry Pi Pico, Reddit, 
 
 News Papers - RPi apps
  * What's your list of the best software/applications for your Raspberry Pi?, [WS](https://forums.raspberrypi.com/viewtopic.php?t=272664), 30 April 2020, Forums Raspberry Pi, 
@@ -343,10 +351,11 @@ News Papers - embedded systems, sensors
 * What are some good modern temperature sensors? [WS](https://www.reddit.com/r/embedded/comments/1d3cakd/what_are_some_good_modern_temperature_sensors/), embedded, Reddit, 
 * ...
 
-News Papers - ide
+News Papers - ide, languages
 * Create New Eclipse Project For The RPi (Eclipse windows), [WS](https://raspberry-projects.com/pi/programming-in-c/compilers-and-ides/eclipse/create-new-eclipse-project-for-the-rpi), 
 * Anyone used Eclipse Managed Builds for pico in C++ [WS](https://forums.raspberrypi.com/viewtopic.php?t=329752), February 2022, Forums, RPi, 
 * What IDE to use? Options?, RPi pico [WS](https://forums.raspberrypi.com/viewtopic.php?t=362331), Forum, RPi, 
+* MicroPython vs. Circuit Python, [WS](https://forums.raspberrypi.com/viewtopic.php?t=356535), Raspberry Pi Forum, 
 
 News Papers - RPi Pico, C/C++, PIO
 * Does C/C++ code run faster/more efficiently on Pico than MicroPython/CircuitPython? Are there any good ways to test this? [WS](https://www.reddit.com/r/raspberrypipico/comments/mhmdmh/does_cc_code_run_fastermore_efficiently_on_pico/), Raspberry Pi Pico, Reddit, 
