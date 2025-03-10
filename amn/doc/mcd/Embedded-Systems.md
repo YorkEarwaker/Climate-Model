@@ -68,6 +68,8 @@ MCB - RPi Pico 2, BoM, Microcontroller board, [WS](https://www.raspberrypi.com/p
 * - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2-w?variant=54063378760065), £7.60 incl. VAT
 * - - RPi Pico 2 W, - head pins (not headed), + WiFi
 * - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2-w), £6.60 incl. VAT
+
+MCB - RPi Pico 2, BoM, Head Pins - requires soldering kit
 * - - Male Header Set for RPi Pico
 * - - - Pi Hut, head pins, colour coded [WS](https://thepihut.com/products/colour-coded-headers-for-raspberry-pi-pico), £1.50 incl. VAT
 * - - - Pi Hut, head pins, , £1 incl. VAT
@@ -124,10 +126,12 @@ MCB - RPi Pico 2, BoM, Resistor
 MCB - RPi Pico 2, BoM, Actuator, Display optional? nice to have to complete the circuit
 * Description, display the sensor readings on the board.
 * - - LCD Display 
-* - - 1.8" LCD Display for Raspberry Pi Pico
+* - - 1.8" LCD Display for Raspberry Pi Pico - pico female pins, driver
 * - - - Pi Hut, [WS](https://thepihut.com/products/1-8-lcd-display-for-raspberry-pi-pico), £10.80 incl. VAT
+* - - 1.3" IPS LCD Display Module (240x240) - wires, no pins
+* - - - Pi Hut, [WS](https://thepihut.com/products/1-3-ips-lcd-display-module-240x240), £10.20 incl. VAT
 * - - OLED display, 
-* - - 1.3" OLED Display Module for Raspberry Pi Pico (64×128)
+* - - 1.3" OLED Display Module for Raspberry Pi Pico (64×128) - pico female pins, driver
 * - - - Pi Hut, [WS](https://thepihut.com/products/1-3-oled-display-module-for-raspberry-pi-pico-64x128), £10.80 incl. VAT 
 
 MCB - RPi Pico 2, BoM, Sensor
@@ -171,7 +175,7 @@ Kits - there are many to choose from
 
 Books/diagrams
 * Programming the Pico - Second Edition, £9
-* Get Started with MicroPython on Raspberry Pi Pico - 2nd Edition, 15
+* Get Started with MicroPython on Raspberry Pi Pico - 2nd Edition, £15
 * Adafruit GPIO Reference Card for Raspberry Pi Pico, [WS](https://thepihut.com/products/adafruit-gpio-reference-card-for-raspberry-pi-pico), £0.50 incl. VAT, GPIO pins diagram, 
 
 ### Suppler
