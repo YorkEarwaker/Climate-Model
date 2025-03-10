@@ -58,7 +58,7 @@ What else do I need to use a Raspberry Pi Pico? [WS](https://support.thepihut.co
 
 Pi Hut, sale price, 7 March 2025
 
-MCB - RPi Pico 2, BoM, Microcontroller board
+MCB - RPi Pico 2, BoM, Microcontroller board, [WS](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * Description, Microcontroller board for weather station, MCN PoC
 * - - RPi Pico 2, + head pins (headed), - WiFi 
 * - - - Pi Hut, MCB, [WS](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366701441), £5.70 incl. VAT
@@ -76,9 +76,9 @@ MCB - RPi Pico 2, BoM, Breadboard
 * Description, breadboard, assume breadboard for Pico 1 W works for Pico 2 W, same GPIO pin arrangement, breadboard is compatible with Pico 1, Pico 1 W, Pico 2, does not explicitly state Pico 2 W, 
 * - - Breadboard for Pico *
 * - - - Pi Hut, [WS](https://thepihut.com/products/breadboard-for-pico), £4.20 incl. VAT
-* - - Half-Size Breadboard - White, is this Pico compatible?
+* - - Half-Size Breadboard - White, is Not Pico compatible! Pi Hut Support email, 10 March 2025.
 * - - - Pi Hut, [WS](https://thepihut.com/products/raspberry-pi-breadboard-half-size), £3 incl. VAT
-* - - Full-Size Breadboard - White, is this Pico compatible?
+* - - Full-Size Breadboard - White, is Not Pico compatible! Pi Hut Support email, 10 March 2025.
 * - - - Pi Hut, [WS](https://thepihut.com/products/full-sized-breadboard), £5 incl. VAT
 
 MCB - RPi Pico 2, BoM, Jumper Wires
@@ -88,21 +88,27 @@ MCB - RPi Pico 2, BoM, Jumper Wires
 * - - The Pi Hut's Jumper Wire Kit (140 Piece) * 
 * - - - Pi Hut, [WS](https://thepihut.com/products/jumper-wire-kit-140-piece), £4 incl. VAT
 
-MCB - RPi Pico 2, BoM, Power Supply
-* Description, 
+MCB - RPi Pico 2, BoM, Power Supply, RPi Pico requires minimum of 1.8 volts and a maximum of 5.5V . Safe operating voltages are between 1.8V and 5.5V.
+* Description, power the Microcontroller, when attached and not via USB to a laptop or other computer, 
+* - Powering your Pico [WS](https://projects.raspberrypi.org/en/projects/introduction-to-the-pico/12), Raspberry Foundation, Introduction to Raspberry Pi Pico guide
+* - Run from a power supply, [WS](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/9), Raspberry Foundation, Getting started with Raspberry Pi Pico
 * - - USB-A to Micro-USB Cable * 
-* - - - Pi Hut, 15cm [WS](https://thepihut.com/products/usb-to-micro-usb-cable-0-5m?variant=37979679228099), £1.50 incl. VAT
+* - - - Pi Hut, 15cm [WS](https://thepihut.com/products/usb-to-micro-usb-cable-0-5m?variant=37979679228099), £1.50 incl. VAT *
 * - - - Pi Hut, 30cm , £2.00 incl. VAT
+* - - - Pi Hut, 50cm , £2.20 incl. VAT *
 * - - Micro-USB Cable with On/Off Switch, optional
-* - - - Pi Hut, [WS](https://thepihut.com/products/micro-usb-cable-with-on-off-switch), £3 incl. VAT
-* - - micro-USB power supply - UK plug, but does only when not being programmed? as uses single RPi Pico micro USB port, 
-* - - - Pi Hut, , £7.60 incl. VAT, not for PoC, but get anyway for continued time series data readings? 
+* - - - Pi Hut, [WS](https://thepihut.com/products/micro-usb-cable-with-on-off-switch), £3 incl. VAT, Not for PoC
+* - - micro-USB power supply - UK plug, power supply when not being programmed! as uses single RPi Pico micro USB port. 
+* - - - Raspberry Pi micro-USB transformer
+* - - - Raspberry Pi 12.5W Micro USB Power Supply - UK Plug, [WS](https://thepihut.com/products/raspberry-pi-zero-uk-power-supply) £7.60 incl. VAT, not for PoC, but get anyway for continued time series data readings? compatible with RPi Pico 2, links from Pico support FAQ page above ? not stated compatible on web site when link is followed to Power Supply page? is Not Pico compatible! Pi Hut Support email, 10 March 2025. might be mistaken ?.
+* - - Power bank, fancy battery
+* - - - Pi Hut, not for PoC
 * - - Battery holder/carrier/carriage
 * - - - Pi Hut, not for PoC
 * - - Battery rechargeable?, tbc future eval, 
 * - - - Pi Hut, not for PoC
 * - - Solar Panel
-* - - - Pi Hut, not for PoC
+* - - - Pi Hut, not for PoC, likely yes for MVP, 
 
 MCB - RPi Pico 2, BoM, Resistor
 * Description, 0ohm to 1Mohm
@@ -118,9 +124,11 @@ MCB - RPi Pico 2, BoM, Resistor
 MCB - RPi Pico 2, BoM, Actuator, Display optional? nice to have to complete the circuit
 * Description, display the sensor readings on the board.
 * - - LCD Display 
-* - - - Pi Hut, circa £10.00
+* - - 1.8" LCD Display for Raspberry Pi Pico
+* - - - Pi Hut, [WS](https://thepihut.com/products/1-8-lcd-display-for-raspberry-pi-pico), £10.80 incl. VAT
 * - - OLED display, 
-* - - - Pi Hut, circa £10.00
+* - - 1.3" OLED Display Module for Raspberry Pi Pico (64×128)
+* - - - Pi Hut, [WS](https://thepihut.com/products/1-3-oled-display-module-for-raspberry-pi-pico-64x128), £10.80 incl. VAT 
 
 MCB - RPi Pico 2, BoM, Sensor
 * Description, sensor for weather station, MCN PoC, buy direct from wholesaler? 
@@ -143,16 +151,28 @@ Not required for PoC, but may be necessary if all headed RPi Pico 2 (W) are unav
 
 Not required for PoC, Previous generation of RPi Pico, but this older version might suffice for simple sensor reading, temp, humdity, pressure, . So might swap out
 
+RPi Pico Variants
 * Raspberry Pi Pico, , - headers £3.80 incl. VAT
 * Raspberry Pi Pico, , + headers £4.80 incl. VAT
 * Raspberry Pi Pico W, , - headers 
 * Raspberry Pi Pico W, , + headers 
 
-micro-USB power supply, compatible with RPi Pico 2, links from Pico page ? not stated compatible on web site when link is followed to Power Supply page
-Raspberry Pi 12.5W Micro USB Power Supply - UK Plug, £7.60 incl. VAT
-
+Accessories
 * Female Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
 * Stacking Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
+
+Breakout/Expander
+* Pin Breakout for the Raspberry Pi Pico, [WS](https://thepihut.com/products/pin-breakout-for-the-raspberry-pi-pico), £4.20 incl. VAT, *
+* Pico Omnibus (Dual Expander), [WS](https://thepihut.com/products/pico-omnibus-dual-expander) £8.40 incl. VAT 
+
+Kits - there are many to choose from
+* Starter Kit for Raspberry Pi Pico (Includes Pico H), [WS](https://thepihut.com/products/starter-kit-for-raspberry-pi-pico-includes-pico-h), £10 incl. VAT, Pico 1 H, breadboard, jumper wires, ... *** This would be a good! 
+* Essential Raspberry Pi Pico Kit, Pi Hut, [WS](https://thepihut.com/products/essential-raspberry-pi-pico-kit), USB cable, header pins, micro shim 
+
+Books/diagrams
+* Programming the Pico - Second Edition, £9
+* Get Started with MicroPython on Raspberry Pi Pico - 2nd Edition, 15
+* Adafruit GPIO Reference Card for Raspberry Pi Pico, [WS](https://thepihut.com/products/adafruit-gpio-reference-card-for-raspberry-pi-pico), £0.50 incl. VAT, GPIO pins diagram, 
 
 ### Suppler
 
@@ -225,7 +245,7 @@ RPi
 
 Languages
 * C/C++, 
-* MicroPython, 
+* MicroPython, [WS](https://micropython.org/), Python 3 compatible, subset of Py3 libs optimised for microcontrollers, 
 * CircuitPython, 
 * Arduino, 
 * Java, ?
@@ -285,8 +305,14 @@ List of RTOS
 * FreeRTOS
 * Zephyr
 
+Flashing, microcontroller,
+* Bootloader, 
+* UF2 USB Flashing Format, file,  
+* USB Mass Storage Class (MSC), 
+
 News Papers - ES projects/tutorials, RPi MCB,
-* Getting Started with Raspberry Pi Pico (and Pico W) [WS](https://randomnerdtutorials.com/getting-started-raspberry-pi-pico-w/), ****
+* Getting started with your Raspberry Pi Pico W [WS](https://projects.raspberrypi.org/en/projects/get-started-pico-w/1), Projects, RPi Foundation, Python
+* Getting Started with Raspberry Pi Pico (and Pico W) [WS](https://randomnerdtutorials.com/getting-started-raspberry-pi-pico-w/), RandomNerdTutorials, ****
 * Raspberry Pi Pico Projects, [WS](https://how2electronics.com/raspberry-pi/raspberry-pi-pico-projects/)
 * Current and Future Projects: Transitioning from Raspberry Pi Pico W to Pico 2 with PicoBricks, [WS](https://picobricks.com/blogs/robotic-stem-projects/current-and-future-projects-transitioning-from-raspberry-pi-pico-w-to-pico-2-with-picobricks), 9 Aug 2024, PicoBricks Team
 * Raspberry Pi Pico and Pico W Pinout Guide: GPIOs Explained, [WS](https://randomnerdtutorials.com/raspberry-pi-pico-w-pinout-gpios/), RandomProjects
@@ -318,7 +344,8 @@ News Papers - ide
 * Anyone used Eclipse Managed Builds for pico in C++ [WS](https://forums.raspberrypi.com/viewtopic.php?t=329752), February 2022, Forums, RPi, 
 * What IDE to use? Options?, RPi pico [WS](https://forums.raspberrypi.com/viewtopic.php?t=362331), Forum, RPi, 
 
-News Papers - RPi pico C/C++, PIO
+News Papers - RPi Pico, C/C++, PIO
+* Does C/C++ code run faster/more efficiently on Pico than MicroPython/CircuitPython? Are there any good ways to test this? [WS](https://www.reddit.com/r/raspberrypipico/comments/mhmdmh/does_cc_code_run_fastermore_efficiently_on_pico/), Raspberry Pi Pico, Reddit, 
 * 1
 * 2
 * Raspberry Pi Pico and RP2040 - C/C++ Part 3: How to Use PIO, [WS](https://www.digikey.com/en/maker/projects/raspberry-pi-pico-and-rp2040-cc-part-3-how-to-use-pio/123ff7700bc547c79a504858c1bd8110), VS Code, 
