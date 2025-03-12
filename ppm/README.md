@@ -8,6 +8,7 @@ TOD0
 * <todo: pid>
 * <todo: create additional sub directories as needed for better file organisation, >
 * <todo: select a ppm approach, agile product management, agile project management, PMBoK, PPMI, Prince2, etc >
+* <todo: test if this is a good approach to manage all projects >
 
 DONE
 * <done: this file>
