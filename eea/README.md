@@ -74,12 +74,14 @@ Papers - science, eea
 * A protocol for probabilistic extreme event attribution analyses, 10 Nov 2020 (Published), Philip, S., Kew, S., van Oldenborgh, G. J., Otto, F., Vautard, R., van der Wiel, K., King, A., Lott, F., Arrighi, J., Singh, R., and van Aalst, M.: Adv. Stat. Clim. Meteorol. Oceanogr., 6, 177–203, 2020. [DOI](https://doi.org/10.5194/ascmo-6-177-2020), [WS](https://ascmo.copernicus.org/articles/6/177/2020/)
 * Pathways and pitfalls in extreme event attribution. 10 May 2021 (Published), van Oldenborgh, G.J., van der Wiel, K., Kew, S. et al., Climatic Change 166, 13 (2021)., [DOI](https://doi.org/10.1007/s10584-021-03071-7), [WS](https://link.springer.com/article/10.1007/s10584-021-03071-7)
 * Formally combining different lines of evidence in extreme-event attribution, 30 Oct 2024 (Published), Friederike E. L. Otto, Clair Barnes, Sjoukje Philip, Sarah Kew, Geert Jan van Oldenborgh, Robert Vautard, Volume 10, issue 2, ASCMO, 10, 159–171, 2024, Advances in Statistical Climatology, Meteorology and Oceanography, [DOI](https://doi.org/10.5194/ascmo-10-159-2024), [WS](https://ascmo.copernicus.org/articles/10/159/2024/)
+* Mitigation needed to avoid unprecedented multi-decadal North Atlantic Oscillation magnitude., 12 March 2025, Smith, D.M., Dunstone, N.J., Eade, R. et al., Nat. Clim. Chang. (2025). [DOI](https://doi.org/10.1038/s41558-025-02277-2), [WS](https://www.nature.com/articles/s41558-025-02277-2)
 
 Papers - incident reports, eea
 * Climate change increased the likelihood of wildfire disaster in highly exposed Los Angeles area, 28 January, 2025, Clair Barnes, etal, World Weather Attribution, [PDF](https://www.worldweatherattribution.org/wp-content/uploads/WWA-scientific-report-LA-wildfires-1.pdf), [WS](https://www.worldweatherattribution.org/climate-change-increased-the-likelihood-of-wildfire-disaster-in-highly-exposed-los-angeles-area/)
 
 News Papers - science, eea
 * World Weather Attribution, methods [WS](https://www.worldweatherattribution.org/methods/),
+* Unprecedented changes to North Atlantic winds could have major impacts on UK weather, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/significant-climate-change-impacts-paper-nao), 12 Mar 2025, Nicola Maxey, "These findings have major implications for understanding and preparing for extreme weather events." - Dr Doug Smith, emphasized the urgency
 
 News Papers - incident reports, eea
 * LA wildfires more likely because of climate change, says attribution study, 31 January 2025, Simon Levey, Sam Ezra Fraser-Baxter, Imperial, [WS](https://www.imperial.ac.uk/news/260633/la-wildfires-more-likely-because-climate/) 
