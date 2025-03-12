@@ -81,7 +81,7 @@ Papers - incident reports, eea
 
 News Papers - science, eea
 * World Weather Attribution, methods [WS](https://www.worldweatherattribution.org/methods/),
-* Unprecedented changes to North Atlantic winds could have major impacts on UK weather, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/significant-climate-change-impacts-paper-nao), 12 Mar 2025, Nicola Maxey, "These findings have major implications for understanding and preparing for extreme weather events." - Dr Doug Smith, emphasized the urgency
+* Unprecedented changes to North Atlantic winds could have major impacts on UK weather, [WS](https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/significant-climate-change-impacts-paper-nao), 12 Mar 2025, Nicola Maxey, MOHC, "These findings have major implications for understanding and preparing for extreme weather events." - Dr Doug Smith, emphasized the urgency
 
 News Papers - incident reports, eea
 * LA wildfires more likely because of climate change, says attribution study, 31 January 2025, Simon Levey, Sam Ezra Fraser-Baxter, Imperial, [WS](https://www.imperial.ac.uk/news/260633/la-wildfires-more-likely-because-climate/) 
