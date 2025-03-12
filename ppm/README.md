@@ -12,6 +12,7 @@ TOD0
 * <todo: consider, moving todo list from top level repo README.md here? >
 * <todo: consider, Ubuntu, OpenStack and Kubernetes as part of default technology stack, Canonical default, >
 * <todo: consider, Ubuntu, IoT for Raspberry Pi SCB, https://ubuntu.com/certified/iot?offset=80 >
+* <todo: consider, Ubuntu, LTS release is tabled for 24 April 2025?, 24.10 (Oracular Oriole) wait for point release? https://ubuntu.com/about/release-cycle sourced 17/03/2025, it might be better to wait and go for point release? or start with LTS '24.04 LTS (Noble Numbat)' as LTS release cycle is every two years, so next LTS 24 April 2026? confused about best approach, likely best create bootable USB with '24.04 LTS (Noble Numbat)' for clean upgrade path, >
 
 DONE
 * <done: this file>
