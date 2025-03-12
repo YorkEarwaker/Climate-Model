@@ -51,7 +51,7 @@ MCB, BoM, high level list
 * - digital IO, 
 * - SDW debug interface, 
 * - ?V power interface, <todo: what Voltage power infrace for UK?>, 
-* - - Shield manufacturers 'KEYESTUDIO Raspberry Pi PICO IO Shield' 'Crowtail Shield' 'Grove Shield' 'Click Shield' e.g. Aurdino like peripheral interface, third party manufacturer interface to their own brand hardware/solution tech stack, 
+* - - Shield manufacturers 'KEYESTUDIO Raspberry Pi PICO IO Shield' 'Crowtail Shield' 'Grove Shield' 'Click Shield' e.g. Aurdino like peripheral interface, third party manufacturer interface to their own brand hardware/solution tech stack, . Concerns likely driver issues, vendor lockin, and similar concerns for breakout boards and expander boards.
 * RPi Pico 2 Pinout diagram, GPIO Reference Card, probably available via the online RPi documentation *?
 * ...
 
@@ -166,7 +166,7 @@ Accessories
 * Female Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
 * Stacking Header Set for Raspberry Pi Pico, , £1 incl. VAT, not needed for PoC 
 
-Breakout/Expander
+Breakout/Expander - these might require drivers and while ecosystem evolves may not be cross compatible with MicroPython, CircuitPython, and C/C++ , possibility for vendor lockin 
 * Pin Breakout for the Raspberry Pi Pico, [WS](https://thepihut.com/products/pin-breakout-for-the-raspberry-pi-pico), £4.20 incl. VAT, *
 * Pico Omnibus (Dual Expander), [WS](https://thepihut.com/products/pico-omnibus-dual-expander) £8.40 incl. VAT 
 
@@ -241,8 +241,9 @@ IDE
 libs
 * RPi.GPIO, python, interact with GPIO pins
 * avrdude, upload firmware to microcontroller, Atmel AVR MCB, Ubuntu [WS](https://manpages.ubuntu.com/manpages/focal/man1/avrdude.1.html), <todo: sourc GH uri>
+* RPi Pico Debugprobe [WS](https://github.com/raspberrypi/debugprobe), software, see GNU OpenOCD, 
 
-RPi
+RPi docs
 * RPi docs, [WS](https://www.raspberrypi.com/documentation/)
 * RPI docs, MCB, [WS](https://www.raspberrypi.com/documentation/microcontrollers/)
 * RPi docs, pico, MCB, C/C++ SDK [WS](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html)
@@ -252,17 +253,35 @@ RPi
 * Brindle, [WS](https://bridle.tiac-systems.net/doc/3.7.1/bridle/index.html), open source,
 
 Languages
-* C/C++, 
+
+Mcirocontroller board mcb Python , MicroPython and CircuitPython and any other like CPython, will restrict access to a single CPU core. Implies mcb_mpy and mcb_cpy good for prototyping but not production. Access to both cores requires C/C++ for both RPi Pico CPU Arm cores. If so implies C/C++ tool chain assembly line for MVP. To be verified as correct. - 11/03/2025
+
+* C/C++, memory management, garbage collection, risk memory leaks, 
 * MicroPython, [WP](https://en.wikipedia.org/wiki/MicroPython), [WS](https://micropython.org/), Python 3 compatible, subset of Py3 libs optimised for microcontrollers, general purpose, 
 * CircuitPython, [WP](https://en.wikipedia.org/wiki/CircuitPython), [WS](https://circuitpython.org/), compatible with CPython, fork of MicroPython mpy, and Blinka + mpy for SCB, optimized for AdaFruit products, 
 * Arduino, RTD Docs [WS](https://docs.arduino.cc/)
 * Java, ?
 * Rust, ??
+
 Tool chain RPi MCB - coding
-* ...
+* Getting Started with Pico, data sheet, RPi Pico [PDF](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf), SDK C/C++ tool chain, 
+* RPi Pico C/C++ SDK tool chain, data sheet, RPi Pico [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf), [WS](https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html#sdk-setup), SDK C/C++ tool chain, Raspberry Pi Debug Probe for RPi Pico H, 
+* RPi Pico Python SDK, data sheet, RPi Pico [PDF](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf), MicroPython, 
+* RPi Debug Probe, docs [WS](https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html)
 
 Tool chain RPi SCB - coding
 * ...
+
+Tool chain Arm - 
+* Cortex Microcontroller Software Interface Standard - Debug Access Port, CMSIS-DAP, [GH](https://arm-software.github.io/CMSIS_5/DAP/html/index.html), doc [WS](https://developer.arm.com/documentation/101451/0100/About-CMSIS-DAP), JTAG/SWD, 
+
+Tool chain GNU - C/C++
+* Prebuilt GNU Toolchains for Windows, [WS](https://gnutoolchains.com/), including;
+* GNU Binutils, default
+* GCC compiler for C and C++ languages, default
+* GDB debugger, default
+* A port of libc or a similar library (e.g. newlib), default
+* Open On Chip debugger, OpenOCD, GNU [WS](https://gnutoolchains.com/arm-eabi/openocd/), see also RPi Pico Debugging, Arm, JTAG/SWD,
 
 ## Standards
 
