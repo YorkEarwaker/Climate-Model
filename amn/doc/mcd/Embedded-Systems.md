@@ -14,6 +14,7 @@ TODO
 * <todo: consider, both Arduino and Raspberry Pi as separate components in large option 'advanced' mcd? Arduino control, reading, . RPi onbaord analytics, networking options, >
 * <todo: consider, copy Raspberry Pi todo: things from README.md here?>
 * <todo: consider, moving much of the RPi specific PoC things to PoC dev README.md>
+* <todo: consider, Ubuntu core - distribution for embedded systems, on RPi SCB, also for MCB? >
 
 DONE
 * <done: intent to commit>
@@ -21,7 +22,7 @@ DONE
 
 ## Bill of Materials
 
-MCB, BoM, high level list
+MCB, BoM, high level list, abstract
 * Description, evaluation kit, electronics kit, prototyping
 * Microcontroller board, *
 * Breadboard, *
@@ -398,7 +399,8 @@ News Papers - starter kit, basic things to get started, BoM,
 * Grove Starter Kit for Raspberry Pi Pico, [WS](https://www.kiwi-electronics.com/en/grove-starter-kit-for-raspberry-pi-pico-10621)
 * Choosing the Right Development Boards & Tools [WS](https://uk.rs-online.com/web/content/discovery/ideas-and-advice/development-tools-guide), modified 8 Jan 2024, RS, 
 
-
+News Papers - distribution for embedded systems, Ubuntu, Yocto, other?
+* Need help choosing an embedded Linux distribution? Get guidance here, [WS](https://ubuntu.com/blog/embedded-linux-distribution), 30 November 2022, Edoardo Barbieri, White Paper, Ubuntu blog, 
 
 
 
