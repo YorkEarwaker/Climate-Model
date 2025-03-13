@@ -58,7 +58,8 @@ TODO
 * <todo: consider, service drone, related project, in remote location wifi free zones, or hard to access, drone data upload bluetooth, download on return? part of service drone? >
 * <todo: consider Arduino microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, try coding in standard C and flash using avrdude, good idea, pitfalls? without need to touch Arduino ecosystem. >
 * <todo: consider, RPi microcontroller as second evaluation for simple 'small' unit/device, sensor reading and control actuation, likely before Arduino, >
-* <todo: evaluate Launchpad FOSS, Bitbucket, >
+* <todo: consider, evaluate Launchpad FOSS, Bitbucket, >
+* <todo: consider, add power supply concern for cloud-systems.md to power-supply.md, link both >
 
 DONE
 * <done: intent to commit>
