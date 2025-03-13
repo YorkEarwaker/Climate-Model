@@ -12,7 +12,10 @@ Weather/climate data is a first class topic of concern.
 
 See sub projects
 * Measurement, control, data mcd [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/README.md), a sub project component
-* <todo: instrument sub project, >
+* Cloud system csy <todo: link as above>
+* Embedded system esy <todo: link as above>
+* Analogue system asy <todo: link as above>
+* Power system psy <todo: link as above>
 
 See related top level projects
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
