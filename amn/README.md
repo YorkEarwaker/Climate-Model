@@ -42,6 +42,10 @@ See related top level projects
 * UN SDG's
 * Development assistance
 
+Rational
+
+"Bad quality observations can cause a good model to be rejected and natural variability in the observations can hide structural problems in a model." - , van Oldenborgh, G.J., van der Wiel, K., Kew, S. et al., 2021, [DOI](https://doi.org/10.1007/s10584-021-03071-7)
+
 ## Status
 
 TODO
