@@ -10,12 +10,17 @@ Start now to deploy amn for temporal and spatial coverage for time series data c
 
 Weather/climate data is a first class topic of concern. 
 
-See sub projects
-* Measurement, control, data mcd [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/README.md), a sub project component
-* Cloud system csy <todo: link as above>
-* Embedded system esy <todo: link as above>
-* Analogue system asy <todo: link as above>
-* Power system psy <todo: link as above>
+See weather station sub projects
+* Measurement, control, data mcd [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/README.md), 
+* Cloud system csy [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Cloud-Systems.md)
+* Embedded system esy [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Embedded-Systems.md)
+* Analogue system asy [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Analogue-Systems.md)
+* Power system psy [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/mcd/Power-Systems.md)
+
+See space observation sub projects
+* Space systems spc [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/spc/README.md)
+* Base systems bst [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/spc/Base-Systems.md)
+* Satellite system stl [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/spc/Satellite-Systems.md)
 
 See related top level projects
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
@@ -74,7 +79,6 @@ TODO
 * <todo: consider, a doc\nst or similar name for instrumentation, with separate page for each instrument type, >
 * <todo: consider, radio transmission for remote sites, mountain ranges, deserts, tundra, cryosphere, etc, for transmission of time series data, >
 * <todo: consider, radar precipitation, >
-* <todo: consider, micro sattelites over specific regions, for monitoring locale specific concerns, Pantanal wildfire, Amazon deforestation illegal burning illegal logging illegal mining, Sub Saharan Africa green belt wall desertification, Himalayan monitoring glacial lakes for flood extreme events, ecological concerns specific to a specific jurisdiction, >
 * <todo: consider, roll out to Africa, Caribbean Islands, Central America and South America, Pacific Islands,  etc, >
 * <todo: consider, weather reporting technology, time series data, NWP/NCP models, nowcasts, forecasts, hindcasts, ... >
 * <todo: consider, partner with tertiary education in deployment locales, basis for technology hub, support and maintenance services, >
@@ -101,6 +105,7 @@ DONE
 * <done: intent to commit >
 * <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementation in Java centric projects, Apache Celix for OSGi implementation for C/C++ centric projects, >
 * <done: consider, Raspberry Pi, evaluate as part of measurement control data mcd unit, selected for weather station PoC,  >
+* <done: consider, micro sattelites over specific regions, for monitoring locale specific concerns, Pantanal wildfire, Amazon deforestation illegal burning illegal logging illegal mining, Sub Saharan Africa green belt wall desertification, Himalayan monitoring glacial lakes for flood extreme events, ecological concerns specific to a specific jurisdiction, see amn\doc\spc\satellite-systems.md >
 
 ## Standards
 
