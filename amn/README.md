@@ -22,6 +22,11 @@ See space observation sub projects
 * Base systems bst [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/spc/Base-Systems.md)
 * Satellite system stl [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/spc/Satellite-Systems.md)
 
+See manufacturing sub projects
+* Research development & manufacturing \rdm [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/rdm/README.md)
+* Research development & manufacturing \rdm [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/rdm/Additive-Manufacturing.md)
+* <todo: subtractive manufacturing, second order or priority>
+
 See related top level projects
 * Extreme event attribution eea [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/eea)
 * Global warming model gwm [GH](https://github.com/YorkEarwaker/Climate-Model/tree/main/gwm), global warming level, e.g. IPCC 1.5 Paris Agreement
