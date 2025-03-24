@@ -99,7 +99,7 @@ TODO
 * <todo: consider, Pacific Island planning for second iteration based on Caribbean Islands experience, AU and NZ lead as well as others as jurisdictionaly helpful, >
 * <todo: consider, India Ocean Islands planning as part of second iteration based on Caribbean Islands experience, considering Tropical Cyclone Chido and Mayotte, coordinate with other countries also in path of tropical cyclones in region, Madagascar? East African countries? Kenya? Mozambique? partner with Caribbean Islands and Pacific Islands for information sharing, data storage for time series data? >
 * <todo: consider, get concept test capability out on the ground, then consider upgrade path to WMO standards, or separate standards compliance path, one of the principle aims being to improve capability maturity, and as a mechanism for uplift in other related domain sectors, as a means to improve weather station spatial and temporal coverage for climate change long haul adaptation and mitigation, >
-* <todo: consider, additive manufacturing, i.e. 3d printing, weather station items, and so on, >
+* <todo: consider, additive manufacturing, i.e. 3d printing, weather station items, and so on, \adm, \tdp, make part of manufacturing \mcg? research development & manufacturing \rdm is a better fit, \rdm talks to other wider stakeholder concerns such as \mph \emr \eco and round tripping of developments in the field to open source product portfolio, additive manufacturing designs specific use case modification in the field, stakeholder concerns also for \flw urban planning or \eng civil engineering, with initial use case starting with weather station device and instrumentation, >
 * ...
 
 DONE
