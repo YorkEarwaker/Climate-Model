@@ -24,7 +24,7 @@ See space observation sub projects
 
 See manufacturing sub projects
 * Research development & manufacturing \rdm [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/rdm/README.md)
-* Research development & manufacturing \rdm [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/rdm/Additive-Manufacturing.md)
+* Additive manufacturing \adm [GH](https://github.com/YorkEarwaker/Climate-Model/blob/main/amn/doc/rdm/Additive-Manufacturing.md)
 * <todo: subtractive manufacturing, second order or priority>
 
 See related top level projects
