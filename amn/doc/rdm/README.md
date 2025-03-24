@@ -1,6 +1,6 @@
-# research development & manufacturing rdm
+# Research development & manufacturing rdm
 
-Making of physical artifacts as part of production process in for example weather station devices and instrumentation, . Assembly line instruction for example for an entire weather satation unit. With assembly of third party components like RPi and sensors with additive manufacturing parts created on site.
+Making of physical artifacts as part of production process in for example weather station devices and instrumentation, . Assembly line instruction for example for an entire weather station unit. With assembly of third party components like RPi and sensors with additive manufacturing parts created on site.
 
 Replacement parts. New parts. Improved parts. Specialised parts. Bespoke parts. ...
 
