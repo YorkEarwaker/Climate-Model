@@ -22,3 +22,5 @@ Terms
 * Fused deposition modelling fdm,  
 * ...
 
+Journals
+* Additive Manufacturing, Science Direct [WS](https://www.sciencedirect.com/journal/additive-manufacturing)
