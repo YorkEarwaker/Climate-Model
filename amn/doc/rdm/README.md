@@ -4,6 +4,8 @@ Making of physical artifacts as part of production process in for example weathe
 
 Replacement parts. New parts. Improved parts. Specialised parts. Bespoke parts. ...
 
+Continuous process manufacturing in regard to time series data as good production resource. 
+
 ## Status
 
 TODO
