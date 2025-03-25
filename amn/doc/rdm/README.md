@@ -11,12 +11,13 @@ The time series good product an open source free to use data set for humanity fo
 ## Status
 
 TODO
-* <todo: consider, additive manufacturing \adm, 3d printing, design software, resin modellers, as separate page, >
 * <todo: consider, testing in the field and round tripping, >
-* <todo: consider, also subtractive manufacturing, lathes, etc, as separate page, >
+* <todo: consider, also subtractive manufacturing, lathes, etc, as separate page, secondary interest, consider only when additive manufacturing is not fit for purpose, >
+* <todo: consider, also laser cutting, as a separate page, secondary interest, consider only when additive manufacturing is not fit for purpose, >
 
 DONE
 * <done: intent to commit>
+* <done: consider, additive manufacturing \adm, 3d printing, design software, resin modellers, as separate page, primary interest, wip>
 
 ## Reference
 
