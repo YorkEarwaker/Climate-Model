@@ -25,4 +25,9 @@ Classical mechanics - rotation
 News Papers - Coriolis Effect
 * The Coriolis Effect Due to Earth's Rotation, [WS](https://www.pbslearningmedia.org/resource/nvcl.sci.earth.coriolis/the-coriolis-effect/universe/), 
 
+News Papers - the value of science, science communication
+* Discussing the Frontier of Particle Physics with Brian Cox, [YT](https://www.youtube.com/watch?v=urFIHf5coxE), 4 February 2025, StarTalk, Brian Cox, Neil deGrasse Tyson, 
+
+
+
 
