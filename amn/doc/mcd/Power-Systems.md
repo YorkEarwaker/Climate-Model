@@ -30,12 +30,16 @@ Suppliers
 * Solar Panels and Management Boards [WS](https://thepihut.com/collections/solar-panels-and-management-boards), The Pi Hut, 
 * <todo: seek other suppliers!>
 
+Voltage regulator <todo: compile candidate list>
+* MCP1700, [PDF](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Low-Quiescent-Current-LDO-20001826E.pdf), tech sheet, Low Quiescent Current LDO, 
+
 ## References
 
 Terms
 * Power consumption, 
 * Power supply, [WS](https://en.wikipedia.org/wiki/Power_supply), integrated into circuit board,   
 * Power source, renewable, grid, hydrogen fuel cell, battery, 
+* Voltage regulator
 
 News Papers - battery
 * Pico powered from 3.7 V Li Po battery charged with solar panel?, [WS](https://forums.raspberrypi.com/viewtopic.php?t=305398), Raspberry Pi, forums
@@ -45,6 +49,7 @@ News Papers - solar panel
 * How I tried to power a Raspberry Pi Pico with solar panels, [WS](https://www.reddit.com/r/raspberrypipico/comments/14v1c0x/how_i_tried_to_power_a_raspberry_pi_pico_with/?rdt=53180), Reddit, Raspberry Pi Pico, 
 * PicoW with solar on my garden, [WS](https://forums.raspberrypi.com/viewtopic.php?t=338235), Raspberry Pi, forums
 *  Raspberry Pi Pico W (Solar-Powered) Remote Weather Station, [WS](https://picockpit.com/raspberry-pi/raspberry-pi-pico-w-remote-weather-station/), 17 July 2022, raspi berry, Pi Cockpit, 
+* Supply Raspberry Pi with electricity via solar cell and battery, [WS](https://tutorials-raspberrypi.de/raspberry-pi-pico-solar-zelle-panel-akku-anleitung/), Raspberry Pi, forums, DE, 
 
 News Papers - charge management module
 * ...
