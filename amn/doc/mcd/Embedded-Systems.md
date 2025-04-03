@@ -15,6 +15,7 @@ TODO
 * <todo: consider, copy Raspberry Pi todo: things from README.md here?>
 * <todo: consider, moving much of the RPi specific PoC things to PoC dev README.md>
 * <todo: consider, Ubuntu core - distribution for embedded systems, on RPi SCB, also for MCB? >
+* <todo: consider, Ubunit 2.10, Ubuntu for Raspberry Pi, Ubuntu desktop for the Raspberry Pi, SBC, >
 
 DONE
 * <done: intent to commit>
@@ -401,6 +402,5 @@ News Papers - starter kit, basic things to get started, BoM,
 
 News Papers - distribution for embedded systems, Ubuntu, Yocto, other?
 * Need help choosing an embedded Linux distribution? Get guidance here, [WS](https://ubuntu.com/blog/embedded-linux-distribution), 30 November 2022, Edoardo Barbieri, White Paper, Ubuntu blog, 
-
 
 
