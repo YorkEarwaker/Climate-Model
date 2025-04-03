@@ -15,17 +15,40 @@ TODO
 * <todo: consider, sonic vibration to dispel dust, pollen, from surface of solar panel >
 * <todo: consider, solar panel or solar skin, photovoltaic, first renewable power unit, first iteration >
 * <todo: consider, rechargeable battery, first iteration, >
-* <todo: consider, separate repository for renewable energy technology unit, mixed energy generationg base, hybrid renewable energy unit, hybrid reu to produce hydrogen for combined energy generation unit, micro combined heat and power fuel cells, >
 * <todo: consider, power consumption for small units to be fairly low as mcd modules will be in sleep mode for most to the time, sleep mode between synopic sensor reading windows, network connection modules might be separate component units aka SCB,  >
 * <todo: consider, will some sensors, as component modules have separate batteries as part of manufacturer spec, ? >
 * <todo: consider, bench power supply unit for research and development, circuit testing,  >
-* <todo: consider, integrated into circuit board and also as separate unit interface to power supply for all power consumption?>
+* <todo: consider, integrated into circuit board and also as separate unit interface to power supply for all power consumption? as a energy ps brick interface to whole unit, . Depends on deployment scenario. Depends on complexity of unit, >
 
 DONE
 * <done: intent to commit>
+* <done: consider, hybrid-energy as separate repository for renewable energy technology unit, mixed energy generationg base, hybrid renewable energy unit, hybrid reu to produce hydrogen for combined energy generation unit, micro combined heat and power fuel cells, >
+
+## BoM
+
+Suppliers
+* Solar Panels and Management Boards [WS](https://thepihut.com/collections/solar-panels-and-management-boards), The Pi Hut, 
+* <todo: seek other suppliers!>
 
 ## References
 
+Terms
 * Power consumption, 
 * Power supply, [WS](https://en.wikipedia.org/wiki/Power_supply), integrated into circuit board,   
 * Power source, renewable, grid, hydrogen fuel cell, battery, 
+
+News Papers - battery
+* Pico powered from 3.7 V Li Po battery charged with solar panel?, [WS](https://forums.raspberrypi.com/viewtopic.php?t=305398), 
+* ...
+
+News Papers - solar panel
+* How I tried to power a Raspberry Pi Pico with solar panels, [WS](https://www.reddit.com/r/raspberrypipico/comments/14v1c0x/how_i_tried_to_power_a_raspberry_pi_pico_with/?rdt=53180), Reddit, Raspberry Pi Pico, 
+
+News Papers - charge management module
+* ...
+* 
+
+News Papers - RPi Pico, microcontroller, power reduction
+* Switching P-Mosfet with DS3231 (Pico-W Low Power System), [WS](https://forums.raspberrypi.com/viewtopic.php?t=351661), Raspberry Pi, forum, 
+* ...
+
