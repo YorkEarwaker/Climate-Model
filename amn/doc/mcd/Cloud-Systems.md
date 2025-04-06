@@ -11,12 +11,7 @@ TODO
 DONE
 * <done: intent to commit, >
 
-## References
-
-* Cloud
-* Hybrid cloud
-* ...
-* ...
+## BoM
 
 csy PoC high level list, abstract
 * bare metal cluster, RPi
@@ -40,8 +35,27 @@ csy PoC BoM
 * Container? 
 * Metal as a Service MAAS, ubuntu [WS](https://maas.io/) FOSS?
 
+## References
+
+Terms
+* Cloud
+* Hybrid cloud
+* Cluster
+* Network Attached Storage NAS
+* Storage Area Network SAN
+* ..
+
 News Papers - MAAS
 * Build your own bare metal cloud using a Raspberry Pi cluster with MAAS, [WS](https://maas.io/tutorials/build-your-own-bare-metal-cloud-using-a-raspberry-pi-cluster-with-maas#1-overview), Canonical, 
 * Homelab clusters: LXD micro cloud on Raspberry Pi, [WS](https://ubuntu.com/blog/homelab-clusters-lxd-micro-cloud-on-raspberry-pi), 9 October 2020, Rhys Davies
 
+News Papers - cluster, rack, 
+* How to build a Raspberry Pi cluster, [WS](https://www.raspberrypi.com/tutorials/cluster-raspberry-pi-tutorial/), 
+* ...
+* ...
+
+News Papers - storage, san, nas, 
+* How to build a Raspberry Pi NAS, [WS](https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/)
+* ...
+* ...
 
