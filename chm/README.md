@@ -1,4 +1,36 @@
-# Chemistry chm
+# Java
+
+Java project directory and file organisation.
+
+## Status
+
+TODO
+* <todo: iterate Java Project repository structure, dirs, files, work in progress wip >
+* <todo: deleta structure for coding libraries? tbd. >
+
+DONE
+* <done: Java, applications, first cut, v0.1>
+
+## Libraries
+JDK/SDK/JRE
+* Oracle, 
+* Adoptium, Eclipse Temurin, OpenJDK, [WS](https://adoptium.net/), Eclipse Foundation, Open source,
+* ...
+
+## References
+
+Terms
+* Java, [WP](https://en.wikipedia.org/wiki/Java_(programming_language)) programming language, 
+* JDK Java development kit
+* SDK Software development kit
+* JRE Java runtime environment
+* JSR Java specification requests
+* JCP Java community process
+* 
+
+Lists - of java language
+* List of Java keywords, [WP](https://en.wikipedia.org/wiki/List_of_Java_keywords)
+* List of Java annotation# Chemistry chm
 
 Chemistry based capability. 
 
@@ -51,3 +83,4 @@ Combustion
 
 Fire
 * Fire [WS](https://www.pbs.org/wgbh/nova/fire/onfire.html), PBS
+* Weathered: Inside the LA Firestorm, [WS](https://www.pbs.org/video/weathered-inside-the-la-firestorm-l31r0b/), 03/19/2025, Season 6 Episode 4, PBS, The 2025 LA Wildfires set a record as one of the most expensive and destructive in US history. As environmental shifts accelerate extreme fire conditions and communities expand into fire-prone landscapes, these devastating wildfires are becoming more common. But are they inevitable?, Rating TV-PG
