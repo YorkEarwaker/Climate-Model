@@ -2,9 +2,16 @@
 
 Things related to product management and project management but not code development. Colocated with code when ppm is part of sme or startup.
 
+## Notes
+
+Local host stuff
+* Java code for Climate Model is held in, Elicpse Workspace, \eclipse-workspace-2024S
+* Other code and artifacts for Climate Model is held in, Repo, \dev\repo
+
 ## Status
 
 TOD0
+* <todo: consider, move Eclipse Workspace \eclipse-workspace-2024S, to \dev\eclipse-workspace-2024S, >
 * <todo: pid>
 * <todo: create additional sub directories as needed for better file organisation, >
 * <todo: select a ppm approach, agile product management, agile project management, PMBoK, PPMI, Prince2, etc >
