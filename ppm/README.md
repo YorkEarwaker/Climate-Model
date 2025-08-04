@@ -13,6 +13,7 @@ Local host stuff
 TOD0
 * <todo: consider, move Eclipse Workspace \eclipse-workspace-2024S, to \dev\eclipse-workspace-2024S, >
 * <todo: pid>
+* <todo: consider, iterate BOSCARD, >
 * <todo: create additional sub directories as needed for better file organisation, >
 * <todo: select a ppm approach, agile product management, agile project management, PMBoK, PPMI, Prince2, etc >
 * <todo: test if this is a good approach to manage all projects >
