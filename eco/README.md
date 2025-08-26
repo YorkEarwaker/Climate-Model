@@ -21,6 +21,11 @@ DONE
 
 Christopher Quentin Foundation, [WS](https://christopherquentin.com/), bees, trees, water, zero waste, music, 
 
+## Thought leaders
+
+People - sme, water management
+* John Pomeroy [WP](https://en.wikipedia.org/wiki/John_Pomeroy_(hydrologist)), CA, <todo: consider, hydrsphere, hydrology project>
+
 ## References
 
 * Anthrome, [WP](https://en.wikipedia.org/wiki/Anthropogenic_biome), Anthropogenic biome, intensive land use biomes, farmland, agricultural land, open cast mining, city scapes, 
@@ -51,3 +56,4 @@ Pollination
 
 Tools
 * US fire [WS](https://www.fireweatheravalanche.org/fire/)
+
