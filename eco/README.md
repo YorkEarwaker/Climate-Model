@@ -19,8 +19,11 @@ DONE
 
 ## Good Causes
 
-Christopher Quentin Foundation, [WS](https://christopherquentin.com/), bees, trees, water, zero waste, music, 
-Climate Clarity [WS](https://climateclarity.co.uk/our-workshops/), Workshops For The Planet [WS](https://workshopsfortheplanet.notion.site/Workshops-for-the-Planet-1761572423598001923ad5e8b1f9af4f), inclusive (inter alia), Climate Fresk, the Circular Economy college, Planetary Boundaries Fresco, the Living Soils workshop, and more, ...
+Concerned Citizens
+* Christopher Quentin Foundation, [WS](https://christopherquentin.com/), bees, trees, water, zero waste, music, 
+
+Learning - workshops
+* Climate Clarity [WS](https://climateclarity.co.uk/our-workshops/), Workshops For The Planet [WS](https://workshopsfortheplanet.notion.site/Workshops-for-the-Planet-1761572423598001923ad5e8b1f9af4f), inclusive (inter alia), Climate Fresk, the Circular Economy college, Planetary Boundaries Fresco, the Living Soils workshop, and more, ...
 
 Repair
 * IFIXIT [WS](https://www.ifixit.com/)
