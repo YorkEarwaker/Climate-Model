@@ -36,6 +36,10 @@ Reuse - circulrise, UK, London
 * BackMarket, [WS](https://www.backmarket.co.uk/en-gb)
 * London Recyces, [WS](https://londonrecycles.co.uk/)
 
+Sustainable living
+* Project Kamp, [GH](https://github.com/ONEARMY/project-kamp), [WS](https://projectkamp.com/index.html), [YT](https://www.youtube.com/@ProjectKamp), sustainable living, land management, collective knowledge sharing, open source
+
+
 ## Thought leaders
 
 People - sme, water management
