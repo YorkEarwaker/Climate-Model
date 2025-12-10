@@ -31,9 +31,9 @@ public interface Anthropocene extends Age, Stage {
 	// <todo: lower boundary > 
 	// lower boundary, consider, ...
 	// lower boundary, consider, industrial age, circa 1740, 
-	// lower boundary, consider, steam (engine) age, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/
-	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, https://en.wikipedia.org/wiki/Ford_Model_T
-	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/ , 
+	// lower boundary, consider, steam (engine) age, James Watt & Matthew Boulton 1778, good choice marks start of mass use of coal and steam powered industry and atmospheric CO2 [WS](https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/), Parliament, gov, UK
+	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, [WP](https://en.wikipedia.org/wiki/Ford_Model_T)
+	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, [WS](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/) , 
 	// lower boundary, consider, ...
 	
 	/**
@@ -50,5 +50,14 @@ public interface Anthropocene extends Age, Stage {
 	 *
 	 * <todo: source,>
 	 */
+	 
+	 /**
+	  * Archeological data
+	  *
+	  * Fire, 
+	  * Natural History Museum, Humans made fire 350,000 years earlier than previously thought, [WS](https://www.youtube.com/watch?v=8nlr7f9P_yo), 10 December 2025, BBC News
+	  * <todo; source NHM paper, fire, human made, pyrite & flint, >
+	  */
+	  
 	 
 }
