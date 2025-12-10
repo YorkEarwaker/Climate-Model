@@ -56,7 +56,7 @@ public interface Anthropocene extends Age, Stage {
 	  *
 	  * Fire, 
 	  * Natural History Museum, Humans made fire 350,000 years earlier than previously thought, [WS](https://www.youtube.com/watch?v=8nlr7f9P_yo), 10 December 2025, BBC News
-	  * <todo; source NHM paper, fire, human made, pyrite & flint, >
+	  * <todo; source NHM paper, fire, Homo neanderthalensis (human) made, pyrite & flint, >
 	  */
 	  
 	 
