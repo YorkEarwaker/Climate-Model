@@ -52,12 +52,14 @@ public interface Anthropocene extends Age, Stage {
 	 */
 	 
 	 /**
-	  * Archeological data
+	  * Archaeological data
 	  *
 	  * Fire, 
-	  * Natural History Museum, Humans made fire 350,000 years earlier than previously thought, [WS](https://www.youtube.com/watch?v=8nlr7f9P_yo), 10 December 2025, BBC News
-	  * <todo; source NHM paper, fire, Homo neanderthalensis (human) made, pyrite & flint, >
+	  * fire, Homo neanderthalensis (human) made, pyrite & flint, 
+	  * Humans made fire 350,000 years earlier than previously thought, [WS](https://www.youtube.com/watch?v=8nlr7f9P_yo), 10 December 2025, BBC News
+	  * Earliest fire-making dating back 400,000 years unearthed in Suffolk, England, [WS](https://www.nhm.ac.uk/discover/news/2025/december/earliest-fire-making-dating-back-400-000-years-unearthed-in-suffolk-england.html), 10 December 2025, Josh Davis, Natural History Museum, retrieved 12 December 2025 17:34 UK
+	  * Davis, R., Hatch, M., Hoare, S. et al. Earliest evidence of making fire. Nature (2025). https://doi.org/10.1038/s41586-025-09855-6 , 
 	  */
-	  
-	 
+	  public static final String HOMO_EARLIEST_FIRE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire record 
+	  // <todo: source, some other official time date? record of same first fire evidence for homo genus, >
 }
