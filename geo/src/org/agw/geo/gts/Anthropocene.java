@@ -60,9 +60,16 @@ public interface Anthropocene extends Epoch, Series {
 	 * Annual concentration of atmospheric carbon dioxide, [WS](https://ourworldindata.org/grapher/co2-long-term-concentration), Our World Data, 
 	 * Global C02 Levels [WS](https://www.co2levels.org/), 1780, C02 280.1 ppm
 	 * Atmospheric C02 Earth [WS](https://www.co2.earth/), 
-	 * <todo: source, for 1778, >
+	 * <todo: source, for 1778, for a number of molecules in atmosphere (ice core data), in sediment, in other tbd, >
+	 * <todo: source, for 1778, temperature from various sources for example tree rings, other, ... for different locations, for different places, for different matter types in specific phase transitions,  >
 	 */
-	 // 1780, C02 280.1 ppm
+	 // 1780, C02 280.1 ppm // current best base sourced, 
+	 // 1778, C02 xxx.x ppm // Carbon Dioxide
+	 // 1778, CH4 xxx.x ppb // Methane
+	 // 1778, N20 xxx.x ppb // Nitrogen Oxide
+	 // 1778, SF6 xxx.x ppb // Sulfuric 
+	 // 1778, XXX xxx.x ppm
+	 // 1778, ...
 	 
 	 /**
 	  * Archaeological data
