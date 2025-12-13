@@ -71,6 +71,11 @@ public interface Anthropocene extends Epoch, Series {
 	 // 1778, XXX xxx.x ppm // ...
 	 // 1778, ...
 	 
+	 // 1778, SST xxx.x C   // Sea Surface Temperature, average, 
+	 // also other temperature values and metrics as they are deemed necessary, useful, diurnal temperature range (DTR) and other location specific metrics, boundary conditions highest/lowest at location at time of year at sea level land at elevation land ..., 
+	 
+	 // 1778, ocean acidity, ...
+	 
 	 /**
 	  * Archaeological data
 	  *
