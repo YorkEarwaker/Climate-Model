@@ -35,7 +35,7 @@ public interface Anthropocene extends Epoch, Series {
 	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, [WP](https://en.wikipedia.org/wiki/Ford_Model_T)
 	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, [WS](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/) , 
 	// lower boundary, consider, ...
-	public static final String HOMO_STEAM_INDUSTRIAL_URI = "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/"; // Parliament, gov, UK
+	public static final String HOMO_STEAM_INDUSTRIAL_URI = "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/"; // Parliament, gov, UK, Homo sapiens, 
 	
 	/**
 	 * References
