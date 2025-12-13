@@ -53,6 +53,7 @@ public interface Anthropocene extends Epoch, Series {
 	 * Carbon Dioxide - Earth Indicator, [WS](https://science.nasa.gov/earth/explore/earth-indicators/carbon-dioxide/), NASA, from 1958
 	 * Global Mean CO2 Mixing Ratios (ppm): Observations, [WS](https://data.giss.nasa.gov/modelforce/ghgases/Fig1A.ext.txt), NASA, from 1850
 	 * Climate change: atmospheric carbon dioxide, [WS](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide), NASA, 
+	 * Advanced Global Atmospheric Gases Experiment, [WS](https://www-air.larc.nasa.gov/missions/agage/), NASA's Atmospheric Composition Focus Area in Earth Science
 	 * Trends in atmospheric concentrations of CO2 (ppm), CH4 (ppb) and N2O (ppb), between 1800 and 2017, [WS](https://www.eea.europa.eu/en/analysis/maps-and-charts/atmospheric-concentration-of-carbon-dioxide-5), European Environment Agency, 1780, C02 280.1 ppm
 	 * Atmospheric CO2 over the last 1000 years: A high-resolution record from the West Antarctic Ice Sheet (WAIS) Divide ice core, [WS](https://doi.org/10.1029/2011GB004247), 26 May 2012 , AGU, Global Biochemical Cycles, 
 	 * CO2M (Carbon Dioxide Monitoring) Mission, [WS](https://www.eoportal.org/satellite-missions/co2m), Copernicus Anthropogenic Carbon Dioxide Monitoring (CO2M), European Space Agency (ESA)
