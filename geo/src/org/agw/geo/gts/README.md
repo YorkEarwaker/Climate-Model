@@ -29,7 +29,8 @@ DONE
 * <done: Phanerozoic extends Eon, Eonothem >
 * <done: Cenozoic extends Era, Erathem >
 * <done: Holocene extends Epoch, Series >
-* <done: Anthropocene extends Age, Stage >
+* <done: Anthropocene extends Epoch, Series >
+* <done: Meghalayan extends Age, Stage >
 * <done: interface inheritance heirarchy for holocene and anthropocene >
 
 # References

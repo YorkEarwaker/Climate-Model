@@ -35,6 +35,7 @@ public interface Anthropocene extends Epoch, Series {
 	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, [WP](https://en.wikipedia.org/wiki/Ford_Model_T)
 	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, [WS](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/) , 
 	// lower boundary, consider, ...
+	public static final String HOMO_INDUSTRIAL_STEAM_URI = "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/"; // Parliament, gov, UK
 	
 	/**
 	 * References
@@ -48,8 +49,20 @@ public interface Anthropocene extends Epoch, Series {
 	/**
 	 * Atmospheric and climatic data
 	 *
-	 * <todo: source,>
+	 * Trends in CO2, CH4, N2O, SF6, [WS](https://gml.noaa.gov/ccgg/trends/), NASA, Global Monitoring Laboratory
+	 * Carbon Dioxide - Earth Indicator, [WS](https://science.nasa.gov/earth/explore/earth-indicators/carbon-dioxide/), NASA, from 1958
+	 * Global Mean CO2 Mixing Ratios (ppm): Observations, [WS](https://data.giss.nasa.gov/modelforce/ghgases/Fig1A.ext.txt), NASA, from 1850
+	 * Climate change: atmospheric carbon dioxide, [WS](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide), NASA, 
+	 * Trends in atmospheric concentrations of CO2 (ppm), CH4 (ppb) and N2O (ppb), between 1800 and 2017, [WS](https://www.eea.europa.eu/en/analysis/maps-and-charts/atmospheric-concentration-of-carbon-dioxide-5), European Environment Agency, 1780, C02 280.1 ppm
+	 * Atmospheric CO2 over the last 1000 years: A high-resolution record from the West Antarctic Ice Sheet (WAIS) Divide ice core, [WS](https://doi.org/10.1029/2011GB004247), 26 May 2012 , AGU, Global Biochemical Cycles, 
+	 * CO2M (Carbon Dioxide Monitoring) Mission, [WS](https://www.eoportal.org/satellite-missions/co2m), Copernicus Anthropogenic Carbon Dioxide Monitoring (CO2M), European Space Agency (ESA)
+	 *
+	 * Annual concentration of atmospheric carbon dioxide, [WS](https://ourworldindata.org/grapher/co2-long-term-concentration), Our World Data, 
+	 * Global C02 Levels [WS](https://www.co2levels.org/), 1780, C02 280.1 ppm
+	 * Atmospheric C02 Earth [WS](https://www.co2.earth/), 
+	 * <todo: source, for 1778, >
 	 */
+	 // 1780, C02 280.1 ppm
 	 
 	 /**
 	  * Archaeological data
