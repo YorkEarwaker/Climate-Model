@@ -59,7 +59,11 @@ public interface Anthropocene extends Epoch, Series {
 	 *
 	 * Annual concentration of atmospheric carbon dioxide, [WS](https://ourworldindata.org/grapher/co2-long-term-concentration), Our World Data, 
 	 * Global C02 Levels [WS](https://www.co2levels.org/), 1780, C02 280.1 ppm
-	 * Atmospheric C02 Earth [WS](https://www.co2.earth/), 
+	 * Atmospheric C02 Earth [WS](https://www.co2.earth/),  
+	 *
+	 * Historic warships to be raided for missing climate data [WS](https://www.reading.ac.uk/news/2021/research-news/pr860780), 26 October 2021, University of Reading, Global Surface Air Temperature 
+	 * Global Surface Air Temperature, [WS](https://glosat.org/), GloSAT, 
+	 *
 	 * <todo: source, for 1778, for a number of molecules in atmosphere (ice core data), in sediment, in other tbd, >
 	 * <todo: source, for 1778, temperature from various sources for example tree rings, other, ... for different locations, for different places, for different matter types in specific phase transitions,  >
 	 */
@@ -72,6 +76,7 @@ public interface Anthropocene extends Epoch, Series {
 	 // 1778, ...
 	 
 	 // 1778, SST xxx.x C   // Sea Surface Temperature, average, 
+	 // 1778, SAT xxx.x C   // Surface Air Temperature, average, 
 	 // also other temperature values and metrics as they are deemed necessary, useful, diurnal temperature range (DTR) and other location specific metrics, boundary conditions highest/lowest at location at time of year at sea level land at elevation land ..., 
 	 
 	 // 1778, ocean acidity, ...
