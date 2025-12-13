@@ -35,7 +35,7 @@ public interface Anthropocene extends Epoch, Series {
 	// lower boundary, consider, consumer (mass production) age, Ford model T, circa 1908, [WP](https://en.wikipedia.org/wiki/Ford_Model_T)
 	// lower boundary, consider, atomic age, 16 July 1945, Trinity test, [WS](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/) , 
 	// lower boundary, consider, ...
-	public static final String HOMO_INDUSTRIAL_STEAM_URI = "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/"; // Parliament, gov, UK
+	public static final String HOMO_STEAM_INDUSTRIAL_URI = "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/industrycommunity/collections/collections/steam-engines-act/"; // Parliament, gov, UK
 	
 	/**
 	 * References
@@ -56,7 +56,7 @@ public interface Anthropocene extends Epoch, Series {
 	 * Advanced Global Atmospheric Gases Experiment, [WS](https://www-air.larc.nasa.gov/missions/agage/), NASA's Atmospheric Composition Focus Area in Earth Science
 	 * Trends in atmospheric concentrations of CO2 (ppm), CH4 (ppb) and N2O (ppb), between 1800 and 2017, [WS](https://www.eea.europa.eu/en/analysis/maps-and-charts/atmospheric-concentration-of-carbon-dioxide-5), European Environment Agency, 1780, C02 280.1 ppm
 	 * Atmospheric CO2 over the last 1000 years: A high-resolution record from the West Antarctic Ice Sheet (WAIS) Divide ice core, [WS](https://doi.org/10.1029/2011GB004247), 26 May 2012 , AGU, Global Biochemical Cycles, 
-	 * CO2M (Carbon Dioxide Monitoring) Mission, [WS](https://www.eoportal.org/satellite-missions/co2m), Copernicus Anthropogenic Carbon Dioxide Monitoring (CO2M), European Space Agency (ESA)
+	 * CO2M (Carbon Dioxide Monitoring) Mission, [WS](https://www.eoportal.org/satellite-missions/co2m), Copernicus Anthropogenic Carbon Dioxide Monitoring (CO2M), European Space Agency (ES
 	 *
 	 * Annual concentration of atmospheric carbon dioxide, [WS](https://ourworldindata.org/grapher/co2-long-term-concentration), Our World Data, 
 	 * Global C02 Levels [WS](https://www.co2levels.org/), 1780, C02 280.1 ppm
@@ -92,13 +92,17 @@ public interface Anthropocene extends Epoch, Series {
 	 
 	 /**
 	  * Archaeological data
-	  *
+	  * 
 	  * Fire, 
 	  * fire, Homo neanderthalensis (human) made, pyrite & flint, 
 	  * Humans made fire 350,000 years earlier than previously thought, [WS](https://www.youtube.com/watch?v=8nlr7f9P_yo), 10 December 2025, BBC News
 	  * Earliest fire-making dating back 400,000 years unearthed in Suffolk, England, [WS](https://www.nhm.ac.uk/discover/news/2025/december/earliest-fire-making-dating-back-400-000-years-unearthed-in-suffolk-england.html), 10 December 2025, Josh Davis, Natural History Museum, retrieved 12 December 2025 17:34 UK
 	  * Davis, R., Hatch, M., Hoare, S. et al. Earliest evidence of making fire. Nature (2025). https://doi.org/10.1038/s41586-025-09855-6 , 
+	  * <todo; consider moving elsewhere, Holocene?, >
 	  */
-	  public static final String HOMO_EARLIEST_FIRE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire record 
-	  // <todo: source, some other official time date? record of same first fire evidence for homo genus, >
+	  public static final String HOMO_FIRE_MADE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire making record, fire made from tools, flint pyrite, Homo neanderthalensis
+	  // <todo: source, some other official time date? record of same first fire made with tools evidence for homo genus, >
+	  
+	  public static final String HOMO_FIRE_USE_URI = "to be sourced"; // paper for cited first homo genus fire use record, fire found in nature, Homo erectus? 
+	  // <todo: source, some other official time date? record of same first fire use from wild/nature evidence for homo genus, >
 }
