@@ -103,6 +103,6 @@ public interface Anthropocene extends Epoch, Series {
 	  public static final String HOMO_FIRE_MADE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire making record, fire made from tools, flint pyrite, Homo neanderthalensis
 	  // <todo: source, some other official time date? record of same first fire made with tools evidence for homo genus, >
 	  
-	  public static final String HOMO_FIRE_USE_URI = "to be sourced"; // paper for cited first homo genus fire use record, fire found in nature, Homo erectus? 
+	  public static final String HOMO_FIRE_USE_URI = "to be sourced"; // paper for cited first homo genus fire use record, fire found in nature, Homo erectus? circa 2 mya ?
 	  // <todo: source, some other official time date? record of same first fire use from wild/nature evidence for homo genus, >
 }
