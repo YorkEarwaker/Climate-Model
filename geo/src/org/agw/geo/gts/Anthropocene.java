@@ -64,22 +64,29 @@ public interface Anthropocene extends Epoch, Series {
 	 * Historic warships to be raided for missing climate data [WS](https://www.reading.ac.uk/news/2021/research-news/pr860780), 26 October 2021, University of Reading, Global Surface Air Temperature 
 	 * Global Surface Air Temperature, [WS](https://glosat.org/), GloSAT, 
 	 *
+	 * Ocean acidification, [WS](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification), NOAA, 
+	 *
 	 * <todo: source, for 1778, for a number of molecules in atmosphere (ice core data), in sediment, in other tbd, >
 	 * <todo: source, for 1778, temperature from various sources for example tree rings, other, ... for different locations, for different places, for different matter types in specific phase transitions,  >
 	 */
-	 // 1780, C02 280.1 ppm // current best base sourced, 
-	 // 1778, C02 xxx.x ppm // Carbon dioxide
+	 // Atmosphere
+	 // 1780, CO2 280.1 ppm // current best base sourced, 
+	 // 1778, CO2 xxx.x ppm // Carbon dioxide
 	 // 1778, CH4 xxx.x ppb // Methane
-	 // 1778, N20 xxx.x ppb // Nitrous oxide
+	 // 1778, N2O xxx.x ppb // Nitrous oxide
 	 // 1778, SF6 xxx.x ppb // Sulphur hexafluoride
 	 // 1778, XXX xxx.x ppm // ...
 	 // 1778, ...
 	 
+	 // Temperature
 	 // 1778, SST xxx.x C   // Sea Surface Temperature, average, 
 	 // 1778, SAT xxx.x C   // Surface Air Temperature, average, 
 	 // also other temperature values and metrics as they are deemed necessary, useful, diurnal temperature range (DTR) and other location specific metrics, boundary conditions highest/lowest at location at time of year at sea level land at elevation land ..., 
 	 
-	 // 1778, ocean acidity, ...
+	 // Oceans
+	 // 1778, ocean acidity, pH, // pH logarithmic scale used to specify the acidity or basicity of aqueous solutions, 
+	 // 1778, HCO3, xxx.x ppm/b // CO2 + H2O + CO_3^2, -> 2 HCO_3^-
+	 // ...
 	 
 	 /**
 	  * Archaeological data
