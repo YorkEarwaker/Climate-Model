@@ -25,8 +25,8 @@ public interface Anthropocene extends Epoch, Series {
 	/**
 	 * Definition
 	 */
-	public static final String CHRONOLOGICAL_UNIT = Age.NAME;
-	public static final String STRATIGRAPHIC_UNIT = Stage.NAME;
+	public static final String CHRONOLOGICAL_UNIT = Epoch.NAME;
+	public static final String STRATIGRAPHIC_UNIT = Series.NAME;
 	// <todo: upper boundary >
 	// <todo: lower boundary > 
 	// lower boundary, consider, ...
