@@ -84,8 +84,9 @@ public interface Anthropocene extends Epoch, Series {
 	 // also other temperature values and metrics as they are deemed necessary, useful, diurnal temperature range (DTR) and other location specific metrics, boundary conditions highest/lowest at location at time of year at sea level land at elevation land ..., 
 	 
 	 // Oceans
-	 // 1778, ocean acidity, pH, // pH logarithmic scale used to specify the acidity or basicity of aqueous solutions, 
-	 // 1778, HCO3, xxx.x ppm/b // CO2 + H2O + CO_3^2, -> 2 HCO_3^-
+	 // 1778, ocean acidity xxx.x pH     // pH logarithmic scale used to specify the acidity or basicity of aqueous solutions, 
+	 // 1778, CO2           xxx.x ppm/b  // CO2 in the Oceans, two thirds of anthropogenic CO2 is taken up by the Oceans 
+	 // 1778, HCO3,         xxx.x ppm/b  // CO2 + H2O + CO_3^2, -> 2 HCO_3^- 
 	 // ...
 	 
 	 /**
