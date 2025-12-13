@@ -64,11 +64,11 @@ public interface Anthropocene extends Epoch, Series {
 	 * <todo: source, for 1778, temperature from various sources for example tree rings, other, ... for different locations, for different places, for different matter types in specific phase transitions,  >
 	 */
 	 // 1780, C02 280.1 ppm // current best base sourced, 
-	 // 1778, C02 xxx.x ppm // Carbon Dioxide
+	 // 1778, C02 xxx.x ppm // Carbon dioxide
 	 // 1778, CH4 xxx.x ppb // Methane
-	 // 1778, N20 xxx.x ppb // Nitrogen Oxide
-	 // 1778, SF6 xxx.x ppb // Sulfuric 
-	 // 1778, XXX xxx.x ppm
+	 // 1778, N20 xxx.x ppb // Nitrous oxide
+	 // 1778, SF6 xxx.x ppb // Sulphur hexafluoride
+	 // 1778, XXX xxx.x ppm // ...
 	 // 1778, ...
 	 
 	 /**
