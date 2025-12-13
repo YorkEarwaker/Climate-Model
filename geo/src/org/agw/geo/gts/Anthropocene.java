@@ -9,7 +9,7 @@ package org.agw.geo.gts;
  * Anyone doubting that human (man) kind is responsible for extreme events in planetary geology is in Anthropocene denial
  * <todo: consider, relation to historiography periodization, extend modern age?, re stone age, bronze age, iron age, and so on. how to make this connection? steam age? atomic age? >
  */
-public interface Anthropocene extends Age, Stage {
+public interface Anthropocene extends Epoch, Series {
 	 
 	 /**
 	 * Information
