@@ -49,6 +49,18 @@ DONE
 Candidate for data pipeline, PoC/MVP
 * MINISFORUM UM790 Pro Mini PC Ryzen 9 7940HS Windows 11 Pro DDR5 NVME SSD PCIE4.0 WiFi 6E BT5.3 Desktop Gaming Computer, [WS](https://www.aliexpress.com/item/1005010017612484.html?src=bing&albch=shopping&acnt=135095331&albcp=555142847&albag=1309519503522429&slnk=&trgt=pla-4585444532323731&plac=&crea=81845024966400&netw=o&device=c&mtctp=e), AliExpress, 
 
+## Overview
+
+### Context Diagram
+```
+Work in Progress
+
+     Sensor                     IoT Platfrom           Data Platform                          Application Systems            Analytics         A N Other, tbc 
+     Data Origination           Data Capture           Data Pipeline; ETL, ...                NWP/NCP/EMA/...
+     Time Series                Ops Data?              Data Lake
+
+```
+
 ## References
 
 * Automatic weather station [WS](https://en.wikipedia.org/wiki/Automatic_weather_station)
