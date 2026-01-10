@@ -44,22 +44,29 @@ DONE
 * <done: intent to commit >
 * <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementaton in Java centric projects, Apache Celix for OSGi implenentation for C/C++ centric projects, >
 
+## Overview
+
+### Context Diagram
+Consider, 
+* collection, preparation, input, processing, output, and storage
+* collection, storage, sort, processing, analytics, presentation
+* Data, information, knowledge, action, result
+* ...
+
+```
+Work in Progress
+                                                                  NWP/NCP/EMA
+     Device               Station          Data Platform          Application Systems                       Pesentation
+     Sensor               IoT Platform     Data Sort/Prepare      Data Processig          Analytics OLAP    Reporting 
+     Data Origination     Data Capture     Data Organise          Data Consumer           Data Consumer     Data Consumer
+     Time Series          Ops Data?        Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse
+
+```
+
 ## Hardware
 
 Candidate for data pipeline, PoC/MVP
 * MINISFORUM UM790 Pro Mini PC Ryzen 9 7940HS Windows 11 Pro DDR5 NVME SSD PCIE4.0 WiFi 6E BT5.3 Desktop Gaming Computer, [WS](https://www.aliexpress.com/item/1005010017612484.html?src=bing&albch=shopping&acnt=135095331&albcp=555142847&albag=1309519503522429&slnk=&trgt=pla-4585444532323731&plac=&crea=81845024966400&netw=o&device=c&mtctp=e), AliExpress, 
-
-## Overview
-
-### Context Diagram
-```
-Work in Progress
-                                           Data Platform               Application Systems     
-     Sensor               IoT Platform     Data Pipeline               NWP/NCP/EMA/            Analytics OLAP    Reporting 
-     Data Origination     Data Capture     Data Organisation           Data Consumer           Data Consumer     Data Consumer
-     Time Series          Ops Data?        Data Lake                   Model Data              Data Mart         Data Warehouse
-
-```
 
 ## References
 
