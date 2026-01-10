@@ -54,10 +54,10 @@ Candidate for data pipeline, PoC/MVP
 ### Context Diagram
 ```
 Work in Progress
-
-     Sensor                     IoT Platfrom           Data Platform                          Application Systems            Analytics         A N Other, tbc 
-     Data Origination           Data Capture           Data Pipeline; ETL, ...                NWP/NCP/EMA/...
-     Time Series                Ops Data?              Data Lake
+                                           Data Platform               Application Systems     
+     Sensor               IoT Platform     Data Pipeline               NWP/NCP/EMA/            Analytics OLAP    Reporting 
+     Data Origination     Data Capture     Data Organisation           Data Consumer           Data Consumer     Data Consumer
+     Time Series          Ops Data?        Data Lake                   Model Data              Data Mart         Data Warehouse
 
 ```
 
