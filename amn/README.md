@@ -55,12 +55,12 @@ Consider,
 
 ```
 Work in Progress
-                                                                  NWP/NCP/EMA
+
      Device               Station          Data Platform          Application Systems                       Pesentation
      Sensor               IoT Platform     Data Sort/Prepare      Data Processig          Analytics OLAP    Reporting 
-     Data Origination     Data Capture     Data Organise          Data Consumer           Data Consumer     Data Consumer
+     Data Origination     Data Capture     Data Organisation      Data Consumer           Data Consumer     Data Consumer
      Time Series          Ops Data?        Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse
-
+                                                                  NWP/NCP/EMA
 ```
 
 ## Hardware
