@@ -45,23 +45,27 @@ DONE
 * <done: consider OSGi repository structure, as this will be an IIoT systems engineering; . Will not better allow for multiple code bases, OSGi for implementaton in Java centric projects, Apache Celix for OSGi implenentation for C/C++ centric projects, >
 
 ## Overview
+Data Life cycle
 
 ### Context Diagram
-Consider, 
-* collection, preparation, input, processing, output, and storage
-* collection, storage, sort, processing, analytics, presentation
-* Data, information, knowledge, action, result
-* ...
+The relationships are not entirely left to right sequential. There are loop backs and other feeds not shown.
 
 ```
 Work in Progress
 
-     Device               Station          Data Platform          Application Systems                       Pesentation
-     Sensor               IoT Platform     Data Sort/Prepare      Data Processig          Analytics OLAP    Reporting 
-     Data Origination     Data Capture     Data Organisation      Data Consumer           Data Consumer     Data Consumer
-     Time Series          Ops Data?        Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse
-                                                                  NWP/NCP/EMA
+     Device               Station              Data Platform          Application Systems     BI Analytics      Pesentation        Monitoring
+     Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          OLAP              Reporting          OpsMan|SysMan
+     Data Origination     Data Gathering       Data Organisation      Data Consumer           Data Consumer     Data Consumer      Telemtry Data
+     Time Series          Ops Data?            Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse     
+                                                                      NWP/NCP/EMA
 ```
+Consider, 
+* Data Management, Information Management, Knowledge Management, 
+* Information Theory, Information Science
+* collection, preparation, input, processing, output, and storage
+* collection, storage, sort, processing, analytics, presentation
+* Data, information, knowledge, action, result
+* ...
 
 ## Hardware
 
