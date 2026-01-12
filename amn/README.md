@@ -48,7 +48,7 @@ DONE
 Data Life cycle
 
 ### Context Diagram
-The relationships are not entirely left to right sequential. There are loop backs and other feeds not shown.
+The relationships are not entirely left to right sequential. There are loop backs and other feeds not shown. Event driven near real time data flows.
 
 ```
 Work in Progress
@@ -56,8 +56,8 @@ Work in Progress
      Device               Station              Data Platform          Application Systems     BI Analytics      Pesentation        Monitoring
      Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          OLAP              Reporting          OpsMan|SysMan
      Data Origination     Data Gathering       Data Organisation      Data Consumer           Data Consumer     Data Consumer      Telemtry Data
-     Time Series          Ops Data?            Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse     
-                                                                      NWP/NCP/EMA
+     Time Series          OpsData/SysData      Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse     Digital Twin
+                                                                      NWP/NCP/EEA/EMR/...
 ```
 Consider, 
 * Data Management, Information Management, Knowledge Management, 
