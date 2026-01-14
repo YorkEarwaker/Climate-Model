@@ -53,19 +53,26 @@ The relationships are not entirely left to right sequential. There are loop back
 ```
 Work in Progress
 
-     Device               Station              Data Platform          Application Systems     BI Analytics      Pesentation        Monitoring
-     Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          OLAP              Reporting          OpsMan|SysMan
+     Device               Station              Data Platform          Application Systems     Visualisation     Pesentation        Monitoring
+     Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          BI Analytics      Reporting          OpsMan|SysMan
      Data Origination     Data Gathering       Data Organisation      Data Consumer           Data Consumer     Data Consumer      Telemtry Data
      Time Series          OpsData/SysData      Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse     Digital Twin
-                                                                      NWP/NCP/EEA/EMR/...
+                                                                      NWP/NCP/EEA/EMR/...     OLAP
 ```
 Consider, 
 * Data Management, Information Management, Knowledge Management, 
 * Information Theory, Information Science
 * collection, preparation, input, processing, output, and storage
 * collection, storage, sort, processing, analytics, presentation
+* create, store, use, share, archive, and destroy
+* ask, prepare, process, analyze, share, and act
 * Data, information, knowledge, action, result
 * ...
+* accurate, complete, consistent, timely, valid, unique
+* representativeness, transparency, flexibility, auditability, integrity
+* creation,  collection, storage and maintenance, usage, sharing, archiving, deletion, re-use
+* capture, store, analyze, use, publish, archive, purge
+
 
 ## Hardware
 
