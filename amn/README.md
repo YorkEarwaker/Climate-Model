@@ -53,8 +53,8 @@ The relationships are not entirely left to right sequential. There are loop back
 ```
 Work in Progress
 
-     Device               Station              Data Platform          Application Systems     Visualisation     Pesentation        Monitoring
-     Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          BI Analytics      Reporting          OpsMan|SysMan
+     Device               Station              Data Platform          Application Systems     BI Analytics      Reporting          Monitoring
+     Sensor               IoT/SoS Platform     Data Sort/Prepare      Data Processig          Visualisation     Pesentation        OpsMan|SysMan
      Data Origination     Data Gathering       Data Organisation      Data Consumer           Data Consumer     Data Consumer      Telemtry Data
      Time Series          OpsData/SysData      Data Lake/Pipeline     Model Data              Data Mart         Data Warehouse     Digital Twin
                                                                       NWP/NCP/EEA/EMR/...     OLAP
