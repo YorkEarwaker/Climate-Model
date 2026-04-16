@@ -44,8 +44,12 @@ Note.
 TODO
 * <todo: iterate project, global warming model, gwm, first instance simple global warming model, look to Grantham and Met Office for guidance, Reading? others? >
 * <todo: iterate project, extreme event attribution, eea, look to Imperial and Met Office for guidance,  >
+* <todo: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. >
 * <todo: consider org\agw\phy for physics, climate, weather, extreme events, ... separate project? third party libraries to use? >
 * <todo: consider org\agw\ecn for economic impacts, use doughnut economics, un sdg's, climate scorpion actuarial risk, rea accounting ontology model,  >
+* <todo: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundry limits,  >
+* <todo: consider org\agw\eco package for ecological capability, eco impacts, >
+* <todo: consider is eco also bio? or seperate bio package? biome biosphere >
 * <todo: consider, org\agw\geo\gts refactor reference Ma value from SI capability org\agw\mth\siu package >
 * <todo: consider org\agw\geo jar for lib dir's of other modules geo-api.jar >
 * <todo: consider Manifest contents for META-INF? org\agw\geo jar geo-api.jar >
@@ -55,40 +59,28 @@ TODO
 * <todo: consider, civil engineering, org\agw\cng package related to but different from urban planning package, should this be \eng engineering and civil engineering appears as a sub package org\awg\eng\civ liking this approach better >
 * <todo: consider, seperate weather org\agw\wth package related to climate package there is likely to be a lot of overlap particularly in physics \phy and chemistry \chm >
 * <todo: consider, computation package for numerical analysis org\agw\cmp\nan not sure what this consists of other than research though? more investigation required, >
-* <todo: consider, public API, \api sub directory in all package structures, for example; org.agw.mph.api , ensure this approach would be OSGI compliant, see also module-info.java files, move this to Automation rep? > 
-* <todo: consider, API generic approach for; java, cpp, python, js/ts, . Is there any reason not to do org\..\..\api , move this to Automation rep? >
-* <todo: consider, table as diagram, supply side to demand side, physical world reality -> sensor measurement -> time series data -> climate model -> prediction . put diagram in \data README.md?>
+* <todo: consider, greenhouse gas removal GGR, carbon dioxide removal CDR, technology, geology, where to place this? >
 
 DONE
 * <done: first iteration readme, >
 * <done: first iteration repository wiki, >
-* <done: delete old java code directory structure, refactor as module based, for seperate code bases, >
+* <done: delete old java code directory structure, refactore as module based, for seperate code bases, >
 * <done: select first project, consider extreme weather attribution (Imperial), selected>
 * <done: consider org\agw\geo for geological capability, create Holocene >
 * <done: refactor Athropocene to gts i.e. org\agw\geo\gts geological time scale package, >
 * <done: consider org\agw\amn autonomous meteorological network, meteorological weather station units, inexpensive, deployed in the field for standard weather data recording, systems engineering, iot/iiot synoptic? >
 * <done: consider moving some of the org\agw\gwm AnthropogenicThingThing.java to other use case specific packages where appliable >
-* <done: consider org\agw\pbs package for planetary boundary science >
+* <done: consider org\agw\pbs package for planetary boundry science >
 * <done: consider, DRY, refactor eea EventModel, gwm ClimateModel, to inherit from common interface as they have duplicate method definitions, space(), time(), model() >
-* <done: consider, DRY, org\agw\mdl model based abstraction, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
+* <done: consider, DRY, org\agw\mdl model based abstration, Model interface for inheritance by eea EventModel & gwm ClimateModel, >
 * <done: consider, moving statistical things from Model mdl package to org\agw\mth\sta package, create new Mathematics projects >
-* <done: consider, separate climate org\agw\clm package to global warming model \gwm, moved AnthropogenicClimateChange and ClimateModel to this \clm package from \gwm, >
-* <done: consider, org\agw\mph medicine and public health, >
-* <done: consider org\agw\med for medical impacts, health effects, injuries, fatalities, epidemiology, a metric of severity, separate project? likely separate. best fit under \mph\med? >
-* <done: consider org\agw\eco package for ecological capability, eco impacts, waste management, externalisation ecological costs, public health costs, >
-* <done: consider, re \eco project, consider placing link to https://christopherquentin.com/ re sustainability, >
-* <done: consider org\agw\ele for extinction level events, anthropogenic climate change related, other non ACC events, tipping points, the event (straw) that broke the steady state Earth (camels back) scenarios, relation to all but particularly planet boundary limits,  >
-* <done: consider, is eco also bio? or seperate bio package? biome biosphere, outcome eco is bio>
-* <done: consider, biosphere biome project bio, org\agw\bio , to place sapiens, tree of life taxonomy? relate Sapiens to Anthropocene interface, Sapiens to appear elsewhere, likely \ant or \thp for anthropoloy? as Sapiens now inhabit almost all surface biomes/ecosystems in biosphere, >
-* <done: consider, chemistry project chm, org\agw\chm for chemical elements, periodic table, molecules like CO2, CH4, H2O, . fire to sit here or in phy? >
-* <done: consider, physics project phy, org\agw\phy for physics, physical constants, classical mechanics, other? >
-* <done: consider, enterprise integration project \ein, enterprise application integration patterns, start with connector, for data retrieval, consider use of relevant Apache foundation projects, This capability will be held in the Application repository, >
+* <done: consider, seperate climate org\agw\clm package to global warming model \gwm, moved AnthropogenicClimateChange and ClimateModel to this \clm package from \gwm, >
 
 ## References
 
 Management
 * Decision making, [WP](https://en.wikipedia.org/wiki/Decision-making)
-* Forecasting, WP
+* Forcasting, WP
 * Leadership, WP
 
 Formal semantics, linguistics
@@ -114,7 +106,6 @@ Digital logic gate, applied boolean algebra logic
 
 Reports
 * Climate Scorpion – the sting is in the tail, Introducing planetary solvency, March 2024, Sandy Trust, Oliver Bettis, Lucy Saye, Georgina Bedenham, Timothy M. Lenton, Jesse F. Abrams, Luke Kemp, © Institute and Faculty of Actuaries © University of Exeter, [PDF](https://actuaries.org.uk/media/g1qevrfa/climate-scorpion.pdf)
-* 9 things you can do about climate change, Simon Levey, Lottie Butler, 22 April 2019, Imperial, article [WS](https://www.imperial.ac.uk/news/190946/things-about-climate-change/), report [WS](https://www.imperial.ac.uk/stories/climate-action/)
 
 Papers
 * <todo: source paper >
