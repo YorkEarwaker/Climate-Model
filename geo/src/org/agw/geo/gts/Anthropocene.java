@@ -90,6 +90,15 @@ public interface Anthropocene extends Epoch, Series {
 	 // 1778, HCO3,         xxx.x ppm/b  // CO2 + H2O + CO_3^2, -> 2 HCO_3^- , take up of carbonate ions to bicarbonate ions hampers impedes calcification for organisms in ocean biome 
 	 // ...
 	 
+	 // circa 1850 measurements, 
+	 // The steam engine accelarated human powered change 
+	 // <todo: map change also from 1850 measurements, likely many more >
+	 // <todo: get references to papers cited by Helens Czerski in talk below, >
+	 // A Living Planet - Helen Czerski https://www.youtube.com/watch?v=FBJ7mo39Ftg,  29 May 2026 (published on YT), Gresham College
+	 // Life, missing since and because of human activitys
+	 // phosphorous, movement by humans, critical to life, exhausting supplies, no readily available phosphorous cascade of extinction events, mostly human? 
+	 // 
+	 
 	 /**
 	  * Archaeological data
 	  * 
