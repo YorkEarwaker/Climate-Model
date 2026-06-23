@@ -96,6 +96,7 @@ public interface Anthropocene extends Epoch, Series {
 	 // <todo: get references to papers cited by Helens Czerski in talk below, >
 	 // A Living Planet - Helen Czerski https://www.youtube.com/watch?v=FBJ7mo39Ftg,  29 May 2026 (published on YT), Gresham College
 	 // Life, missing since and because of human activitys
+	 // The IUCN Red List of Threatened Species https://www.iucnredlist.org/
 	 // phosphorous, movement by humans, critical to life, exhausting supplies, no readily available phosphorous cascade of extinction events, mostly human? 
 	 // 
 	 
