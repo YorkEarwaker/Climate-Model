@@ -110,6 +110,7 @@ public interface Anthropocene extends Epoch, Series {
 	  * Earliest fire-making dating back 400,000 years unearthed in Suffolk, England, [WS](https://www.nhm.ac.uk/discover/news/2025/december/earliest-fire-making-dating-back-400-000-years-unearthed-in-suffolk-england.html), 10 December 2025, Josh Davis, Natural History Museum, retrieved 12 December 2025 17:34 UK
 	  * Davis, R., Hatch, M., Hoare, S. et al. Earliest evidence of making fire. Nature (2025). https://doi.org/10.1038/s41586-025-09855-6 , 
 	  * <todo; consider moving elsewhere, Holocene?, >
+	  * The Real Story of Humans Is Stranger Than We Thought, https://www.youtube.com/watch?v=tdzytD39vFI, 10 June 2026, New Scientist, Alice Roberts, #homosapiens #humanevolution #homoerectus
 	  */
 	  public static final String HOMO_FIRE_MADE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire making record, fire made from tools, flint pyrite, Homo neanderthalensis
 	  // <todo: source, some other official time date? record of same first fire made with tools evidence for homo genus, >
