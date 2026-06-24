@@ -93,9 +93,14 @@ public interface Anthropocene extends Epoch, Series {
 	 // circa 1850 measurements, 
 	 // The steam engine accelerated human powered change, by 1850 vast uptick in human activity due to steam power which had previously not been possible with animal power (horse, human)  
 	 // <todo: consider, map change also from 1850 measurements, likely many more >
-	 // <todo: consider, get references to papers cited by Helens Czerski in talk below, >
-	 // <todo: consider, also copy some of this to /ele as mass extinction related? >
+	 // <todo: consider, get references to papers cited by Helens Czerski in talk below, wip not completed >
+	 // <todo: consider, also copy some of this to /ele as mass extinction related? yes definitely mass extinction related, >
 	 // A Living Planet - Helen Czerski https://www.youtube.com/watch?v=FBJ7mo39Ftg,  29 May 2026 (published on YT), Gresham College
+	 // The biomass distribution on Earth, [PDF](https://www.pnas.org/doi/pdf/10.1073/pnas.1711842115), [WS](https://www.pnas.org/doi/10.1073/pnas.1711842115), 2018, Yinon M. Bar, Rob Phillips, Ron Milo, PNAS, Proc. Natl. Acad. Sci. U.S.A. 115 (25) 6506-6511,
+	 // The Sizes of Life [WS](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0283020), 2023, Eden W. Tekwa, etal, PLOS One, 
+	 // A New View of The Tree of Life, [WS](https://doi.org/10.1038/nmicrobiol.2016.48), 2016, Hug, L., Baker, B., Anantharaman, K. et al. A new view of the tree of life. Nat Microbiol 1, 16048 
+	 // Global diversity and energy of animals shaping the Earth’s surface, [WS](https://doi.org/10.1073/pnas.2415104122), 2025, G.L. Harvey,Z. Khan,L.K. Albertson,M. Coombes,M.F. Johnson,S.P. Rice, & H.A. Viles, PNAS, Proc. Natl. Acad. Sci. U.S.A. 122 (8) e2415104122, 
+	 // The global ocean size spectrum from bacteria to whales, [WS](https://www.science.org/doi/10.1126/sciadv.abh3732), 2021, Ian A. Hatton et al. , Sci. Adv.7,eabh3732(2021).DOI:10.1126/sciadv.abh3732
 	 // Life, missing since and because of human activities
 	 // The IUCN Red List of Threatened Species https://www.iucnredlist.org/
 	 // phosphorous, movement by humans, critical to life, exhausting supplies, no readily available phosphorous cascade of extinction events, mostly human? 
