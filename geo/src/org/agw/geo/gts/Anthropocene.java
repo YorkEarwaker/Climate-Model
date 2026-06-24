@@ -101,7 +101,8 @@ public interface Anthropocene extends Epoch, Series {
 	 // A New View of The Tree of Life, [WS](https://doi.org/10.1038/nmicrobiol.2016.48), 2016, Hug, L., Baker, B., Anantharaman, K. et al. A new view of the tree of life. Nat Microbiol 1, 16048 
 	 // Global diversity and energy of animals shaping the Earth’s surface, [WS](https://doi.org/10.1073/pnas.2415104122), 2025, G.L. Harvey,Z. Khan,L.K. Albertson,M. Coombes,M.F. Johnson,S.P. Rice, & H.A. Viles, PNAS, Proc. Natl. Acad. Sci. U.S.A. 122 (8) e2415104122, 
 	 // The global ocean size spectrum from bacteria to whales, [WS](https://www.science.org/doi/10.1126/sciadv.abh3732), 2021, Ian A. Hatton et al. , Sci. Adv.7,eabh3732(2021).DOI:10.1126/sciadv.abh3732
-	 // The Sixth Mass Extinction: fact, fiction or speculation? [WS](https://doi.org/10.1111/brv.12816), (2022), Cowie, R.H., Bouchet, P. and Fontaine, B. . Biol Rev, 97: 640-663. 
+	 // The Sixth Mass Extinction: fact, fiction or speculation? [WS](https://doi.org/10.1111/brv.12816), (2022), Cowie, R.H., Bouchet, P. and Fontaine, B. . Biol Rev, 97: 640-663.
+	 // Human Perturbation of the Global Phosphorus Cycle: Changes and Consequences, [WS](https://pubs.acs.org/doi/10.1021/acs.est.7b03910), 2018, Zengwei Yuan, etal, Environ. Sci. Technol., 52, 5, 2438–2450  
 	 // Life, missing since and because of human activities
 	 // The IUCN Red List of Threatened Species https://www.iucnredlist.org/
 	 // phosphorous, movement by humans, critical to life, exhausting supplies, no readily available phosphorous cascade of extinction events, mostly human? 
