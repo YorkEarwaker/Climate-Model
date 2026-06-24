@@ -91,11 +91,12 @@ public interface Anthropocene extends Epoch, Series {
 	 // ...
 	 
 	 // circa 1850 measurements, 
-	 // The steam engine accelarated human powered change 
-	 // <todo: map change also from 1850 measurements, likely many more >
-	 // <todo: get references to papers cited by Helens Czerski in talk below, >
+	 // The steam engine accelerated human powered change, by 1850 vast uptick in human activity due to steam power which had previously not been possible with animal power (horse, human)  
+	 // <todo: consider, map change also from 1850 measurements, likely many more >
+	 // <todo: consider, get references to papers cited by Helens Czerski in talk below, >
+	 // <todo: consider, also copy some of this to /ele as mass extinction related? >
 	 // A Living Planet - Helen Czerski https://www.youtube.com/watch?v=FBJ7mo39Ftg,  29 May 2026 (published on YT), Gresham College
-	 // Life, missing since and because of human activitys
+	 // Life, missing since and because of human activities
 	 // The IUCN Red List of Threatened Species https://www.iucnredlist.org/
 	 // phosphorous, movement by humans, critical to life, exhausting supplies, no readily available phosphorous cascade of extinction events, mostly human? 
 	 // 
