@@ -111,6 +111,7 @@ public interface Anthropocene extends Epoch, Series {
 	  * Davis, R., Hatch, M., Hoare, S. et al. Earliest evidence of making fire. Nature (2025). https://doi.org/10.1038/s41586-025-09855-6 , 
 	  * <todo; consider moving elsewhere, Holocene?, >
 	  * The Real Story of Humans Is Stranger Than We Thought, https://www.youtube.com/watch?v=tdzytD39vFI, 10 June 2026, New Scientist, Alice Roberts, #homosapiens #humanevolution #homoerectus
+	  * ‘Humans are not evolved for modern life’ - evolutionary biologist Ella Al-Shamahi, https://www.youtube.com/watch?v=lj1Qu2Ik458, 15 Aug 2025, Channel 4, 
 	  */
 	  public static final String HOMO_FIRE_MADE_URI = "https://doi.org/10.1038/s41586-025-09855-6"; // paper for cited first homo genus fire making record, fire made from tools, flint pyrite, Homo neanderthalensis
 	  // <todo: source, some other official time date? record of same first fire made with tools evidence for homo genus, >
